@@ -1,0 +1,85 @@
+DEV = 88:c6:26:8e:c9:cd RSSI = -43
+Acceleration (m/s^2): (-1.854,1.967,-9.342)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (1.330,-6.711,2.441)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -42
+Acceleration (m/s^2): (-1.616,2.022,-9.592)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (3.001,-6.073,0.254)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -41
+Acceleration (m/s^2): (-1.408,1.908,-9.785)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (-0.796,-0.919,-0.026)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -41
+Acceleration (m/s^2): (-0.967,1.555,-9.616)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (-3.290,-7.796,0.586)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -39
+Acceleration (m/s^2): (-0.674,1.241,-9.960)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (-1.514,-9.013,3.395)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -41
+Acceleration (m/s^2): (-0.253,1.622,-9.801)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (-4.463,0.709,0.333)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -42
+Acceleration (m/s^2): (-0.014,1.686,-9.119)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (-5.224,3.220,7.333)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -39
+Acceleration (m/s^2): (-0.031,2.236,-9.358)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (4.734,-0.543,0.516)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -35
+Acceleration (m/s^2): (0.294,2.923,-9.433)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (12.408,-0.149,1.908)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -39
+Acceleration (m/s^2): (-0.021,4.439,-8.343)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (29.041,-5.556,2.389)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -48
+Acceleration (m/s^2): (0.059,7.755,-6.275)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (27.493,3.833,-6.291)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -39
+Acceleration (m/s^2): (-0.030,9.045,-4.109)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (12.250,-2.249,-8.120)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -33
+Acceleration (m/s^2): (0.103,9.240,-2.654)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (14.586,-4.078,-2.940)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -28
+Acceleration (m/s^2): (0.022,9.230,-1.496)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (15.251,-0.613,-2.223)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -28
+Acceleration (m/s^2): (0.114,9.760,-0.788)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (7.350,0.621,-2.021)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -28
+Acceleration (m/s^2): (0.098,9.446,-0.650)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (2.380,-3.728,0.814)
+Temperature: 24.500C
+DEV = 88:c6:26:8e:c9:cd RSSI = -29
+Acceleration (m/s^2): (0.159,9.813,-0.843)
+Magnetometer (gauss): (0.674,-0.247,0.166)
+Gyroscope (degrees/sec): (2.870,0.079,-0.289)
+Temperature: 24.500C
