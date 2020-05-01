@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from math import *
 
+filename = sys.argv[1]
+
 
 def plot_data(accel, mag, gyro, filename):
     # yellow = x
@@ -42,7 +44,6 @@ def plot_data(accel, mag, gyro, filename):
 
 
 def parse_data():
-    filename = sys.argv[1]
 
     rssi = []
     accel = []
@@ -112,7 +113,7 @@ def kalman(rssi, motions, rssi_sig, motion_sig):
 
     print("final: [{}, {}]".format(mu, sig))
     plt.plot(x)
-    plt.savefig("kalman.png")
+    plt.savefig(filename + "_kalman.png")
     plt.show()
     return mu, sig
 
