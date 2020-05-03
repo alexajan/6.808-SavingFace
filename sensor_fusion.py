@@ -176,7 +176,7 @@ def define_plane(vectors):
 def accelToDist(accel):
     vel = []
 
-    dt = 0.00125  # 1/800Hz
+    dt = 0.0025  # 1/400Hz
 
     v_x = 0
     v_y = 0
