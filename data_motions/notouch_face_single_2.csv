@@ -1,0 +1,4576 @@
+"Acceleration (m/s^2): (-1.370,0.757,-13.006)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (168.175,-30.205,243.460)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-2.619,1.227,-16.871)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (43.164,23.240,67.358)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-1.280,0.838,-12.141)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (179.769,69.099,-170.363)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.191,0.361,-9.547)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (-47.985,-9.476,88.200)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.169,0.340,-9.545)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (-1.164,-1.461,5.023)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.197,0.319,-9.613)"
+"Magnetometer (gauss): (1.001,-0.089,0.411)"
+"Gyroscope (degrees/sec): (1.479,0.175,-0.928)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.268,0.325,-9.611)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (1.278,1.059,-1.496)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.230,0.310,-9.614)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (1.041,1.601,-1.864)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.308,0.289,-9.648)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (0.954,2.091,-2.240)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.347,0.293,-9.662)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (0.910,2.328,-2.118)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.382,0.286,-9.716)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (1.103,2.590,-2.030)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.441,0.281,-9.733)"
+"Magnetometer (gauss): (1.004,-0.088,0.434)"
+"Gyroscope (degrees/sec): (1.383,2.555,-1.969)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.471,0.301,-9.780)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (1.243,2.319,-1.698)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.546,0.294,-9.811)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (0.385,1.549,-2.091)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.613,0.333,-9.897)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (1.400,2.065,-0.849)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.640,0.382,-9.915)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (1.776,1.689,-0.376)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.675,0.384,-9.968)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (2.048,0.954,0.131)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.687,0.402,-9.955)"
+"Magnetometer (gauss): (0.997,-0.076,0.436)"
+"Gyroscope (degrees/sec): (1.881,0.429,0.665)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.648,0.446,-9.971)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.196,-0.569,0.963)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.674,0.473,-10.022)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.363,-1.120,1.173)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.596,0.463,-9.989)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.424,-1.899,1.304)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.549,0.464,-9.988)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.686,-2.730,1.540)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.522,0.486,-9.938)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.809,-3.308,1.549)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.458,0.467,-9.916)"
+"Magnetometer (gauss): (1.002,-0.081,0.422)"
+"Gyroscope (degrees/sec): (2.730,-4.147,1.330)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.423,0.467,-9.849)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (2.835,-4.471,1.251)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.392,0.431,-9.808)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (3.273,-4.646,0.831)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.394,0.421,-9.744)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (3.325,-4.489,0.613)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.381,0.368,-9.672)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (3.518,-4.778,0.140)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.350,0.359,-9.620)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (3.955,-4.769,-0.420)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.367,0.324,-9.616)"
+"Magnetometer (gauss): (0.997,-0.086,0.417)"
+"Gyroscope (degrees/sec): (4.541,-4.480,-1.015)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.321,0.282,-9.566)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (5.171,-4.113,-1.759)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.340,0.291,-9.564)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (5.583,-3.596,-2.503)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.395,0.264,-9.574)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (6.143,-3.054,-3.150)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.417,0.266,-9.528)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (6.143,-2.380,-3.325)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.455,0.234,-9.550)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (6.834,-1.820,-3.579)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.479,0.242,-9.568)"
+"Magnetometer (gauss): (1.007,-0.082,0.434)"
+"Gyroscope (degrees/sec): (6.860,-1.208,-3.911)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.488,0.227,-9.606)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (6.816,-0.516,-4.016)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.524,0.232,-9.608)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (6.860,0.210,-3.806)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.560,0.231,-9.649)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (6.781,0.726,-3.920)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.559,0.233,-9.730)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (6.519,1.313,-3.658)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.597,0.229,-9.765)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (5.941,2.214,-3.255)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.599,0.195,-9.802)"
+"Magnetometer (gauss): (1.003,-0.087,0.425)"
+"Gyroscope (degrees/sec): (5.434,2.503,-3.203)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.686,0.241,-9.884)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (5.040,2.835,-3.141)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.689,0.240,-9.949)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (3.903,3.220,-2.791)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.731,0.279,-9.985)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (3.273,3.028,-2.581)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.733,0.284,-10.009)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (2.564,2.354,-2.389)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.745,0.287,-10.084)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (1.908,1.776,-2.258)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.651,0.263,-10.034)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (1.286,1.006,-2.109)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.656,0.247,-9.999)"
+"Magnetometer (gauss): (0.999,-0.077,0.432)"
+"Gyroscope (degrees/sec): (0.796,0.709,-1.881)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.633,0.257,-9.991)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (0.210,0.438,-1.715)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.571,0.272,-9.979)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-0.595,-2.205,-1.269)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.532,0.266,-9.998)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-1.698,-0.464,-1.260)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.498,0.244,-9.964)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-2.109,-1.260,-1.496)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.489,0.246,-9.891)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-2.406,-1.260,-1.470)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.456,0.199,-9.899)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-2.564,-1.418,-1.601)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.443,0.223,-9.841)"
+"Magnetometer (gauss): (1.000,-0.089,0.423)"
+"Gyroscope (degrees/sec): (-2.826,-1.610,-1.715)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.396,0.173,-9.830)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-2.590,-1.768,-1.925)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.412,0.171,-9.821)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-2.756,-1.820,-1.803)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.400,0.176,-9.788)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-2.686,-2.118,-2.048)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.407,0.139,-9.754)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-2.511,-2.056,-2.083)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.400,0.139,-9.758)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-1.995,-2.021,-2.118)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.414,0.118,-9.665)"
+"Magnetometer (gauss): (1.000,-0.096,0.423)"
+"Gyroscope (degrees/sec): (-1.514,-1.803,-2.021)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.377,0.112,-9.613)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (-0.840,-2.083,-1.943)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.398,0.104,-9.629)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (-0.700,-1.943,-1.995)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.398,0.116,-9.538)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (-0.201,-1.925,-1.829)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.370,0.109,-9.550)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (0.131,-1.794,-1.698)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.424,0.105,-9.578)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (0.534,-1.461,-1.663)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.387,0.106,-9.541)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (0.761,-1.050,-1.540)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.403,0.106,-9.543)"
+"Magnetometer (gauss): (1.003,-0.087,0.426)"
+"Gyroscope (degrees/sec): (1.304,-0.446,-1.391)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.476,0.095,-9.578)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (1.715,0.061,-0.796)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.532,0.128,-9.562)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (2.196,0.088,-0.481)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.552,0.159,-9.592)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (2.354,0.175,0.053)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.468,0.178,-9.754)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (2.651,-0.105,0.508)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.609,0.206,-9.743)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (3.299,-0.455,1.120)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.610,0.234,-9.776)"
+"Magnetometer (gauss): (1.001,-0.081,0.424)"
+"Gyroscope (degrees/sec): (3.623,-0.998,1.584)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.571,0.242,-9.803)"
+"Magnetometer (gauss): (1.001,-0.081,0.423)"
+"Gyroscope (degrees/sec): (3.806,-1.523,1.995)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.550,0.264,-9.806)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (3.999,-1.803,2.441)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.550,0.304,-9.793)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (4.200,-2.301,2.634)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.508,0.330,-9.849)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (3.859,-2.616,3.010)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.485,0.340,-9.824)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (3.850,-3.141,3.098)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.507,0.348,-9.840)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (3.990,-3.404,2.861)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.465,0.356,-9.890)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (3.701,-3.290,3.054)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.510,0.343,-9.858)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (3.771,-3.229,2.800)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.514,0.368,-9.910)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (3.413,-3.264,2.424)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.541,0.350,-9.843)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (3.351,-3.553,2.214)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.483,0.331,-9.825)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (2.931,-4.069,1.566)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.443,0.345,-9.808)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (2.363,-3.701,1.234)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.394,0.321,-9.796)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (2.240,-3.360,0.875)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.358,0.308,-9.712)"
+"Magnetometer (gauss): (1.006,-0.092,0.428)"
+"Gyroscope (degrees/sec): (2.144,-3.036,0.481)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.357,0.300,-9.677)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (2.048,-2.328,0.079)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.391,0.289,-9.653)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (1.785,-1.785,-0.280)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.355,0.266,-9.608)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (1.654,-0.901,-0.691)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.394,0.262,-9.649)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (1.313,0.035,-1.015)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.370,0.257,-9.626)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (1.409,0.840,-1.400)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.403,0.233,-9.724)"
+"Magnetometer (gauss): (1.002,-0.091,0.421)"
+"Gyroscope (degrees/sec): (1.488,1.278,-1.610)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.399,0.238,-9.763)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.304,1.969,-1.916)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.443,0.229,-9.793)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.426,1.978,-2.345)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.438,0.254,-9.785)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.470,2.336,-2.231)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.464,0.279,-9.868)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.811,2.450,-2.161)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.474,0.284,-9.888)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.619,2.153,-2.056)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.458,0.266,-9.916)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.435,1.899,-2.021)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.458,0.284,-9.990)"
+"Magnetometer (gauss): (1.002,-0.086,0.423)"
+"Gyroscope (degrees/sec): (1.628,1.531,-1.855)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.511,0.292,-10.028)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (1.181,1.348,-1.803)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.476,0.346,-10.053)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (1.251,1.155,-1.488)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.479,0.361,-10.128)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (1.085,0.901,-1.619)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.505,0.368,-10.146)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (0.674,0.604,-1.383)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.491,0.369,-10.158)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (0.403,0.271,-1.190)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.495,0.386,-10.157)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (0.044,-0.560,-1.225)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.480,0.398,-10.183)"
+"Magnetometer (gauss): (0.994,-0.090,0.414)"
+"Gyroscope (degrees/sec): (-0.429,-0.875,-1.146)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.471,0.407,-10.210)"
+"Magnetometer (gauss): (1.006,-0.095,0.426)"
+"Gyroscope (degrees/sec): (-0.770,-1.409,-0.971)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.480,0.428,-10.151)"
+"Magnetometer (gauss): (1.006,-0.095,0.426)"
+"Gyroscope (degrees/sec): (-1.059,-1.409,-0.919)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.486,0.436,-10.145)"
+"Magnetometer (gauss): (1.006,-0.095,0.426)"
+"Gyroscope (degrees/sec): (-1.234,-1.741,-0.840)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.506,0.580,-10.166)"
+"Magnetometer (gauss): (1.006,-0.095,0.426)"
+"Gyroscope (degrees/sec): (-1.549,-2.021,-0.910)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.394,0.430,-10.169)"
+"Magnetometer (gauss): (1.006,-0.095,0.426)"
+"Gyroscope (degrees/sec): (-1.243,-2.223,-0.805)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.282,0.418,-10.059)"
+"Magnetometer (gauss): (1.002,-0.091,0.422)"
+"Gyroscope (degrees/sec): (-0.473,-3.360,-0.333)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.181,0.427,-9.959)"
+"Magnetometer (gauss): (1.002,-0.091,0.422)"
+"Gyroscope (degrees/sec): (0.455,-3.579,-0.009)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.156,0.529,-9.986)"
+"Magnetometer (gauss): (1.002,-0.091,0.422)"
+"Gyroscope (degrees/sec): (1.768,-3.360,0.403)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.297,0.550,-10.015)"
+"Magnetometer (gauss): (1.001,-0.085,0.416)"
+"Gyroscope (degrees/sec): (3.071,-2.634,1.453)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.127,0.539,-10.016)"
+"Magnetometer (gauss): (1.001,-0.085,0.416)"
+"Gyroscope (degrees/sec): (4.069,-2.984,1.698)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.185,0.562,-10.071)"
+"Magnetometer (gauss): (1.001,-0.085,0.416)"
+"Gyroscope (degrees/sec): (4.498,-2.888,1.776)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.285,0.583,-10.133)"
+"Magnetometer (gauss): (1.001,-0.090,0.414)"
+"Gyroscope (degrees/sec): (4.716,-3.579,1.750)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.325,0.626,-10.131)"
+"Magnetometer (gauss): (1.001,-0.090,0.414)"
+"Gyroscope (degrees/sec): (4.200,-4.025,1.566)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.303,0.672,-10.085)"
+"Magnetometer (gauss): (1.001,-0.090,0.414)"
+"Gyroscope (degrees/sec): (3.334,-4.743,1.549)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.265,0.689,-10.067)"
+"Magnetometer (gauss): (0.999,-0.083,0.417)"
+"Gyroscope (degrees/sec): (2.931,-5.040,1.514)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.230,0.708,-9.981)"
+"Magnetometer (gauss): (0.999,-0.083,0.417)"
+"Gyroscope (degrees/sec): (2.476,-4.690,1.330)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.264,0.693,-9.907)"
+"Magnetometer (gauss): (0.999,-0.083,0.417)"
+"Gyroscope (degrees/sec): (2.660,-3.815,1.321)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.256,0.689,-9.843)"
+"Magnetometer (gauss): (1.010,-0.095,0.415)"
+"Gyroscope (degrees/sec): (3.308,-3.211,0.805)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.264,0.645,-9.885)"
+"Magnetometer (gauss): (1.010,-0.095,0.415)"
+"Gyroscope (degrees/sec): (4.419,-2.853,-0.018)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.335,0.634,-10.016)"
+"Magnetometer (gauss): (1.010,-0.095,0.415)"
+"Gyroscope (degrees/sec): (5.443,-2.931,-1.680)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.413,0.647,-10.044)"
+"Magnetometer (gauss): (1.006,-0.088,0.427)"
+"Gyroscope (degrees/sec): (6.055,-4.147,-3.404)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.355,0.619,-10.130)"
+"Magnetometer (gauss): (1.006,-0.088,0.427)"
+"Gyroscope (degrees/sec): (5.880,-4.664,-4.743)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.260,0.607,-10.116)"
+"Magnetometer (gauss): (1.006,-0.088,0.427)"
+"Gyroscope (degrees/sec): (4.393,-4.130,-5.679)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.190,0.540,-10.102)"
+"Magnetometer (gauss): (1.001,-0.090,0.422)"
+"Gyroscope (degrees/sec): (2.520,-3.535,-6.291)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.138,0.457,-10.073)"
+"Magnetometer (gauss): (1.001,-0.090,0.422)"
+"Gyroscope (degrees/sec): (0.289,-3.465,-6.536)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.121,0.401,-9.995)"
+"Magnetometer (gauss): (1.001,-0.090,0.422)"
+"Gyroscope (degrees/sec): (-0.761,-2.704,-7.018)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.180,0.330,-10.087)"
+"Magnetometer (gauss): (1.008,-0.091,0.421)"
+"Gyroscope (degrees/sec): (-0.236,-3.684,-7.184)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.273,0.220,-10.072)"
+"Magnetometer (gauss): (1.008,-0.091,0.421)"
+"Gyroscope (degrees/sec): (0.971,-4.743,-6.930)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.190,0.180,-10.003)"
+"Magnetometer (gauss): (1.008,-0.091,0.418)"
+"Gyroscope (degrees/sec): (1.505,-5.066,-6.186)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.435,0.177,-10.046)"
+"Magnetometer (gauss): (1.008,-0.092,0.418)"
+"Gyroscope (degrees/sec): (1.426,-5.749,-4.795)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.494,0.159,-10.014)"
+"Magnetometer (gauss): (1.008,-0.092,0.418)"
+"Gyroscope (degrees/sec): (0.779,-6.475,-3.255)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.488,0.092,-9.857)"
+"Magnetometer (gauss): (1.003,-0.095,0.427)"
+"Gyroscope (degrees/sec): (-0.175,-7.569,-1.908)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.486,0.052,-9.798)"
+"Magnetometer (gauss): (1.003,-0.095,0.427)"
+"Gyroscope (degrees/sec): (-0.324,-7.228,-0.840)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.511,0.059,-9.799)"
+"Magnetometer (gauss): (1.003,-0.095,0.427)"
+"Gyroscope (degrees/sec): (0.578,-8.496,0.866)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.563,0.059,-9.720)"
+"Magnetometer (gauss): (1.005,-0.088,0.418)"
+"Gyroscope (degrees/sec): (1.943,-10.098,1.698)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.493,0.106,-9.616)"
+"Magnetometer (gauss): (1.005,-0.088,0.418)"
+"Gyroscope (degrees/sec): (3.561,-10.159,2.765)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.437,0.127,-9.462)"
+"Magnetometer (gauss): (1.005,-0.088,0.423)"
+"Gyroscope (degrees/sec): (4.795,-8.881,4.051)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.421,0.126,-9.410)"
+"Magnetometer (gauss): (1.010,-0.093,0.423)"
+"Gyroscope (degrees/sec): (5.434,-6.825,5.303)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.405,0.175,-9.404)"
+"Magnetometer (gauss): (1.010,-0.093,0.423)"
+"Gyroscope (degrees/sec): (5.968,-4.900,5.924)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.313,0.183,-9.339)"
+"Magnetometer (gauss): (1.010,-0.093,0.404)"
+"Gyroscope (degrees/sec): (5.521,-3.378,5.723)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.272,0.269,-9.458)"
+"Magnetometer (gauss): (1.000,-0.102,0.404)"
+"Gyroscope (degrees/sec): (5.688,-2.004,4.778)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.263,0.299,-9.518)"
+"Magnetometer (gauss): (1.000,-0.102,0.404)"
+"Gyroscope (degrees/sec): (5.136,-1.531,3.255)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.226,0.360,-9.574)"
+"Magnetometer (gauss): (1.000,-0.102,0.404)"
+"Gyroscope (degrees/sec): (4.603,-1.085,2.091)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.181,0.418,-9.698)"
+"Magnetometer (gauss): (1.010,-0.105,0.416)"
+"Gyroscope (degrees/sec): (3.780,-0.779,1.015)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.171,0.488,-9.818)"
+"Magnetometer (gauss): (1.010,-0.105,0.416)"
+"Gyroscope (degrees/sec): (3.395,0.201,0.385)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.191,0.531,-9.843)"
+"Magnetometer (gauss): (1.010,-0.105,0.416)"
+"Gyroscope (degrees/sec): (2.476,0.639,-0.350)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.198,0.595,-9.860)"
+"Magnetometer (gauss): (1.010,-0.105,0.416)"
+"Gyroscope (degrees/sec): (1.636,0.070,-0.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.176,0.608,-9.965)"
+"Magnetometer (gauss): (1.007,-0.097,0.431)"
+"Gyroscope (degrees/sec): (1.024,-0.175,-1.286)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.157,0.654,-10.085)"
+"Magnetometer (gauss): (1.007,-0.097,0.431)"
+"Gyroscope (degrees/sec): (0.026,-0.910,-1.496)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.137,0.616,-10.061)"
+"Magnetometer (gauss): (1.007,-0.097,0.431)"
+"Gyroscope (degrees/sec): (-0.849,-2.231,-2.048)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.076,0.568,-10.016)"
+"Magnetometer (gauss): (1.007,-0.097,0.431)"
+"Gyroscope (degrees/sec): (-2.118,-3.045,-2.555)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.067,0.572,-9.986)"
+"Magnetometer (gauss): (1.015,-0.102,0.414)"
+"Gyroscope (degrees/sec): (-3.045,-3.964,-2.958)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.023,0.562,-9.929)"
+"Magnetometer (gauss): (1.015,-0.102,0.414)"
+"Gyroscope (degrees/sec): (-3.833,-2.275,-3.369)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.029,0.555,-9.873)"
+"Magnetometer (gauss): (1.015,-0.102,0.414)"
+"Gyroscope (degrees/sec): (-4.156,-4.760,-3.684)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.043,0.511,-9.757)"
+"Magnetometer (gauss): (1.015,-0.102,0.414)"
+"Gyroscope (degrees/sec): (-4.296,-4.839,-3.938)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.051,0.491,-9.695)"
+"Magnetometer (gauss): (1.002,-0.101,0.430)"
+"Gyroscope (degrees/sec): (-3.859,-5.206,-4.121)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.032,0.462,-9.661)"
+"Magnetometer (gauss): (1.002,-0.101,0.430)"
+"Gyroscope (degrees/sec): (-3.133,-4.708,-4.095)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.041,0.422,-9.607)"
+"Magnetometer (gauss): (1.002,-0.101,0.430)"
+"Gyroscope (degrees/sec): (-2.179,-4.139,-4.043)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.086,0.384,-9.578)"
+"Magnetometer (gauss): (1.002,-0.101,0.430)"
+"Gyroscope (degrees/sec): (-1.120,-3.955,-3.413)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.106,0.355,-9.538)"
+"Magnetometer (gauss): (1.038,-0.098,0.412)"
+"Gyroscope (degrees/sec): (0.044,-3.666,-2.529)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.170,0.340,-9.540)"
+"Magnetometer (gauss): (1.006,-0.098,0.412)"
+"Gyroscope (degrees/sec): (0.796,-3.273,-1.295)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.217,0.330,-9.610)"
+"Magnetometer (gauss): (1.006,-0.098,0.412)"
+"Gyroscope (degrees/sec): (1.628,-3.246,-0.665)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.204,0.328,-9.680)"
+"Magnetometer (gauss): (1.006,-0.098,0.412)"
+"Gyroscope (degrees/sec): (2.433,-3.273,-0.289)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.211,0.286,-9.667)"
+"Magnetometer (gauss): (1.006,-0.098,0.426)"
+"Gyroscope (degrees/sec): (2.730,-3.386,2.223)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.173,0.165,-9.700)"
+"Magnetometer (gauss): (1.005,-0.095,0.426)"
+"Gyroscope (degrees/sec): (3.159,-3.255,0.333)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.199,0.347,-9.709)"
+"Magnetometer (gauss): (1.005,-0.095,0.426)"
+"Gyroscope (degrees/sec): (3.001,-3.343,0.709)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.189,0.391,-9.780)"
+"Magnetometer (gauss): (1.005,-0.095,0.426)"
+"Gyroscope (degrees/sec): (3.054,-3.509,1.076)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.231,0.428,-9.807)"
+"Magnetometer (gauss): (1.005,-0.095,0.424)"
+"Gyroscope (degrees/sec): (2.818,-4.331,1.409)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.168,0.441,-9.800)"
+"Magnetometer (gauss): (1.006,-0.107,0.424)"
+"Gyroscope (degrees/sec): (2.774,-5.276,1.269)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.131,0.489,-9.784)"
+"Magnetometer (gauss): (1.006,-0.107,0.424)"
+"Gyroscope (degrees/sec): (2.354,-5.259,1.015)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.084,0.482,-9.787)"
+"Magnetometer (gauss): (1.006,-0.107,0.424)"
+"Gyroscope (degrees/sec): (2.328,-5.285,0.779)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.088,0.512,-9.779)"
+"Magnetometer (gauss): (1.006,-0.107,0.421)"
+"Gyroscope (degrees/sec): (2.249,-5.294,0.394)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.092,0.477,-9.715)"
+"Magnetometer (gauss): (1.012,-0.095,0.421)"
+"Gyroscope (degrees/sec): (2.433,-4.839,0.166)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.107,0.428,-9.708)"
+"Magnetometer (gauss): (1.012,-0.095,0.421)"
+"Gyroscope (degrees/sec): (2.065,-4.349,0.018)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.165,0.407,-9.747)"
+"Magnetometer (gauss): (1.012,-0.095,0.421)"
+"Gyroscope (degrees/sec): (2.301,-3.588,-0.543)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.173,0.394,-9.734)"
+"Magnetometer (gauss): (1.012,-0.095,0.421)"
+"Gyroscope (degrees/sec): (2.441,-3.728,-0.726)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.248,0.415,-9.764)"
+"Magnetometer (gauss): (1.007,-0.094,0.423)"
+"Gyroscope (degrees/sec): (2.345,-3.666,-1.138)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.242,0.398,-9.826)"
+"Magnetometer (gauss): (1.007,-0.094,0.423)"
+"Gyroscope (degrees/sec): (2.634,-3.771,-1.908)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.230,0.398,-9.879)"
+"Magnetometer (gauss): (1.007,-0.094,0.423)"
+"Gyroscope (degrees/sec): (2.249,-3.990,-1.838)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.204,0.416,-9.839)"
+"Magnetometer (gauss): (1.007,-0.094,0.423)"
+"Gyroscope (degrees/sec): (1.409,-4.043,-2.328)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.147,0.431,-9.821)"
+"Magnetometer (gauss): (1.013,-0.098,0.420)"
+"Gyroscope (degrees/sec): (0.551,-3.973,-2.153)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.071,0.437,-9.796)"
+"Magnetometer (gauss): (1.013,-0.098,0.420)"
+"Gyroscope (degrees/sec): (-0.691,-4.060,-2.240)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.043,0.422,-9.669)"
+"Magnetometer (gauss): (1.013,-0.098,0.420)"
+"Gyroscope (degrees/sec): (-2.013,-3.421,-1.899)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.054,0.398,-9.823)"
+"Magnetometer (gauss): (1.012,-0.106,0.424)"
+"Gyroscope (degrees/sec): (-2.485,-2.599,-1.951)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.054,0.388,-9.813)"
+"Magnetometer (gauss): (1.012,-0.106,0.424)"
+"Gyroscope (degrees/sec): (-3.133,-2.406,-1.663)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.110,0.373,-9.754)"
+"Magnetometer (gauss): (1.012,-0.106,0.424)"
+"Gyroscope (degrees/sec): (-2.896,-2.546,-1.671)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.156,0.353,-9.747)"
+"Magnetometer (gauss): (1.012,-0.106,0.424)"
+"Gyroscope (degrees/sec): (-2.546,-3.273,-1.313)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.153,0.357,-9.756)"
+"Magnetometer (gauss): (1.007,-0.099,0.426)"
+"Gyroscope (degrees/sec): (-2.266,-3.360,-0.954)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.135,0.407,-9.726)"
+"Magnetometer (gauss): (1.007,-0.099,0.426)"
+"Gyroscope (degrees/sec): (-1.811,-3.098,-0.236)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.134,0.427,-9.727)"
+"Magnetometer (gauss): (1.007,-0.099,0.426)"
+"Gyroscope (degrees/sec): (-1.540,-2.599,0.166)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.191,0.449,-9.698)"
+"Magnetometer (gauss): (1.007,-0.099,0.426)"
+"Gyroscope (degrees/sec): (-1.234,-2.345,0.901)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.201,0.436,-9.695)"
+"Magnetometer (gauss): (1.008,-0.094,0.413)"
+"Gyroscope (degrees/sec): (-0.989,-1.934,1.558)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.223,0.456,-9.629)"
+"Magnetometer (gauss): (1.008,-0.094,0.413)"
+"Gyroscope (degrees/sec): (-0.884,-2.021,1.995)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.193,0.457,-9.672)"
+"Magnetometer (gauss): (1.008,-0.094,0.413)"
+"Gyroscope (degrees/sec): (-0.586,-1.453,2.433)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.150,0.455,-9.635)"
+"Magnetometer (gauss): (1.008,-0.092,0.409)"
+"Gyroscope (degrees/sec): (-0.569,-0.560,2.721)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.150,0.460,-9.635)"
+"Magnetometer (gauss): (1.009,-0.092,0.409)"
+"Gyroscope (degrees/sec): (-0.254,-0.333,2.861)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.194,0.460,-9.681)"
+"Magnetometer (gauss): (1.009,-0.092,0.409)"
+"Gyroscope (degrees/sec): (0.088,0.158,2.599)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.223,0.499,-9.799)"
+"Magnetometer (gauss): (1.009,-0.092,0.409)"
+"Gyroscope (degrees/sec): (0.630,-0.394,2.065)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.206,0.491,-9.822)"
+"Magnetometer (gauss): (1.012,-0.098,0.420)"
+"Gyroscope (degrees/sec): (1.234,-0.376,1.190)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.273,0.482,-9.912)"
+"Magnetometer (gauss): (1.012,-0.098,0.420)"
+"Gyroscope (degrees/sec): (1.794,-0.919,0.910)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.361,0.533,-9.952)"
+"Magnetometer (gauss): (1.012,-0.098,0.420)"
+"Gyroscope (degrees/sec): (2.398,-2.039,0.613)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.434,0.567,-9.952)"
+"Magnetometer (gauss): (1.012,-0.098,0.420)"
+"Gyroscope (degrees/sec): (2.774,-4.121,0.499)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.417,0.629,-9.974)"
+"Magnetometer (gauss): (1.013,-0.106,0.423)"
+"Gyroscope (degrees/sec): (2.940,-5.985,0.630)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.340,0.761,-9.879)"
+"Magnetometer (gauss): (1.013,-0.106,0.423)"
+"Gyroscope (degrees/sec): (2.336,-7.516,0.814)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.010,0.614,-9.814)"
+"Magnetometer (gauss): (1.013,-0.106,0.423)"
+"Gyroscope (degrees/sec): (1.278,-7.350,0.770)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.013,0.540,-9.783)"
+"Magnetometer (gauss): (1.013,-0.106,0.423)"
+"Gyroscope (degrees/sec): (0.245,-4.524,0.499)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.136,0.445,-9.723)"
+"Magnetometer (gauss): (1.014,-0.097,0.428)"
+"Gyroscope (degrees/sec): (-0.543,-4.515,0.271)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.224,0.369,-9.738)"
+"Magnetometer (gauss): (1.014,-0.097,0.428)"
+"Gyroscope (degrees/sec): (-0.788,-2.459,0.315)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.227,0.310,-9.744)"
+"Magnetometer (gauss): (1.014,-0.097,0.428)"
+"Gyroscope (degrees/sec): (-0.936,0.061,0.674)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.281,0.273,-9.752)"
+"Magnetometer (gauss): (1.014,-0.097,0.428)"
+"Gyroscope (degrees/sec): (-0.691,2.931,1.645)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.359,0.382,-9.858)"
+"Magnetometer (gauss): (1.016,-0.090,0.422)"
+"Gyroscope (degrees/sec): (-1.120,4.550,1.558)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.318,0.435,-10.049)"
+"Magnetometer (gauss): (1.016,-0.090,0.422)"
+"Gyroscope (degrees/sec): (-0.368,3.456,0.866)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.275,0.433,-10.172)"
+"Magnetometer (gauss): (1.016,-0.090,0.422)"
+"Gyroscope (degrees/sec): (0.411,2.275,0.114)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.019,0.416,-10.343)"
+"Magnetometer (gauss): (1.016,-0.097,0.419)"
+"Gyroscope (degrees/sec): (0.499,0.823,-0.849)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.086,0.453,-10.423)"
+"Magnetometer (gauss): (1.020,-0.097,0.419)"
+"Gyroscope (degrees/sec): (0.639,-1.435,-1.453)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.004,0.447,-10.433)"
+"Magnetometer (gauss): (1.020,-0.097,0.419)"
+"Gyroscope (degrees/sec): (-0.473,-3.719,-1.514)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.049,0.444,-10.430)"
+"Magnetometer (gauss): (1.020,-0.097,0.419)"
+"Gyroscope (degrees/sec): (-2.083,-4.821,-0.980)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.050,0.435,-10.438)"
+"Magnetometer (gauss): (1.020,-0.097,0.419)"
+"Gyroscope (degrees/sec): (-3.404,-5.460,2.231)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.063,0.424,-10.409)"
+"Magnetometer (gauss): (1.016,-0.099,0.425)"
+"Gyroscope (degrees/sec): (-5.198,-6.099,0.901)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.062,0.422,-10.357)"
+"Magnetometer (gauss): (1.016,-0.099,0.425)"
+"Gyroscope (degrees/sec): (-6.729,-6.598,1.636)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.156,0.416,-10.274)"
+"Magnetometer (gauss): (1.016,-0.099,0.425)"
+"Gyroscope (degrees/sec): (-7.849,-7.053,2.030)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.249,0.360,-10.213)"
+"Magnetometer (gauss): (1.016,-0.099,0.425)"
+"Gyroscope (degrees/sec): (-7.971,-6.423,2.380)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.348,0.289,-10.015)"
+"Magnetometer (gauss): (1.014,-0.102,0.429)"
+"Gyroscope (degrees/sec): (-7.971,-5.408,2.564)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.355,0.265,-9.979)"
+"Magnetometer (gauss): (1.014,-0.102,0.429)"
+"Gyroscope (degrees/sec): (-7.184,-3.413,3.649)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.318,0.278,-10.145)"
+"Magnetometer (gauss): (1.014,-0.102,0.429)"
+"Gyroscope (degrees/sec): (-5.023,-2.529,4.681)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.243,0.279,-10.327)"
+"Magnetometer (gauss): (1.014,-0.101,0.419)"
+"Gyroscope (degrees/sec): (-2.844,-2.564,5.215)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.145,0.275,-10.469)"
+"Magnetometer (gauss): (1.016,-0.101,0.419)"
+"Gyroscope (degrees/sec): (0.193,-4.620,5.163)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.054,0.294,-10.528)"
+"Magnetometer (gauss): (1.016,-0.101,0.419)"
+"Gyroscope (degrees/sec): (2.503,-8.216,4.471)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.060,0.318,-10.568)"
+"Magnetometer (gauss): (1.016,-0.101,0.419)"
+"Gyroscope (degrees/sec): (3.675,-12.723,3.701)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.017,0.309,-10.574)"
+"Magnetometer (gauss): (1.017,-0.091,0.433)"
+"Gyroscope (degrees/sec): (3.763,-15.741,3.220)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (-0.036,0.356,-10.409)"
+"Magnetometer (gauss): (1.017,-0.091,0.433)"
+"Gyroscope (degrees/sec): (2.914,-18.279,3.115)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.008,0.360,-10.227)"
+"Magnetometer (gauss): (1.017,-0.091,0.433)"
+"Gyroscope (degrees/sec): (0.438,-19.688,3.763)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.053,0.374,-9.936)"
+"Magnetometer (gauss): (1.017,-0.091,0.433)"
+"Gyroscope (degrees/sec): (-3.176,-19.941,5.303)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.179,0.403,-9.762)"
+"Magnetometer (gauss): (1.021,-0.094,0.429)"
+"Gyroscope (degrees/sec): (-6.650,-19.373,6.081)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.335,0.409,-9.631)"
+"Magnetometer (gauss): (1.021,-0.094,0.429)"
+"Gyroscope (degrees/sec): (-7.753,-17.903,6.326)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.485,0.342,-9.510)"
+"Magnetometer (gauss): (1.021,-0.094,0.429)"
+"Gyroscope (degrees/sec): (-6.580,-15.829,6.370)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.575,0.355,-9.485)"
+"Magnetometer (gauss): (1.022,-0.090,0.419)"
+"Gyroscope (degrees/sec): (-3.526,-14.805,5.714)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.808,0.363,-9.580)"
+"Magnetometer (gauss): (1.022,-0.090,0.419)"
+"Gyroscope (degrees/sec): (0.411,-12.950,4.620)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.900,0.411,-9.615)"
+"Magnetometer (gauss): (1.022,-0.090,0.419)"
+"Gyroscope (degrees/sec): (3.719,-10.955,3.211)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.869,0.489,-9.787)"
+"Magnetometer (gauss): (1.017,-0.098,0.421)"
+"Gyroscope (degrees/sec): (5.416,-8.838,1.418)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.669,0.559,-9.866)"
+"Magnetometer (gauss): (1.017,-0.098,0.421)"
+"Gyroscope (degrees/sec): (5.163,-6.694,0.621)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.468,0.597,-10.002)"
+"Magnetometer (gauss): (1.017,-0.098,0.421)"
+"Gyroscope (degrees/sec): (3.693,-6.939,0.053)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.456,0.611,-10.101)"
+"Magnetometer (gauss): (1.017,-0.092,0.436)"
+"Gyroscope (degrees/sec): (0.963,-7.324,0.026)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.390,0.659,-10.141)"
+"Magnetometer (gauss): (1.017,-0.092,0.436)"
+"Gyroscope (degrees/sec): (-1.864,-8.348,0.061)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.348,0.608,-10.123)"
+"Magnetometer (gauss): (1.021,-0.089,0.431)"
+"Gyroscope (degrees/sec): (-3.483,-10.430,0.201)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.384,0.549,-9.988)"
+"Magnetometer (gauss): (1.021,-0.089,0.431)"
+"Gyroscope (degrees/sec): (-4.401,-12.714,0.385)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.424,0.559,-9.796)"
+"Magnetometer (gauss): (1.021,-0.089,0.431)"
+"Gyroscope (degrees/sec): (-4.506,-14.271,0.254)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.327,0.539,-9.688)"
+"Magnetometer (gauss): (1.022,-0.098,0.424)"
+"Gyroscope (degrees/sec): (-3.833,-12.696,0.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.464,0.468,-9.516)"
+"Magnetometer (gauss): (1.022,-0.098,0.424)"
+"Gyroscope (degrees/sec): (-3.500,-9.538,0.184)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.401,0.441,-9.505)"
+"Magnetometer (gauss): (1.022,-0.098,0.424)"
+"Gyroscope (degrees/sec): (-2.651,-7.044,0.201)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.273,0.416,-9.602)"
+"Magnetometer (gauss): (1.024,-0.091,0.427)"
+"Gyroscope (degrees/sec): (-1.453,-7.149,0.254)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.275,0.347,-9.548)"
+"Magnetometer (gauss): (1.024,-0.091,0.427)"
+"Gyroscope (degrees/sec): (0.009,-9.118,-0.193)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.342,0.260,-9.460)"
+"Magnetometer (gauss): (1.024,-0.091,0.427)"
+"Gyroscope (degrees/sec): (0.936,-9.056,-0.219)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.337,0.270,-9.387)"
+"Magnetometer (gauss): (1.021,-0.098,0.429)"
+"Gyroscope (degrees/sec): (1.129,-7.823,0.648)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.324,0.263,-9.348)"
+"Magnetometer (gauss): (1.021,-0.098,0.429)"
+"Gyroscope (degrees/sec): (1.426,-6.423,1.733)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.278,0.278,-9.283)"
+"Magnetometer (gauss): (1.021,-0.098,0.429)"
+"Gyroscope (degrees/sec): (2.144,-5.276,2.905)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.234,0.247,-9.240)"
+"Magnetometer (gauss): (1.026,-0.095,0.415)"
+"Gyroscope (degrees/sec): (3.684,-4.673,4.454)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.269,0.217,-9.235)"
+"Magnetometer (gauss): (1.026,-0.095,0.415)"
+"Gyroscope (degrees/sec): (5.486,-4.095,5.836)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.269,0.233,-9.186)"
+"Magnetometer (gauss): (1.026,-0.095,0.415)"
+"Gyroscope (degrees/sec): (8.076,-3.631,6.554)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.278,0.259,-9.226)"
+"Magnetometer (gauss): (1.024,-0.099,0.427)"
+"Gyroscope (degrees/sec): (10.281,-2.398,7.009)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.268,0.270,-9.348)"
+"Magnetometer (gauss): (1.024,-0.099,0.427)"
+"Gyroscope (degrees/sec): (12.014,-1.444,7.368)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.260,0.309,-9.429)"
+"Magnetometer (gauss): (1.024,-0.099,0.427)"
+"Gyroscope (degrees/sec): (13.720,-1.085,7.481)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.308,0.379,-9.549)"
+"Magnetometer (gauss): (1.024,-0.099,0.427)"
+"Gyroscope (degrees/sec): (14.779,-1.085,6.729)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.350,0.435,-9.690)"
+"Magnetometer (gauss): (1.026,-0.102,0.428)"
+"Gyroscope (degrees/sec): (14.735,-0.551,5.408)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.327,0.525,-9.820)"
+"Magnetometer (gauss): (1.026,-0.102,0.428)"
+"Gyroscope (degrees/sec): (14.341,0.210,4.113)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.280,0.572,-9.834)"
+"Magnetometer (gauss): (1.026,-0.102,0.428)"
+"Gyroscope (degrees/sec): (13.808,0.700,2.975)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.236,0.562,-9.875)"
+"Magnetometer (gauss): (1.024,-0.108,0.432)"
+"Gyroscope (degrees/sec): (13.038,0.123,1.803)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.234,0.568,-9.798)"
+"Magnetometer (gauss): (1.024,-0.108,0.432)"
+"Gyroscope (degrees/sec): (12.600,-0.219,1.391)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.278,0.567,-9.775)"
+"Magnetometer (gauss): (1.024,-0.108,0.432)"
+"Gyroscope (degrees/sec): (11.909,0.385,0.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.300,0.570,-9.757)"
+"Magnetometer (gauss): (1.024,-0.108,0.432)"
+"Gyroscope (degrees/sec): (11.585,1.960,0.683)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.355,0.555,-9.720)"
+"Magnetometer (gauss): (1.024,-0.104,0.420)"
+"Gyroscope (degrees/sec): (12.171,3.448,0.814)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.326,0.490,-9.706)"
+"Magnetometer (gauss): (1.024,-0.104,0.420)"
+"Gyroscope (degrees/sec): (12.810,6.370,1.706)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.348,0.447,-9.726)"
+"Magnetometer (gauss): (1.024,-0.104,0.420)"
+"Gyroscope (degrees/sec): (14.228,10.045,3.430)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.376,0.441,-9.737)"
+"Magnetometer (gauss): (1.024,-0.105,0.431)"
+"Gyroscope (degrees/sec): (15.803,14.893,4.638)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.277,0.529,-9.788)"
+"Magnetometer (gauss): (1.019,-0.105,0.431)"
+"Gyroscope (degrees/sec): (17.544,19.679,5.941)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.157,0.637,-10.064)"
+"Magnetometer (gauss): (1.019,-0.105,0.431)"
+"Gyroscope (degrees/sec): (19.241,20.458,6.405)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.023,0.744,-10.336)"
+"Magnetometer (gauss): (1.019,-0.105,0.431)"
+"Gyroscope (degrees/sec): (20.431,17.561,5.723)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.049,0.820,-10.653)"
+"Magnetometer (gauss): (1.023,-0.112,0.420)"
+"Gyroscope (degrees/sec): (20.108,11.751,3.973)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (-0.019,0.830,-10.784)"
+"Magnetometer (gauss): (1.023,-0.112,0.420)"
+"Gyroscope (degrees/sec): (19.058,5.976,1.881)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.151,0.859,-10.822)"
+"Magnetometer (gauss): (1.023,-0.112,0.420)"
+"Gyroscope (degrees/sec): (17.264,-1.663,-0.849)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.130,0.898,-10.803)"
+"Magnetometer (gauss): (1.023,-0.112,0.420)"
+"Gyroscope (degrees/sec): (13.379,-5.819,-3.281)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.305,0.964,-10.555)"
+"Magnetometer (gauss): (1.021,-0.117,0.433)"
+"Gyroscope (degrees/sec): (10.430,-10.719,-4.428)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.423,0.983,-10.403)"
+"Magnetometer (gauss): (1.021,-0.117,0.433)"
+"Gyroscope (degrees/sec): (7.376,-12.346,-5.670)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.523,1.047,-10.227)"
+"Magnetometer (gauss): (1.021,-0.117,0.433)"
+"Gyroscope (degrees/sec): (4.585,-12.688,-6.230)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.629,1.026,-10.067)"
+"Magnetometer (gauss): (1.021,-0.117,0.433)"
+"Gyroscope (degrees/sec): (2.896,-10.946,-6.169)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.639,0.994,-9.898)"
+"Magnetometer (gauss): (1.028,-0.110,0.410)"
+"Gyroscope (degrees/sec): (2.021,-8.890,-6.396)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.666,0.998,-9.721)"
+"Magnetometer (gauss): (1.028,-0.110,0.410)"
+"Gyroscope (degrees/sec): (1.855,-7.858,-6.930)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.762,0.906,-9.636)"
+"Magnetometer (gauss): (1.028,-0.110,0.410)"
+"Gyroscope (degrees/sec): (4.323,-6.309,-7.551)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.808,0.843,-9.552)"
+"Magnetometer (gauss): (1.028,-0.110,0.410)"
+"Gyroscope (degrees/sec): (3.089,-4.288,-7.875)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.815,0.845,-9.612)"
+"Magnetometer (gauss): (1.025,-0.112,0.415)"
+"Gyroscope (degrees/sec): (4.751,-2.188,-8.628)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.699,0.894,-9.784)"
+"Magnetometer (gauss): (1.025,-0.112,0.415)"
+"Gyroscope (degrees/sec): (6.449,-2.126,-10.063)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.637,0.912,-9.904)"
+"Magnetometer (gauss): (1.025,-0.112,0.415)"
+"Gyroscope (degrees/sec): (8.094,-3.640,-11.148)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.513,0.926,-10.117)"
+"Magnetometer (gauss): (1.025,-0.112,0.415)"
+"Gyroscope (degrees/sec): (9.380,-5.180,-12.399)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.363,0.979,-10.274)"
+"Magnetometer (gauss): (1.030,-0.115,0.410)"
+"Gyroscope (degrees/sec): (10.299,-8.444,-13.423)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.289,1.010,-10.379)"
+"Magnetometer (gauss): (1.030,-0.115,0.410)"
+"Gyroscope (degrees/sec): (9.905,-13.011,-14.105)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.298,1.010,-10.342)"
+"Magnetometer (gauss): (1.030,-0.115,0.410)"
+"Gyroscope (degrees/sec): (8.593,-16.704,-14.648)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.368,1.039,-10.241)"
+"Magnetometer (gauss): (1.030,-0.115,0.410)"
+"Gyroscope (degrees/sec): (6.003,-19.766,-14.455)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.479,1.053,-10.129)"
+"Magnetometer (gauss): (1.031,-0.132,0.415)"
+"Gyroscope (degrees/sec): (3.369,-21.394,-14.158)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.545,1.058,-10.007)"
+"Magnetometer (gauss): (1.031,-0.132,0.415)"
+"Gyroscope (degrees/sec): (-0.149,-21.123,-13.405)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.614,1.034,-9.889)"
+"Magnetometer (gauss): (1.031,-0.132,0.415)"
+"Gyroscope (degrees/sec): (-3.973,-19.976,-12.364)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.659,0.931,-9.736)"
+"Magnetometer (gauss): (1.031,-0.132,0.415)"
+"Gyroscope (degrees/sec): (-6.834,-18.086,-11.751)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.744,0.825,-9.548)"
+"Magnetometer (gauss): (1.039,-0.107,0.426)"
+"Gyroscope (degrees/sec): (-7.403,-16.152,-10.903)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.809,0.794,-9.475)"
+"Magnetometer (gauss): (1.039,-0.107,0.426)"
+"Gyroscope (degrees/sec): (-7.079,-13.685,-10.325)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.912,0.733,-9.328)"
+"Magnetometer (gauss): (1.039,-0.107,0.426)"
+"Gyroscope (degrees/sec): (-5.451,-10.203,-10.325)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.949,0.693,-9.369)"
+"Magnetometer (gauss): (1.039,-0.109,0.424)"
+"Gyroscope (degrees/sec): (-2.993,-5.381,-10.054)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.879,0.785,-9.402)"
+"Magnetometer (gauss): (1.039,-0.109,0.424)"
+"Gyroscope (degrees/sec): (-0.753,-2.634,-9.984)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.924,0.776,-9.429)"
+"Magnetometer (gauss): (1.039,-0.109,0.424)"
+"Gyroscope (degrees/sec): (1.671,-0.420,-10.054)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.796,0.764,-9.525)"
+"Magnetometer (gauss): (1.044,-0.100,0.415)"
+"Gyroscope (degrees/sec): (2.844,2.695,-9.993)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.742,0.773,-9.732)"
+"Magnetometer (gauss): (1.044,-0.100,0.415)"
+"Gyroscope (degrees/sec): (2.441,5.661,-8.820)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.680,0.720,-9.860)"
+"Magnetometer (gauss): (1.044,-0.100,0.415)"
+"Gyroscope (degrees/sec): (1.155,6.344,-7.543)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.598,0.744,-10.076)"
+"Magnetometer (gauss): (1.046,-0.105,0.411)"
+"Gyroscope (degrees/sec): (-0.394,5.714,-6.020)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.570,0.711,-10.089)"
+"Magnetometer (gauss): (1.046,-0.105,0.411)"
+"Gyroscope (degrees/sec): (-3.168,4.226,-3.789)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.570,0.708,-10.195)"
+"Magnetometer (gauss): (1.046,-0.105,0.411)"
+"Gyroscope (degrees/sec): (-5.828,2.170,-1.978)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.626,0.741,-10.142)"
+"Magnetometer (gauss): (1.046,-0.105,0.411)"
+"Gyroscope (degrees/sec): (-8.225,0.000,0.866)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.834,0.721,-9.946)"
+"Magnetometer (gauss): (1.043,-0.104,0.419)"
+"Gyroscope (degrees/sec): (-9.056,-0.219,3.360)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.910,0.750,-9.864)"
+"Magnetometer (gauss): (1.043,-0.104,0.419)"
+"Gyroscope (degrees/sec): (-8.181,2.030,5.950)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.903,0.765,-9.784)"
+"Magnetometer (gauss): (1.008,-0.115,0.423)"
+"Gyroscope (degrees/sec): (-5.626,4.130,7.770)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.850,0.761,-9.691)"
+"Magnetometer (gauss): (1.035,-0.115,0.423)"
+"Gyroscope (degrees/sec): (-1.313,5.906,9.293)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.656,0.867,-9.927)"
+"Magnetometer (gauss): (1.035,-0.115,0.423)"
+"Gyroscope (degrees/sec): (6.633,6.729,10.063)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.505,0.992,-10.055)"
+"Magnetometer (gauss): (1.035,-0.115,0.423)"
+"Gyroscope (degrees/sec): (10.876,4.095,10.071)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.554,0.968,-10.140)"
+"Magnetometer (gauss): (1.034,-0.104,0.429)"
+"Gyroscope (degrees/sec): (17.701,-1.916,9.433)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.647,1.013,-10.106)"
+"Magnetometer (gauss): (1.034,-0.104,0.429)"
+"Gyroscope (degrees/sec): (19.539,-8.181,8.050)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.739,1.056,-10.170)"
+"Magnetometer (gauss): (1.034,-0.104,0.429)"
+"Gyroscope (degrees/sec): (20.991,-11.428,6.493)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.801,1.086,-10.150)"
+"Magnetometer (gauss): (1.038,-0.109,0.427)"
+"Gyroscope (degrees/sec): (21.271,-13.606,4.874)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.796,1.174,-10.136)"
+"Magnetometer (gauss): (1.038,-0.109,0.427)"
+"Gyroscope (degrees/sec): (19.390,-15.479,2.371)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.875,1.188,-10.184)"
+"Magnetometer (gauss): (1.036,-0.127,0.407)"
+"Gyroscope (degrees/sec): (18.008,-15.873,1.146)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.018,1.155,-10.130)"
+"Magnetometer (gauss): (1.036,-0.127,0.407)"
+"Gyroscope (degrees/sec): (17.404,-15.365,-0.236)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.961,1.074,-10.438)"
+"Magnetometer (gauss): (1.036,-0.127,0.407)"
+"Gyroscope (degrees/sec): (16.293,-16.345,-2.678)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.851,1.269,-10.618)"
+"Magnetometer (gauss): (1.040,-0.117,0.415)"
+"Gyroscope (degrees/sec): (15.531,-19.845,-5.548)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.916,1.292,-10.574)"
+"Magnetometer (gauss): (1.040,-0.117,0.415)"
+"Gyroscope (degrees/sec): (14.289,-23.293,-7.849)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.937,1.295,-10.704)"
+"Magnetometer (gauss): (1.040,-0.117,0.415)"
+"Gyroscope (degrees/sec): (12.320,-27.545,-10.141)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.988,1.284,-10.618)"
+"Magnetometer (gauss): (1.049,-0.122,0.421)"
+"Gyroscope (degrees/sec): (8.706,-30.240,-11.690)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.021,1.278,-10.451)"
+"Magnetometer (gauss): (1.049,-0.122,0.421)"
+"Gyroscope (degrees/sec): (4.174,-30.861,-12.574)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.021,1.280,-10.339)"
+"Magnetometer (gauss): (1.049,-0.122,0.421)"
+"Gyroscope (degrees/sec): (-1.400,-30.310,-12.478)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.010,1.260,-10.072)"
+"Magnetometer (gauss): (1.050,-0.124,0.425)"
+"Gyroscope (degrees/sec): (-8.409,-28.849,-12.513)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.062,1.235,-9.846)"
+"Magnetometer (gauss): (1.050,-0.124,0.425)"
+"Gyroscope (degrees/sec): (-10.211,-26.241,-12.565)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.137,1.140,-9.683)"
+"Magnetometer (gauss): (1.050,-0.124,0.425)"
+"Gyroscope (degrees/sec): (-12.574,-22.619,-12.303)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.257,1.067,-9.455)"
+"Magnetometer (gauss): (1.050,-0.124,0.425)"
+"Gyroscope (degrees/sec): (-12.521,-18.638,-12.889)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.350,0.945,-9.399)"
+"Magnetometer (gauss): (1.053,-0.119,0.413)"
+"Gyroscope (degrees/sec): (-9.223,-15.050,-13.335)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.436,0.870,-9.353)"
+"Magnetometer (gauss): (1.053,-0.119,0.413)"
+"Gyroscope (degrees/sec): (-9.363,-11.716,-14.193)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.464,0.803,-9.342)"
+"Magnetometer (gauss): (1.053,-0.119,0.413)"
+"Gyroscope (degrees/sec): (-6.414,-9.354,-15.689)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.442,0.613,-9.440)"
+"Magnetometer (gauss): (1.056,-0.115,0.425)"
+"Gyroscope (degrees/sec): (-4.244,-6.720,-16.783)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.278,0.765,-9.507)"
+"Magnetometer (gauss): (1.056,-0.115,0.425)"
+"Gyroscope (degrees/sec): (-2.258,-5.460,-17.448)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.167,0.760,-9.588)"
+"Magnetometer (gauss): (1.056,-0.115,0.425)"
+"Gyroscope (degrees/sec): (-1.575,-4.699,-17.561)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.121,0.707,-9.608)"
+"Magnetometer (gauss): (1.056,-0.118,0.405)"
+"Gyroscope (degrees/sec): (-1.628,-2.345,-16.564)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.985,0.673,-9.580)"
+"Magnetometer (gauss): (1.056,-0.118,0.405)"
+"Gyroscope (degrees/sec): (-1.776,-0.665,-14.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.840,0.705,-9.703)"
+"Magnetometer (gauss): (1.056,-0.118,0.405)"
+"Gyroscope (degrees/sec): (-2.293,-0.446,-12.889)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.787,0.724,-9.739)"
+"Magnetometer (gauss): (1.056,-0.118,0.415)"
+"Gyroscope (degrees/sec): (-2.065,-1.680,-10.981)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.756,0.712,-9.730)"
+"Magnetometer (gauss): (1.056,-0.118,0.415)"
+"Gyroscope (degrees/sec): (-1.173,-3.500,-9.686)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.861,0.724,-9.669)"
+"Magnetometer (gauss): (1.056,-0.118,0.415)"
+"Gyroscope (degrees/sec): (-0.070,-6.466,-9.161)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.029,0.680,-9.623)"
+"Magnetometer (gauss): (1.056,-0.118,0.415)"
+"Gyroscope (degrees/sec): (1.068,-8.374,-9.144)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.152,0.656,-9.562)"
+"Magnetometer (gauss): (1.060,-0.109,0.411)"
+"Gyroscope (degrees/sec): (2.363,-8.934,-9.494)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.280,0.659,-9.491)"
+"Magnetometer (gauss): (1.060,-0.109,0.411)"
+"Gyroscope (degrees/sec): (2.564,-6.519,-9.196)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.329,0.683,-9.388)"
+"Magnetometer (gauss): (1.060,-0.109,0.411)"
+"Gyroscope (degrees/sec): (3.605,-2.984,-8.916)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.320,0.650,-9.267)"
+"Magnetometer (gauss): (1.053,-0.119,0.399)"
+"Gyroscope (degrees/sec): (4.340,1.488,-7.884)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.145,0.667,-9.417)"
+"Magnetometer (gauss): (1.053,-0.119,0.399)"
+"Gyroscope (degrees/sec): (6.151,3.623,-6.764)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (0.995,0.744,-9.604)"
+"Magnetometer (gauss): (1.053,-0.119,0.399)"
+"Gyroscope (degrees/sec): (7.726,2.030,-6.668)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (0.951,0.744,-9.815)"
+"Magnetometer (gauss): (1.053,-0.119,0.412)"
+"Gyroscope (degrees/sec): (9.179,-1.986,-6.414)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.013,0.741,-10.038)"
+"Magnetometer (gauss): (1.063,-0.108,0.412)"
+"Gyroscope (degrees/sec): (10.203,-7.586,-6.641)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.088,0.773,-10.138)"
+"Magnetometer (gauss): (1.063,-0.108,0.412)"
+"Gyroscope (degrees/sec): (9.336,-13.983,-7.053)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.120,0.813,-10.171)"
+"Magnetometer (gauss): (1.063,-0.108,0.412)"
+"Gyroscope (degrees/sec): (7.998,-19.136,-7.298)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.180,0.843,-10.137)"
+"Magnetometer (gauss): (1.061,-0.119,0.410)"
+"Gyroscope (degrees/sec): (5.390,-23.083,-7.718)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.211,0.855,-9.997)"
+"Magnetometer (gauss): (1.061,-0.119,0.410)"
+"Gyroscope (degrees/sec): (2.599,-25.524,-7.954)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.239,0.851,-9.781)"
+"Magnetometer (gauss): (1.061,-0.119,0.410)"
+"Gyroscope (degrees/sec): (0.035,-26.145,-7.630)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.269,0.843,-9.601)"
+"Magnetometer (gauss): (1.063,-0.124,0.403)"
+"Gyroscope (degrees/sec): (-0.604,-25.069,-6.694)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.369,0.772,-9.363)"
+"Magnetometer (gauss): (1.063,-0.124,0.403)"
+"Gyroscope (degrees/sec): (0.569,-22.103,-5.845)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.367,0.721,-9.238)"
+"Magnetometer (gauss): (1.063,-0.124,0.403)"
+"Gyroscope (degrees/sec): (2.975,-16.065,-4.830)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.474,0.702,-9.096)"
+"Magnetometer (gauss): (1.063,-0.124,0.403)"
+"Gyroscope (degrees/sec): (6.965,-13.886,-3.789)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.667,0.667,-9.038)"
+"Magnetometer (gauss): (1.072,-0.112,0.406)"
+"Gyroscope (degrees/sec): (11.813,-9.328,-3.168)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.557,0.683,-9.099)"
+"Magnetometer (gauss): (1.072,-0.112,0.406)"
+"Gyroscope (degrees/sec): (15.934,-5.906,-2.625)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.515,0.770,-9.319)"
+"Magnetometer (gauss): (1.072,-0.112,0.406)"
+"Gyroscope (degrees/sec): (19.513,-3.955,-2.686)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.373,0.907,-9.617)"
+"Magnetometer (gauss): (1.076,-0.117,0.404)"
+"Gyroscope (degrees/sec): (21.411,-4.463,-2.590)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.323,1.039,-9.842)"
+"Magnetometer (gauss): (1.076,-0.117,0.404)"
+"Gyroscope (degrees/sec): (21.683,-7.499,-2.879)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.326,1.088,-9.994)"
+"Magnetometer (gauss): (1.076,-0.117,0.404)"
+"Gyroscope (degrees/sec): (20.720,-11.261,-2.870)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.313,1.179,-10.083)"
+"Magnetometer (gauss): (1.073,-0.128,0.407)"
+"Gyroscope (degrees/sec): (17.614,-16.896,-3.133)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.421,1.159,-10.010)"
+"Magnetometer (gauss): (1.073,-0.128,0.407)"
+"Gyroscope (degrees/sec): (13.703,-21.831,-3.386)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.569,1.144,-9.873)"
+"Magnetometer (gauss): (1.073,-0.128,0.407)"
+"Gyroscope (degrees/sec): (10.036,-23.748,-3.946)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.606,1.144,-9.698)"
+"Magnetometer (gauss): (1.073,-0.128,0.407)"
+"Gyroscope (degrees/sec): (7.280,-23.153,-3.806)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.589,1.116,-9.523)"
+"Magnetometer (gauss): (1.078,-0.116,0.410)"
+"Gyroscope (degrees/sec): (5.233,-21.551,-3.159)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.549,1.097,-9.295)"
+"Magnetometer (gauss): (1.078,-0.116,0.410)"
+"Gyroscope (degrees/sec): (5.303,-19.565,-1.864)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.545,1.093,-9.111)"
+"Magnetometer (gauss): (1.078,-0.116,0.410)"
+"Gyroscope (degrees/sec): (7.298,-15.383,-0.298)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.539,1.091,-9.028)"
+"Magnetometer (gauss): (1.080,-0.119,0.403)"
+"Gyroscope (degrees/sec): (10.798,-9.818,0.954)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.583,1.129,-8.869)"
+"Magnetometer (gauss): (1.080,-0.119,0.403)"
+"Gyroscope (degrees/sec): (14.516,-2.406,1.978)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.637,1.220,-8.890)"
+"Magnetometer (gauss): (1.080,-0.119,0.403)"
+"Gyroscope (degrees/sec): (18.183,1.208,2.686)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.809,1.309,-8.908)"
+"Magnetometer (gauss): (1.079,-0.122,0.393)"
+"Gyroscope (degrees/sec): (22.348,6.606,3.001)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.574,1.458,-9.297)"
+"Magnetometer (gauss): (1.079,-0.122,0.393)"
+"Gyroscope (degrees/sec): (24.981,8.829,2.739)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.592,1.547,-9.511)"
+"Magnetometer (gauss): (1.079,-0.122,0.393)"
+"Gyroscope (degrees/sec): (27.029,6.528,1.269)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.700,1.609,-9.753)"
+"Magnetometer (gauss): (1.079,-0.122,0.393)"
+"Gyroscope (degrees/sec): (27.466,2.021,-0.543)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.838,1.638,-9.863)"
+"Magnetometer (gauss): (1.077,-0.138,0.402)"
+"Gyroscope (degrees/sec): (25.944,-3.798,-3.176)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.917,1.692,-9.926)"
+"Magnetometer (gauss): (1.077,-0.138,0.402)"
+"Gyroscope (degrees/sec): (22.593,-8.724,-8.584)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.878,1.684,-9.824)"
+"Magnetometer (gauss): (1.077,-0.138,0.402)"
+"Gyroscope (degrees/sec): (18.769,-11.533,-9.021)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.713,1.680,-9.784)"
+"Magnetometer (gauss): (1.078,-0.136,0.400)"
+"Gyroscope (degrees/sec): (14.796,-12.373,-10.885)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.556,1.692,-9.651)"
+"Magnetometer (gauss): (1.078,-0.136,0.400)"
+"Gyroscope (degrees/sec): (11.524,-12.206,-11.769)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.477,1.653,-9.433)"
+"Magnetometer (gauss): (1.078,-0.136,0.400)"
+"Gyroscope (degrees/sec): (9.538,-11.393,-11.664)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.504,1.626,-9.297)"
+"Magnetometer (gauss): (1.076,-0.145,0.405)"
+"Gyroscope (degrees/sec): (8.461,-9.415,-8.978)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.601,1.568,-9.223)"
+"Magnetometer (gauss): (1.076,-0.145,0.405)"
+"Gyroscope (degrees/sec): (8.811,-5.346,-10.430)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.699,1.481,-9.179)"
+"Magnetometer (gauss): (1.076,-0.145,0.405)"
+"Gyroscope (degrees/sec): (9.301,0.621,-9.651)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.665,1.447,-9.170)"
+"Magnetometer (gauss): (1.076,-0.109,0.396)"
+"Gyroscope (degrees/sec): (10.299,5.390,-8.295)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.533,1.472,-9.375)"
+"Magnetometer (gauss): (1.086,-0.131,0.396)"
+"Gyroscope (degrees/sec): (11.804,6.064,-6.991)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.515,1.531,-9.671)"
+"Magnetometer (gauss): (1.086,-0.131,0.396)"
+"Gyroscope (degrees/sec): (12.443,2.441,-6.458)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.575,1.613,-9.925)"
+"Magnetometer (gauss): (1.086,-0.131,0.396)"
+"Gyroscope (degrees/sec): (11.121,-3.964,-7.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.723,1.654,-10.086)"
+"Magnetometer (gauss): (1.087,-0.150,0.389)"
+"Gyroscope (degrees/sec): (6.843,-9.809,-9.109)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.695,1.621,-9.999)"
+"Magnetometer (gauss): (1.087,-0.150,0.389)"
+"Gyroscope (degrees/sec): (3.211,-13.003,-10.911)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.851,1.536,-9.839)"
+"Magnetometer (gauss): (1.087,-0.150,0.389)"
+"Gyroscope (degrees/sec): (-1.435,-13.948,-11.769)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.837,1.459,-9.510)"
+"Magnetometer (gauss): (1.080,-0.144,0.390)"
+"Gyroscope (degrees/sec): (-5.679,-14.639,-12.145)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.795,1.386,-9.460)"
+"Magnetometer (gauss): (1.080,-0.144,0.390)"
+"Gyroscope (degrees/sec): (-8.330,-14.228,-12.198)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.669,1.315,-9.272)"
+"Magnetometer (gauss): (1.080,-0.144,0.390)"
+"Gyroscope (degrees/sec): (-10.220,-13.703,-11.541)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.591,1.205,-9.047)"
+"Magnetometer (gauss): (1.080,-0.144,0.390)"
+"Gyroscope (degrees/sec): (-10.553,-12.268,-10.929)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.554,1.124,-8.895)"
+"Magnetometer (gauss): (1.087,-0.142,0.395)"
+"Gyroscope (degrees/sec): (-9.494,-10.911,-10.080)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.555,1.037,-8.779)"
+"Magnetometer (gauss): (1.087,-0.142,0.395)"
+"Gyroscope (degrees/sec): (-5.968,-8.934,-8.706)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.512,0.982,-8.644)"
+"Magnetometer (gauss): (1.087,-0.142,0.395)"
+"Gyroscope (degrees/sec): (-1.505,-6.948,-6.799)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.511,0.949,-8.649)"
+"Magnetometer (gauss): (1.087,-0.142,0.395)"
+"Gyroscope (degrees/sec): (4.646,-5.644,-5.373)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.522,1.003,-8.698)"
+"Magnetometer (gauss): (1.088,-0.145,0.390)"
+"Gyroscope (degrees/sec): (9.345,-4.926,-4.060)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.587,1.008,-8.661)"
+"Magnetometer (gauss): (1.088,-0.145,0.390)"
+"Gyroscope (degrees/sec): (15.059,-4.856,-2.896)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.824,1.021,-8.748)"
+"Magnetometer (gauss): (1.088,-0.145,0.390)"
+"Gyroscope (degrees/sec): (19.399,-3.710,-1.785)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.725,0.923,-8.882)"
+"Magnetometer (gauss): (1.088,-0.145,0.390)"
+"Gyroscope (degrees/sec): (22.890,-3.203,-0.989)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.732,1.138,-9.022)"
+"Magnetometer (gauss): (1.085,-0.146,0.388)"
+"Gyroscope (degrees/sec): (24.658,-2.835,-0.368)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.751,1.227,-9.145)"
+"Magnetometer (gauss): (1.085,-0.146,0.388)"
+"Gyroscope (degrees/sec): (24.719,-3.456,0.149)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.781,1.250,-9.275)"
+"Magnetometer (gauss): (1.085,-0.146,0.388)"
+"Gyroscope (degrees/sec): (23.844,-4.541,0.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.810,1.295,-9.387)"
+"Magnetometer (gauss): (1.085,-0.146,0.388)"
+"Gyroscope (degrees/sec): (22.024,-6.230,0.691)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.845,1.422,-9.474)"
+"Magnetometer (gauss): (1.089,-0.142,0.378)"
+"Gyroscope (degrees/sec): (19.626,-7.866,0.665)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.888,1.486,-9.526)"
+"Magnetometer (gauss): (1.089,-0.142,0.378)"
+"Gyroscope (degrees/sec): (17.334,-8.505,0.508)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.940,1.520,-9.576)"
+"Magnetometer (gauss): (1.089,-0.142,0.378)"
+"Gyroscope (degrees/sec): (15.348,-8.951,0.236)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.961,1.554,-9.562)"
+"Magnetometer (gauss): (1.089,-0.142,0.378)"
+"Gyroscope (degrees/sec): (13.361,-9.100,-0.385)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.950,1.588,-9.599)"
+"Magnetometer (gauss): (1.089,-0.142,0.378)"
+"Gyroscope (degrees/sec): (11.786,-8.689,-0.875)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.941,1.604,-9.644)"
+"Magnetometer (gauss): (1.087,-0.153,0.377)"
+"Gyroscope (degrees/sec): (10.754,-8.146,-1.199)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.909,1.626,-9.650)"
+"Magnetometer (gauss): (1.087,-0.153,0.377)"
+"Gyroscope (degrees/sec): (9.984,-7.516,-1.348)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.882,1.618,-9.628)"
+"Magnetometer (gauss): (1.087,-0.153,0.377)"
+"Gyroscope (degrees/sec): (9.538,-7.184,-1.741)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.895,1.629,-9.565)"
+"Magnetometer (gauss): (1.087,-0.153,0.377)"
+"Gyroscope (degrees/sec): (9.441,-6.440,-1.601)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.810,1.641,-9.538)"
+"Magnetometer (gauss): (1.083,-0.145,0.382)"
+"Gyroscope (degrees/sec): (9.616,-4.559,-1.164)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.825,1.671,-9.508)"
+"Magnetometer (gauss): (1.083,-0.145,0.382)"
+"Gyroscope (degrees/sec): (10.080,-3.159,-0.779)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.859,1.723,-9.511)"
+"Magnetometer (gauss): (1.083,-0.145,0.382)"
+"Gyroscope (degrees/sec): (10.640,-1.111,-0.070)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.878,1.740,-9.468)"
+"Magnetometer (gauss): (1.083,-0.145,0.382)"
+"Gyroscope (degrees/sec): (11.121,0.814,0.770)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.879,1.746,-9.379)"
+"Magnetometer (gauss): (1.083,-0.145,0.382)"
+"Gyroscope (degrees/sec): (11.830,1.873,1.619)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.945,1.731,-9.217)"
+"Magnetometer (gauss): (1.085,-0.156,0.389)"
+"Gyroscope (degrees/sec): (13.038,2.030,2.345)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.941,1.774,-9.364)"
+"Magnetometer (gauss): (1.085,-0.156,0.389)"
+"Gyroscope (degrees/sec): (14.044,1.496,3.036)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.957,1.794,-9.447)"
+"Magnetometer (gauss): (1.085,-0.156,0.389)"
+"Gyroscope (degrees/sec): (14.980,-0.131,3.045)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.018,1.856,-9.536)"
+"Magnetometer (gauss): (1.085,-0.156,0.389)"
+"Gyroscope (degrees/sec): (15.059,-5.968,1.986)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.028,1.994,-9.616)"
+"Magnetometer (gauss): (1.083,-0.147,0.388)"
+"Gyroscope (degrees/sec): (13.711,-9.459,0.088)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.115,2.056,-9.654)"
+"Magnetometer (gauss): (1.083,-0.147,0.388)"
+"Gyroscope (degrees/sec): (12.215,-13.878,-2.223)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.200,2.110,-9.583)"
+"Magnetometer (gauss): (1.083,-0.147,0.388)"
+"Gyroscope (degrees/sec): (9.669,-15.951,-4.673)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.271,2.107,-9.583)"
+"Magnetometer (gauss): (1.087,-0.159,0.373)"
+"Gyroscope (degrees/sec): (7.683,-16.161,-7.473)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.283,2.020,-9.422)"
+"Magnetometer (gauss): (1.087,-0.159,0.373)"
+"Gyroscope (degrees/sec): (5.784,-15.181,-9.398)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.248,2.014,-9.390)"
+"Magnetometer (gauss): (1.087,-0.159,0.373)"
+"Gyroscope (degrees/sec): (5.023,-13.825,-11.358)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.211,2.015,-9.292)"
+"Magnetometer (gauss): (1.087,-0.159,0.370)"
+"Gyroscope (degrees/sec): (3.658,-12.329,-12.329)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.181,1.993,-9.211)"
+"Magnetometer (gauss): (1.098,-0.148,0.370)"
+"Gyroscope (degrees/sec): (3.159,-10.973,-12.364)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.218,1.964,-9.172)"
+"Magnetometer (gauss): (1.098,-0.148,0.370)"
+"Gyroscope (degrees/sec): (2.555,-9.748,-11.865)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.142,1.985,-9.096)"
+"Magnetometer (gauss): (1.098,-0.148,0.370)"
+"Gyroscope (degrees/sec): (1.785,-7.341,-11.200)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.149,2.017,-9.089)"
+"Magnetometer (gauss): (1.089,-0.159,0.375)"
+"Gyroscope (degrees/sec): (1.523,-5.031,-10.771)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.160,2.022,-9.122)"
+"Magnetometer (gauss): (1.089,-0.159,0.375)"
+"Gyroscope (degrees/sec): (0.455,-2.581,-10.491)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.215,2.018,-9.342)"
+"Magnetometer (gauss): (1.089,-0.159,0.375)"
+"Gyroscope (degrees/sec): (-0.184,-2.056,-10.281)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.240,2.014,-9.193)"
+"Magnetometer (gauss): (1.091,-0.146,0.363)"
+"Gyroscope (degrees/sec): (-1.531,-2.774,-10.553)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.291,1.982,-9.202)"
+"Magnetometer (gauss): (1.091,-0.146,0.363)"
+"Gyroscope (degrees/sec): (-3.176,-3.404,-11.690)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.331,1.981,-9.254)"
+"Magnetometer (gauss): (1.091,-0.146,0.363)"
+"Gyroscope (degrees/sec): (-4.156,-1.715,-13.536)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.304,1.929,-9.232)"
+"Magnetometer (gauss): (1.091,-0.146,0.363)"
+"Gyroscope (degrees/sec): (-5.241,-0.823,-15.601)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.174,1.880,-9.386)"
+"Magnetometer (gauss): (1.089,-0.154,0.370)"
+"Gyroscope (degrees/sec): (-5.863,-1.619,-17.281)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.186,1.885,-9.443)"
+"Magnetometer (gauss): (1.089,-0.154,0.370)"
+"Gyroscope (degrees/sec): (-6.186,-3.806,-18.778)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.201,1.871,-9.385)"
+"Magnetometer (gauss): (1.089,-0.154,0.370)"
+"Gyroscope (degrees/sec): (-6.116,-5.574,-20.073)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.173,1.799,-9.336)"
+"Magnetometer (gauss): (1.094,-0.147,0.379)"
+"Gyroscope (degrees/sec): (-5.801,-6.038,-21.061)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.128,1.723,-9.185)"
+"Magnetometer (gauss): (1.094,-0.147,0.379)"
+"Gyroscope (degrees/sec): (-5.644,-4.830,-20.825)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.048,1.610,-9.042)"
+"Magnetometer (gauss): (1.094,-0.147,0.379)"
+"Gyroscope (degrees/sec): (-5.049,-2.748,-19.154)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.869,1.621,-8.926)"
+"Magnetometer (gauss): (1.104,-0.143,0.389)"
+"Gyroscope (degrees/sec): (-4.331,-0.578,-16.511)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.781,1.551,-8.815)"
+"Magnetometer (gauss): (1.104,-0.143,0.389)"
+"Gyroscope (degrees/sec): (-3.028,4.471,-13.466)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.847,1.585,-8.875)"
+"Magnetometer (gauss): (1.104,-0.143,0.389)"
+"Gyroscope (degrees/sec): (-1.995,6.676,-11.139)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.921,1.631,-8.958)"
+"Magnetometer (gauss): (1.104,-0.148,0.383)"
+"Gyroscope (degrees/sec): (-1.733,5.215,-9.905)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.989,1.656,-9.193)"
+"Magnetometer (gauss): (1.094,-0.148,0.383)"
+"Gyroscope (degrees/sec): (-1.741,6.554,-9.678)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.082,1.705,-9.476)"
+"Magnetometer (gauss): (1.094,-0.148,0.383)"
+"Gyroscope (degrees/sec): (-2.651,5.915,-10.316)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.151,1.717,-9.747)"
+"Magnetometer (gauss): (1.094,-0.148,0.383)"
+"Gyroscope (degrees/sec): (-4.366,3.903,-11.445)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.192,1.751,-10.002)"
+"Magnetometer (gauss): (1.103,-0.146,0.392)"
+"Gyroscope (degrees/sec): (-6.921,-0.481,-12.163)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.296,1.770,-10.056)"
+"Magnetometer (gauss): (1.103,-0.146,0.392)"
+"Gyroscope (degrees/sec): (-10.063,-5.119,-12.924)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.327,1.799,-9.981)"
+"Magnetometer (gauss): (1.103,-0.146,0.392)"
+"Gyroscope (degrees/sec): (-13.309,-8.820,-13.300)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.341,1.809,-9.801)"
+"Magnetometer (gauss): (1.099,-0.148,0.372)"
+"Gyroscope (degrees/sec): (-16.039,-10.255,-12.819)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.259,1.785,-9.663)"
+"Magnetometer (gauss): (1.099,-0.148,0.372)"
+"Gyroscope (degrees/sec): (-17.211,-9.529,-11.270)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.136,1.729,-9.333)"
+"Magnetometer (gauss): (1.099,-0.148,0.372)"
+"Gyroscope (degrees/sec): (-16.564,-9.476,-9.371)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.119,1.635,-9.199)"
+"Magnetometer (gauss): (1.101,-0.147,0.378)"
+"Gyroscope (degrees/sec): (-14.394,-9.581,-6.886)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.218,1.577,-9.036)"
+"Magnetometer (gauss): (1.101,-0.147,0.378)"
+"Gyroscope (degrees/sec): (-9.844,-7.350,-5.040)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.304,1.531,-8.982)"
+"Magnetometer (gauss): (1.101,-0.147,0.378)"
+"Gyroscope (degrees/sec): (-4.874,-5.250,-4.034)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.358,1.494,-8.968)"
+"Magnetometer (gauss): (1.101,-0.147,0.378)"
+"Gyroscope (degrees/sec): (-1.015,-3.911,-3.544)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.364,1.484,-9.179)"
+"Magnetometer (gauss): (1.102,-0.145,0.384)"
+"Gyroscope (degrees/sec): (3.185,-2.345,-3.465)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.347,1.527,-9.132)"
+"Magnetometer (gauss): (1.102,-0.145,0.384)"
+"Gyroscope (degrees/sec): (6.134,-1.925,-3.675)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.354,1.591,-9.268)"
+"Magnetometer (gauss): (1.102,-0.145,0.384)"
+"Gyroscope (degrees/sec): (8.768,-2.415,-4.681)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.353,1.649,-9.422)"
+"Magnetometer (gauss): (1.102,-0.145,0.384)"
+"Gyroscope (degrees/sec): (10.710,-4.121,-5.653)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.388,1.832,-9.550)"
+"Magnetometer (gauss): (1.102,-0.145,0.384)"
+"Gyroscope (degrees/sec): (11.935,-6.755,-8.951)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.413,1.655,-9.529)"
+"Magnetometer (gauss): (1.103,-0.142,0.386)"
+"Gyroscope (degrees/sec): (12.066,-9.188,-8.348)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.433,1.647,-9.555)"
+"Magnetometer (gauss): (1.103,-0.142,0.386)"
+"Gyroscope (degrees/sec): (12.066,-10.360,-9.275)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.394,1.630,-9.523)"
+"Magnetometer (gauss): (1.103,-0.142,0.386)"
+"Gyroscope (degrees/sec): (11.533,-10.789,-9.949)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.369,1.586,-9.465)"
+"Magnetometer (gauss): (1.103,-0.142,0.386)"
+"Gyroscope (degrees/sec): (10.850,-10.938,-10.273)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.329,1.537,-9.435)"
+"Magnetometer (gauss): (1.107,-0.139,0.383)"
+"Gyroscope (degrees/sec): (10.176,-10.535,-10.246)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.300,1.542,-9.415)"
+"Magnetometer (gauss): (1.107,-0.139,0.383)"
+"Gyroscope (degrees/sec): (10.028,-10.701,-9.678)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.244,1.525,-9.370)"
+"Magnetometer (gauss): (1.107,-0.139,0.383)"
+"Gyroscope (degrees/sec): (9.748,-10.413,-8.916)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.249,1.511,-9.399)"
+"Magnetometer (gauss): (1.107,-0.139,0.383)"
+"Gyroscope (degrees/sec): (9.275,-10.404,-8.111)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.218,1.524,-9.388)"
+"Magnetometer (gauss): (1.109,-0.146,0.386)"
+"Gyroscope (degrees/sec): (8.811,-10.273,-6.773)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.243,1.557,-9.357)"
+"Magnetometer (gauss): (1.109,-0.146,0.386)"
+"Gyroscope (degrees/sec): (8.794,-9.861,-5.504)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.274,1.584,-9.270)"
+"Magnetometer (gauss): (1.109,-0.146,0.386)"
+"Gyroscope (degrees/sec): (8.400,-8.978,-4.130)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.340,1.618,-9.232)"
+"Magnetometer (gauss): (1.109,-0.146,0.386)"
+"Gyroscope (degrees/sec): (7.989,-7.551,-2.301)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.369,1.624,-9.098)"
+"Magnetometer (gauss): (1.111,-0.134,0.377)"
+"Gyroscope (degrees/sec): (7.980,-5.381,-0.866)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.430,1.681,-9.067)"
+"Magnetometer (gauss): (1.111,-0.134,0.377)"
+"Gyroscope (degrees/sec): (7.586,-3.220,-0.114)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.545,1.692,-9.270)"
+"Magnetometer (gauss): (1.111,-0.134,0.377)"
+"Gyroscope (degrees/sec): (7.044,-1.750,-0.516)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.600,1.711,-9.324)"
+"Magnetometer (gauss): (1.111,-0.134,0.377)"
+"Gyroscope (degrees/sec): (6.230,-1.164,-1.461)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.560,1.723,-9.404)"
+"Magnetometer (gauss): (1.113,-0.151,0.379)"
+"Gyroscope (degrees/sec): (4.699,-4.393,-2.704)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.627,1.747,-9.467)"
+"Magnetometer (gauss): (1.113,-0.151,0.379)"
+"Gyroscope (degrees/sec): (3.561,-4.200,-4.358)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.609,1.745,-9.377)"
+"Magnetometer (gauss): (1.113,-0.151,0.379)"
+"Gyroscope (degrees/sec): (1.890,-5.731,-5.924)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.660,1.715,-9.487)"
+"Magnetometer (gauss): (1.116,-0.146,0.376)"
+"Gyroscope (degrees/sec): (0.665,-6.484,-7.560)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.658,1.673,-9.317)"
+"Magnetometer (gauss): (1.116,-0.146,0.376)"
+"Gyroscope (degrees/sec): (0.543,-6.519,-8.776)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.564,1.638,-9.266)"
+"Magnetometer (gauss): (1.116,-0.146,0.376)"
+"Gyroscope (degrees/sec): (0.893,-6.440,-9.153)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.456,1.564,-9.254)"
+"Magnetometer (gauss): (1.111,-0.154,0.374)"
+"Gyroscope (degrees/sec): (2.494,-5.915,-8.794)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.375,1.530,-9.108)"
+"Magnetometer (gauss): (1.111,-0.154,0.374)"
+"Gyroscope (degrees/sec): (4.147,-6.388,-7.551)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.375,1.490,-9.098)"
+"Magnetometer (gauss): (1.111,-0.154,0.374)"
+"Gyroscope (degrees/sec): (6.379,-5.845,-6.169)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.360,1.484,-9.076)"
+"Magnetometer (gauss): (1.111,-0.154,0.374)"
+"Gyroscope (degrees/sec): (8.558,-4.226,-4.848)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.384,1.498,-9.056)"
+"Magnetometer (gauss): (1.115,-0.148,0.390)"
+"Gyroscope (degrees/sec): (10.824,-1.523,-3.229)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.372,1.549,-9.198)"
+"Magnetometer (gauss): (1.115,-0.148,0.390)"
+"Gyroscope (degrees/sec): (12.364,0.560,-1.873)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.456,1.601,-9.337)"
+"Magnetometer (gauss): (1.115,-0.148,0.390)"
+"Gyroscope (degrees/sec): (13.370,0.359,-1.531)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.498,1.686,-9.431)"
+"Magnetometer (gauss): (1.123,-0.149,0.372)"
+"Gyroscope (degrees/sec): (14.228,-0.700,-1.260)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.569,1.720,-9.568)"
+"Magnetometer (gauss): (1.123,-0.149,0.372)"
+"Gyroscope (degrees/sec): (14.026,-3.159,-2.520)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.588,1.698,-9.662)"
+"Magnetometer (gauss): (1.123,-0.149,0.372)"
+"Gyroscope (degrees/sec): (13.081,-4.874,-3.658)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.556,1.711,-9.715)"
+"Magnetometer (gauss): (1.119,-0.160,0.375)"
+"Gyroscope (degrees/sec): (10.806,-6.309,-5.416)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.512,1.662,-9.724)"
+"Magnetometer (gauss): (1.119,-0.160,0.375)"
+"Gyroscope (degrees/sec): (8.444,-7.184,-6.440)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.530,1.609,-9.575)"
+"Magnetometer (gauss): (1.119,-0.160,0.375)"
+"Gyroscope (degrees/sec): (6.064,-8.138,-6.930)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.490,1.558,-9.513)"
+"Magnetometer (gauss): (1.119,-0.160,0.375)"
+"Gyroscope (degrees/sec): (3.903,-8.908,-6.440)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.435,1.554,-9.387)"
+"Magnetometer (gauss): (1.123,-0.141,0.370)"
+"Gyroscope (degrees/sec): (2.065,-9.783,-5.478)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.365,1.618,-9.289)"
+"Magnetometer (gauss): (1.123,-0.141,0.370)"
+"Gyroscope (degrees/sec): (0.901,-9.205,-3.369)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.319,1.713,-9.306)"
+"Magnetometer (gauss): (1.123,-0.141,0.370)"
+"Gyroscope (degrees/sec): (0.779,-8.295,-0.753)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.435,1.818,-9.101)"
+"Magnetometer (gauss): (1.117,-0.152,0.380)"
+"Gyroscope (degrees/sec): (1.286,-6.169,1.969)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.560,1.832,-9.184)"
+"Magnetometer (gauss): (1.117,-0.152,0.380)"
+"Gyroscope (degrees/sec): (2.800,-3.911,4.891)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.679,1.808,-9.062)"
+"Magnetometer (gauss): (1.117,-0.152,0.380)"
+"Gyroscope (degrees/sec): (4.008,-3.001,6.221)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.770,1.875,-9.188)"
+"Magnetometer (gauss): (1.117,-0.152,0.380)"
+"Gyroscope (degrees/sec): (5.443,-2.476,6.160)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.931,1.852,-9.110)"
+"Magnetometer (gauss): (1.120,-0.153,0.361)"
+"Gyroscope (degrees/sec): (6.659,-2.135,5.320)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.993,1.884,-9.223)"
+"Magnetometer (gauss): (1.120,-0.153,0.361)"
+"Gyroscope (degrees/sec): (7.788,-1.251,4.121)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.979,1.930,-9.279)"
+"Magnetometer (gauss): (1.120,-0.153,0.361)"
+"Gyroscope (degrees/sec): (8.531,-1.470,2.643)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.892,2.012,-9.322)"
+"Magnetometer (gauss): (1.125,-0.143,0.383)"
+"Gyroscope (degrees/sec): (9.231,-2.415,1.733)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.849,2.017,-9.336)"
+"Magnetometer (gauss): (1.125,-0.143,0.383)"
+"Gyroscope (degrees/sec): (10.054,-3.780,0.560)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.843,2.035,-9.425)"
+"Magnetometer (gauss): (1.125,-0.143,0.383)"
+"Gyroscope (degrees/sec): (10.430,-4.664,-0.613)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.850,2.054,-9.372)"
+"Magnetometer (gauss): (1.116,-0.152,0.365)"
+"Gyroscope (degrees/sec): (11.016,-4.471,-1.181)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.794,2.101,-9.361)"
+"Magnetometer (gauss): (1.116,-0.152,0.365)"
+"Gyroscope (degrees/sec): (11.865,-4.384,-1.251)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.755,2.164,-9.344)"
+"Magnetometer (gauss): (1.116,-0.152,0.365)"
+"Gyroscope (degrees/sec): (12.766,-5.014,-0.963)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.730,2.190,-9.322)"
+"Magnetometer (gauss): (1.116,-0.152,0.365)"
+"Gyroscope (degrees/sec): (13.816,-5.915,-0.919)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.786,2.201,-9.349)"
+"Magnetometer (gauss): (1.124,-0.143,0.370)"
+"Gyroscope (degrees/sec): (14.324,-6.431,-0.753)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.912,2.262,-9.344)"
+"Magnetometer (gauss): (1.124,-0.143,0.370)"
+"Gyroscope (degrees/sec): (13.344,-6.484,-1.068)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.922,2.341,-9.395)"
+"Magnetometer (gauss): (1.124,-0.143,0.370)"
+"Gyroscope (degrees/sec): (12.145,-6.283,-1.540)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.970,2.381,-9.402)"
+"Magnetometer (gauss): (1.119,-0.157,0.360)"
+"Gyroscope (degrees/sec): (9.765,-6.046,-2.363)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.983,2.403,-9.457)"
+"Magnetometer (gauss): (1.119,-0.157,0.360)"
+"Gyroscope (degrees/sec): (4.681,-5.941,-3.273)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.056,2.431,-9.410)"
+"Magnetometer (gauss): (1.119,-0.157,0.360)"
+"Gyroscope (degrees/sec): (4.139,-5.486,-4.804)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.980,2.463,-9.581)"
+"Magnetometer (gauss): (1.119,-0.157,0.372)"
+"Gyroscope (degrees/sec): (1.356,-6.125,-6.624)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.071,2.423,-9.489)"
+"Magnetometer (gauss): (1.121,-0.157,0.372)"
+"Gyroscope (degrees/sec): (-1.418,-7.613,-8.505)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.112,2.356,-9.374)"
+"Magnetometer (gauss): (1.121,-0.157,0.372)"
+"Gyroscope (degrees/sec): (-3.684,-7.840,-10.325)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.102,2.327,-9.355)"
+"Magnetometer (gauss): (1.121,-0.157,0.372)"
+"Gyroscope (degrees/sec): (-4.961,-6.563,-11.340)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.016,2.255,-9.169)"
+"Magnetometer (gauss): (1.121,-0.156,0.363)"
+"Gyroscope (degrees/sec): (-5.670,-5.653,-11.996)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.946,2.147,-9.024)"
+"Magnetometer (gauss): (1.121,-0.156,0.363)"
+"Gyroscope (degrees/sec): (-5.810,-4.375,-12.565)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.877,2.110,-9.032)"
+"Magnetometer (gauss): (1.121,-0.156,0.363)"
+"Gyroscope (degrees/sec): (-4.681,-2.975,-13.099)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.808,2.060,-8.971)"
+"Magnetometer (gauss): (1.122,-0.162,0.363)"
+"Gyroscope (degrees/sec): (-3.133,-2.406,-12.994)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.708,2.043,-9.064)"
+"Magnetometer (gauss): (1.122,-0.162,0.363)"
+"Gyroscope (degrees/sec): (-1.741,-1.138,-13.746)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.758,2.032,-9.133)"
+"Magnetometer (gauss): (1.122,-0.162,0.363)"
+"Gyroscope (degrees/sec): (-1.006,-0.324,-14.508)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.774,1.985,-9.229)"
+"Magnetometer (gauss): (1.122,-0.153,0.357)"
+"Gyroscope (degrees/sec): (-0.761,-0.026,-15.050)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.854,2.061,-9.407)"
+"Magnetometer (gauss): (1.117,-0.153,0.357)"
+"Gyroscope (degrees/sec): (-0.893,-0.359,-15.566)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.874,2.034,-9.488)"
+"Magnetometer (gauss): (1.117,-0.153,0.357)"
+"Gyroscope (degrees/sec): (-1.549,-1.120,-16.398)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.885,2.029,-9.547)"
+"Magnetometer (gauss): (1.117,-0.153,0.357)"
+"Gyroscope (degrees/sec): (-2.065,-2.573,-17.255)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.898,1.994,-9.538)"
+"Magnetometer (gauss): (1.118,-0.146,0.361)"
+"Gyroscope (degrees/sec): (-2.625,-5.040,-17.343)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.870,1.950,-9.482)"
+"Magnetometer (gauss): (1.118,-0.146,0.361)"
+"Gyroscope (degrees/sec): (-3.019,-6.379,-16.503)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.862,1.857,-9.366)"
+"Magnetometer (gauss): (1.118,-0.146,0.361)"
+"Gyroscope (degrees/sec): (-2.634,-6.799,-15.409)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.786,1.773,-9.200)"
+"Magnetometer (gauss): (1.131,-0.150,0.357)"
+"Gyroscope (degrees/sec): (-1.505,-6.563,-13.466)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.767,1.726,-9.093)"
+"Magnetometer (gauss): (1.131,-0.150,0.357)"
+"Gyroscope (degrees/sec): (0.140,-5.775,-11.489)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.768,1.683,-8.985)"
+"Magnetometer (gauss): (1.131,-0.150,0.357)"
+"Gyroscope (degrees/sec): (1.943,-5.311,-9.818)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.706,1.655,-8.969)"
+"Magnetometer (gauss): (1.131,-0.152,0.371)"
+"Gyroscope (degrees/sec): (3.579,-5.128,-8.391)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.740,1.698,-8.888)"
+"Magnetometer (gauss): (1.133,-0.152,0.371)"
+"Gyroscope (degrees/sec): (4.524,-4.576,-7.543)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.856,1.758,-9.005)"
+"Magnetometer (gauss): (1.133,-0.152,0.371)"
+"Gyroscope (degrees/sec): (4.821,-3.395,-6.790)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.997,1.769,-9.070)"
+"Magnetometer (gauss): (1.133,-0.152,0.371)"
+"Gyroscope (degrees/sec): (4.384,-2.135,-7.105)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.016,1.828,-9.179)"
+"Magnetometer (gauss): (1.126,-0.146,0.367)"
+"Gyroscope (degrees/sec): (3.649,0.569,-7.823)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.013,1.851,-9.299)"
+"Magnetometer (gauss): (1.126,-0.146,0.367)"
+"Gyroscope (degrees/sec): (3.343,2.476,-8.855)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.001,1.892,-9.393)"
+"Magnetometer (gauss): (1.126,-0.146,0.367)"
+"Gyroscope (degrees/sec): (3.281,1.768,-9.826)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.939,1.908,-9.540)"
+"Magnetometer (gauss): (1.128,-0.157,0.371)"
+"Gyroscope (degrees/sec): (3.614,-0.936,-11.174)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.984,1.988,-9.468)"
+"Magnetometer (gauss): (1.128,-0.157,0.371)"
+"Gyroscope (degrees/sec): (3.614,-3.176,-12.871)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.003,1.731,-9.339)"
+"Magnetometer (gauss): (1.128,-0.157,0.371)"
+"Gyroscope (degrees/sec): (3.220,-2.485,-12.994)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.844,1.822,-9.401)"
+"Magnetometer (gauss): (1.130,-0.143,0.358)"
+"Gyroscope (degrees/sec): (1.899,-2.433,-11.235)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.762,1.710,-9.354)"
+"Magnetometer (gauss): (1.130,-0.143,0.358)"
+"Gyroscope (degrees/sec): (1.278,-3.273,-9.258)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.797,1.730,-9.319)"
+"Magnetometer (gauss): (1.130,-0.143,0.358)"
+"Gyroscope (degrees/sec): (0.473,-6.545,-7.245)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.837,1.762,-9.197)"
+"Magnetometer (gauss): (1.136,-0.154,0.373)"
+"Gyroscope (degrees/sec): (0.289,-5.740,-5.924)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.903,1.756,-9.318)"
+"Magnetometer (gauss): (1.136,-0.154,0.373)"
+"Gyroscope (degrees/sec): (-0.035,-5.819,-5.110)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.928,1.772,-9.249)"
+"Magnetometer (gauss): (1.136,-0.154,0.373)"
+"Gyroscope (degrees/sec): (0.648,-4.401,-4.113)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.935,1.804,-9.112)"
+"Magnetometer (gauss): (1.128,-0.134,0.361)"
+"Gyroscope (degrees/sec): (2.546,-2.135,-3.098)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.928,1.832,-9.077)"
+"Magnetometer (gauss): (1.128,-0.134,0.361)"
+"Gyroscope (degrees/sec): (5.093,-0.306,-0.026)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.969,1.831,-9.071)"
+"Magnetometer (gauss): (1.128,-0.134,0.361)"
+"Gyroscope (degrees/sec): (7.928,0.254,-1.978)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.987,1.911,-9.221)"
+"Magnetometer (gauss): (1.133,-0.147,0.375)"
+"Gyroscope (degrees/sec): (9.853,-0.674,-2.643)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.002,1.941,-9.321)"
+"Magnetometer (gauss): (1.133,-0.147,0.375)"
+"Gyroscope (degrees/sec): (10.623,-2.196,-4.226)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.998,2.008,-9.522)"
+"Magnetometer (gauss): (1.133,-0.147,0.375)"
+"Gyroscope (degrees/sec): (9.616,-4.743,-6.344)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.987,2.005,-9.422)"
+"Magnetometer (gauss): (1.135,-0.147,0.357)"
+"Gyroscope (degrees/sec): (7.569,-7.394,-7.893)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.001,1.949,-9.337)"
+"Magnetometer (gauss): (1.135,-0.147,0.357)"
+"Gyroscope (degrees/sec): (4.113,-8.006,-8.969)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.981,1.935,-9.278)"
+"Magnetometer (gauss): (1.135,-0.147,0.357)"
+"Gyroscope (degrees/sec): (0.280,-7.035,-8.873)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.930,1.848,-9.205)"
+"Magnetometer (gauss): (1.135,-0.155,0.361)"
+"Gyroscope (degrees/sec): (-2.118,-4.786,-7.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.888,1.869,-9.211)"
+"Magnetometer (gauss): (1.139,-0.155,0.361)"
+"Gyroscope (degrees/sec): (-4.086,-3.133,-7.009)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.866,1.881,-9.253)"
+"Magnetometer (gauss): (1.139,-0.155,0.361)"
+"Gyroscope (degrees/sec): (-5.688,-1.768,-5.810)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.124,1.852,-9.087)"
+"Magnetometer (gauss): (1.139,-0.155,0.361)"
+"Gyroscope (degrees/sec): (-6.248,0.306,-3.421)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (3.139,1.955,-9.187)"
+"Magnetometer (gauss): (1.139,-0.146,0.360)"
+"Gyroscope (degrees/sec): (-8.733,3.736,-1.628)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (3.184,2.059,-9.191)"
+"Magnetometer (gauss): (1.139,-0.146,0.360)"
+"Gyroscope (degrees/sec): (-7.333,5.889,-1.129)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.132,2.048,-9.100)"
+"Magnetometer (gauss): (1.139,-0.146,0.360)"
+"Gyroscope (degrees/sec): (-7.954,6.361,-1.671)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.209,1.984,-9.158)"
+"Magnetometer (gauss): (1.138,-0.145,0.361)"
+"Gyroscope (degrees/sec): (-7.831,7.070,-2.546)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (3.210,1.906,-9.237)"
+"Magnetometer (gauss): (1.138,-0.145,0.361)"
+"Gyroscope (degrees/sec): (-7.718,7.683,-3.728)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (3.175,1.798,-9.196)"
+"Magnetometer (gauss): (1.138,-0.145,0.361)"
+"Gyroscope (degrees/sec): (-7.534,6.641,-4.830)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.111,1.741,-9.175)"
+"Magnetometer (gauss): (1.133,-0.148,0.366)"
+"Gyroscope (degrees/sec): (-7.753,4.734,-5.075)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.034,1.692,-9.263)"
+"Magnetometer (gauss): (1.133,-0.148,0.366)"
+"Gyroscope (degrees/sec): (-8.068,3.089,-5.443)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.157,1.701,-9.328)"
+"Magnetometer (gauss): (1.133,-0.148,0.366)"
+"Gyroscope (degrees/sec): (-7.963,1.243,-4.743)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.018,1.787,-9.340)"
+"Magnetometer (gauss): (1.138,-0.146,0.379)"
+"Gyroscope (degrees/sec): (-8.068,0.691,-5.145)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.869,1.765,-9.329)"
+"Magnetometer (gauss): (1.138,-0.146,0.379)"
+"Gyroscope (degrees/sec): (-8.059,-1.619,-5.775)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.606,1.795,-9.204)"
+"Magnetometer (gauss): (1.138,-0.146,0.379)"
+"Gyroscope (degrees/sec): (-7.088,-3.526,-4.813)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.733,1.738,-9.134)"
+"Magnetometer (gauss): (1.138,-0.143,0.371)"
+"Gyroscope (degrees/sec): (-4.874,-3.710,-3.316)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.838,1.703,-9.098)"
+"Magnetometer (gauss): (1.139,-0.143,0.371)"
+"Gyroscope (degrees/sec): (-1.216,-1.435,-1.881)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.929,1.708,-9.047)"
+"Magnetometer (gauss): (1.139,-0.143,0.371)"
+"Gyroscope (degrees/sec): (2.590,0.586,-0.788)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.942,1.743,-9.152)"
+"Magnetometer (gauss): (1.139,-0.143,0.371)"
+"Gyroscope (degrees/sec): (6.659,1.566,-0.359)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.987,1.970,-9.227)"
+"Magnetometer (gauss): (1.140,-0.141,0.364)"
+"Gyroscope (degrees/sec): (10.430,0.788,-0.455)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.067,1.911,-9.336)"
+"Magnetometer (gauss): (1.140,-0.141,0.364)"
+"Gyroscope (degrees/sec): (12.618,-1.400,-1.068)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.035,1.940,-9.392)"
+"Magnetometer (gauss): (1.140,-0.141,0.364)"
+"Gyroscope (degrees/sec): (14.508,-3.955,-2.196)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.010,1.932,-9.348)"
+"Magnetometer (gauss): (1.140,-0.144,0.370)"
+"Gyroscope (degrees/sec): (13.475,-5.819,-3.360)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.980,1.936,-9.284)"
+"Magnetometer (gauss): (1.140,-0.144,0.370)"
+"Gyroscope (degrees/sec): (15.540,-6.353,-4.673)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.984,1.925,-9.386)"
+"Magnetometer (gauss): (1.140,-0.144,0.370)"
+"Gyroscope (degrees/sec): (14.814,-6.160,-6.291)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.002,1.906,-9.235)"
+"Magnetometer (gauss): (1.140,-0.144,0.370)"
+"Gyroscope (degrees/sec): (14.096,-5.338,-7.525)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.962,1.917,-9.301)"
+"Magnetometer (gauss): (1.139,-0.142,0.368)"
+"Gyroscope (degrees/sec): (13.274,-5.635,-8.339)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.959,1.979,-9.310)"
+"Magnetometer (gauss): (1.139,-0.142,0.368)"
+"Gyroscope (degrees/sec): (12.346,-6.825,-8.636)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.956,2.046,-9.341)"
+"Magnetometer (gauss): (1.139,-0.142,0.368)"
+"Gyroscope (degrees/sec): (11.340,-8.103,-8.584)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.094,2.037,-9.324)"
+"Magnetometer (gauss): (1.130,-0.150,0.358)"
+"Gyroscope (degrees/sec): (9.616,-6.169,-8.453)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.077,2.036,-9.299)"
+"Magnetometer (gauss): (1.130,-0.150,0.358)"
+"Gyroscope (degrees/sec): (7.569,-3.798,-7.788)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.026,1.965,-9.156)"
+"Magnetometer (gauss): (1.130,-0.150,0.358)"
+"Gyroscope (degrees/sec): (5.871,0.184,-6.160)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.019,1.871,-9.036)"
+"Magnetometer (gauss): (1.140,-0.150,0.361)"
+"Gyroscope (degrees/sec): (5.495,4.918,-4.104)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.011,1.850,-9.065)"
+"Magnetometer (gauss): (1.140,-0.150,0.361)"
+"Gyroscope (degrees/sec): (5.355,7.341,-3.386)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.008,1.892,-9.199)"
+"Magnetometer (gauss): (1.137,-0.151,0.358)"
+"Gyroscope (degrees/sec): (4.734,8.409,-2.914)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.891,1.998,-9.374)"
+"Magnetometer (gauss): (1.137,-0.151,0.358)"
+"Gyroscope (degrees/sec): (2.984,6.563,-3.176)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.801,2.076,-9.427)"
+"Magnetometer (gauss): (1.137,-0.151,0.358)"
+"Gyroscope (degrees/sec): (0.350,0.901,-3.439)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.779,2.055,-9.367)"
+"Magnetometer (gauss): (1.137,-0.157,0.366)"
+"Gyroscope (degrees/sec): (-1.111,-2.608,-3.211)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.855,1.970,-9.215)"
+"Magnetometer (gauss): (1.137,-0.157,0.366)"
+"Gyroscope (degrees/sec): (-1.531,-4.156,-2.791)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.964,1.909,-9.165)"
+"Magnetometer (gauss): (1.137,-0.157,0.366)"
+"Gyroscope (degrees/sec): (-2.065,-3.903,-3.605)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.069,1.865,-9.128)"
+"Magnetometer (gauss): (1.137,-0.157,0.366)"
+"Gyroscope (degrees/sec): (-2.004,-2.433,-4.384)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.106,1.872,-9.036)"
+"Magnetometer (gauss): (1.136,-0.141,0.356)"
+"Gyroscope (degrees/sec): (-1.278,-1.155,-4.830)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.116,1.894,-9.028)"
+"Magnetometer (gauss): (1.136,-0.141,0.356)"
+"Gyroscope (degrees/sec): (0.263,0.140,-5.591)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.099,1.881,-8.958)"
+"Magnetometer (gauss): (1.136,-0.141,0.356)"
+"Gyroscope (degrees/sec): (2.809,0.403,-6.396)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.106,1.990,-8.928)"
+"Magnetometer (gauss): (1.142,-0.150,0.364)"
+"Gyroscope (degrees/sec): (5.863,1.094,-7.070)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.097,1.829,-8.937)"
+"Magnetometer (gauss): (1.142,-0.150,0.364)"
+"Gyroscope (degrees/sec): (9.144,1.558,-7.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.007,1.779,-8.792)"
+"Magnetometer (gauss): (1.142,-0.150,0.364)"
+"Gyroscope (degrees/sec): (12.574,2.170,-7.455)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.999,1.798,-8.779)"
+"Magnetometer (gauss): (1.142,-0.146,0.361)"
+"Gyroscope (degrees/sec): (16.258,3.526,-6.545)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.022,1.847,-8.745)"
+"Magnetometer (gauss): (1.139,-0.146,0.361)"
+"Gyroscope (degrees/sec): (18.699,4.121,-5.416)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.053,1.925,-8.858)"
+"Magnetometer (gauss): (1.139,-0.146,0.361)"
+"Gyroscope (degrees/sec): (20.589,4.147,-4.498)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.073,2.021,-8.925)"
+"Magnetometer (gauss): (1.139,-0.146,0.361)"
+"Gyroscope (degrees/sec): (21.210,3.728,-3.981)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.072,2.107,-8.995)"
+"Magnetometer (gauss): (1.138,-0.157,0.359)"
+"Gyroscope (degrees/sec): (20.580,3.194,-3.946)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.048,2.133,-9.041)"
+"Magnetometer (gauss): (1.138,-0.157,0.359)"
+"Gyroscope (degrees/sec): (19.740,2.643,-4.288)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.955,2.194,-9.034)"
+"Magnetometer (gauss): (1.138,-0.157,0.359)"
+"Gyroscope (degrees/sec): (18.795,1.768,-4.681)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.940,2.155,-9.005)"
+"Magnetometer (gauss): (1.138,-0.157,0.359)"
+"Gyroscope (degrees/sec): (18.366,1.146,-5.075)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.977,2.143,-8.961)"
+"Magnetometer (gauss): (1.135,-0.151,0.351)"
+"Gyroscope (degrees/sec): (18.874,1.208,-5.390)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.100,2.137,-8.925)"
+"Magnetometer (gauss): (1.135,-0.151,0.351)"
+"Gyroscope (degrees/sec): (19.941,2.179,-6.606)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.173,2.193,-8.909)"
+"Magnetometer (gauss): (1.135,-0.151,0.351)"
+"Gyroscope (degrees/sec): (20.729,3.176,-7.875)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.242,2.207,-8.975)"
+"Magnetometer (gauss): (1.135,-0.156,0.352)"
+"Gyroscope (degrees/sec): (21.306,4.410,-11.174)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.204,2.286,-9.011)"
+"Magnetometer (gauss): (1.135,-0.156,0.352)"
+"Gyroscope (degrees/sec): (21.438,5.250,-10.063)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.095,2.341,-9.082)"
+"Magnetometer (gauss): (1.135,-0.156,0.352)"
+"Gyroscope (degrees/sec): (20.991,5.451,-10.763)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.114,2.459,-9.149)"
+"Magnetometer (gauss): (1.135,-0.156,0.356)"
+"Gyroscope (degrees/sec): (19.486,5.320,-11.086)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (3.122,2.507,-9.123)"
+"Magnetometer (gauss): (1.143,-0.160,0.356)"
+"Gyroscope (degrees/sec): (17.430,5.276,-11.069)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.897,2.335,-9.270)"
+"Magnetometer (gauss): (1.143,-0.160,0.356)"
+"Gyroscope (degrees/sec): (13.711,9.188,-10.911)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.865,2.355,-9.227)"
+"Magnetometer (gauss): (1.143,-0.160,0.356)"
+"Gyroscope (degrees/sec): (9.896,11.629,-10.281)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.821,2.359,-9.246)"
+"Magnetometer (gauss): (1.133,-0.166,0.349)"
+"Gyroscope (degrees/sec): (6.440,13.081,-6.991)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.794,2.277,-9.264)"
+"Magnetometer (gauss): (1.133,-0.166,0.349)"
+"Gyroscope (degrees/sec): (3.684,14.735,-7.735)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.761,2.227,-9.318)"
+"Magnetometer (gauss): (1.133,-0.166,0.349)"
+"Gyroscope (degrees/sec): (-0.210,16.739,-7.123)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.737,2.448,-9.403)"
+"Magnetometer (gauss): (1.133,-0.155,0.356)"
+"Gyroscope (degrees/sec): (-3.535,18.646,-7.525)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.778,2.316,-9.488)"
+"Magnetometer (gauss): (1.128,-0.155,0.356)"
+"Gyroscope (degrees/sec): (-6.125,19.574,-7.621)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.706,2.317,-9.560)"
+"Magnetometer (gauss): (1.128,-0.155,0.356)"
+"Gyroscope (degrees/sec): (-8.759,19.933,-7.823)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.658,2.306,-9.536)"
+"Magnetometer (gauss): (1.128,-0.155,0.356)"
+"Gyroscope (degrees/sec): (-10.806,18.918,-8.041)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.619,2.261,-9.553)"
+"Magnetometer (gauss): (1.128,-0.155,0.356)"
+"Gyroscope (degrees/sec): (-12.644,17.439,-8.085)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.588,2.213,-9.360)"
+"Magnetometer (gauss): (1.138,-0.154,0.355)"
+"Gyroscope (degrees/sec): (-15.085,17.071,-7.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.512,2.193,-9.485)"
+"Magnetometer (gauss): (1.138,-0.154,0.355)"
+"Gyroscope (degrees/sec): (-16.835,17.080,-7.761)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.538,2.164,-9.478)"
+"Magnetometer (gauss): (1.138,-0.154,0.355)"
+"Gyroscope (degrees/sec): (-18.559,16.065,-7.254)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.576,2.168,-9.524)"
+"Magnetometer (gauss): (1.138,-0.154,0.355)"
+"Gyroscope (degrees/sec): (-20.580,15.006,-7.149)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.550,2.191,-9.520)"
+"Magnetometer (gauss): (1.136,-0.151,0.354)"
+"Gyroscope (degrees/sec): (-23.196,13.956,-7.053)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.590,2.203,-9.534)"
+"Magnetometer (gauss): (1.136,-0.151,0.354)"
+"Gyroscope (degrees/sec): (-25.209,12.775,-6.895)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.719,2.149,-9.593)"
+"Magnetometer (gauss): (1.136,-0.151,0.354)"
+"Gyroscope (degrees/sec): (-26.933,11.629,-7.079)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.831,2.224,-9.582)"
+"Magnetometer (gauss): (1.136,-0.151,0.354)"
+"Gyroscope (degrees/sec): (-30.030,10.255,-7.341)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.933,2.219,-9.610)"
+"Magnetometer (gauss): (1.136,-0.144,0.366)"
+"Gyroscope (degrees/sec): (-32.043,10.325,-8.015)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (3.022,2.171,-9.522)"
+"Magnetometer (gauss): (1.139,-0.144,0.366)"
+"Gyroscope (degrees/sec): (-32.795,11.646,-9.083)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.798,2.094,-9.476)"
+"Magnetometer (gauss): (1.139,-0.144,0.366)"
+"Gyroscope (degrees/sec): (-31.728,12.154,-9.783)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.646,1.968,-9.413)"
+"Magnetometer (gauss): (1.139,-0.144,0.366)"
+"Gyroscope (degrees/sec): (-28.893,9.048,-10.631)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.536,1.842,-9.353)"
+"Magnetometer (gauss): (1.139,-0.142,0.363)"
+"Gyroscope (degrees/sec): (-24.876,8.960,-11.541)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.479,1.731,-9.229)"
+"Magnetometer (gauss): (1.139,-0.142,0.363)"
+"Gyroscope (degrees/sec): (-20.580,5.854,-12.206)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.448,1.632,-9.119)"
+"Magnetometer (gauss): (1.139,-0.142,0.363)"
+"Gyroscope (degrees/sec): (-16.083,3.168,-12.364)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.504,1.597,-9.127)"
+"Magnetometer (gauss): (1.136,-0.138,0.365)"
+"Gyroscope (degrees/sec): (-11.086,1.750,-11.778)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.591,1.600,-9.206)"
+"Magnetometer (gauss): (1.136,-0.138,0.365)"
+"Gyroscope (degrees/sec): (-8.085,0.831,-10.509)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.688,1.603,-9.205)"
+"Magnetometer (gauss): (1.136,-0.138,0.365)"
+"Gyroscope (degrees/sec): (-5.749,0.989,-9.713)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.785,1.605,-9.303)"
+"Magnetometer (gauss): (1.145,-0.134,0.365)"
+"Gyroscope (degrees/sec): (-4.568,0.840,-8.680)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.774,1.600,-9.379)"
+"Magnetometer (gauss): (1.145,-0.134,0.365)"
+"Gyroscope (degrees/sec): (-2.888,0.849,-8.024)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.780,1.613,-9.379)"
+"Magnetometer (gauss): (1.145,-0.134,0.365)"
+"Gyroscope (degrees/sec): (-0.770,0.175,-7.158)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.678,1.552,-9.366)"
+"Magnetometer (gauss): (1.145,-0.134,0.365)"
+"Gyroscope (degrees/sec): (2.958,-0.700,-6.178)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.572,1.491,-9.307)"
+"Magnetometer (gauss): (1.134,-0.127,0.376)"
+"Gyroscope (degrees/sec): (8.033,-1.715,-5.294)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.645,1.482,-9.237)"
+"Magnetometer (gauss): (1.134,-0.127,0.376)"
+"Gyroscope (degrees/sec): (13.178,-2.669,-4.760)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.786,1.501,-9.331)"
+"Magnetometer (gauss): (1.134,-0.127,0.376)"
+"Gyroscope (degrees/sec): (16.730,-2.634,-4.690)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.831,1.576,-9.419)"
+"Magnetometer (gauss): (1.134,-0.128,0.368)"
+"Gyroscope (degrees/sec): (19.233,-2.713,-4.708)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.769,1.827,-9.373)"
+"Magnetometer (gauss): (1.134,-0.128,0.368)"
+"Gyroscope (degrees/sec): (20.178,-4.008,-4.410)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.697,1.778,-9.370)"
+"Magnetometer (gauss): (1.134,-0.128,0.368)"
+"Gyroscope (degrees/sec): (16.634,-6.554,-2.476)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.648,2.100,-9.441)"
+"Magnetometer (gauss): (1.140,-0.139,0.371)"
+"Gyroscope (degrees/sec): (11.769,-6.746,-2.284)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.685,2.155,-9.482)"
+"Magnetometer (gauss): (1.140,-0.139,0.371)"
+"Gyroscope (degrees/sec): (7.455,-7.683,-2.039)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.713,2.201,-9.506)"
+"Magnetometer (gauss): (1.137,-0.134,0.364)"
+"Gyroscope (degrees/sec): (3.588,-7.744,-1.925)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.744,2.146,-9.245)"
+"Magnetometer (gauss): (1.137,-0.134,0.364)"
+"Gyroscope (degrees/sec): (0.473,-2.835,-2.599)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.879,2.014,-9.087)"
+"Magnetometer (gauss): (1.137,-0.134,0.364)"
+"Gyroscope (degrees/sec): (-0.376,0.105,-3.640)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.861,1.878,-9.114)"
+"Magnetometer (gauss): (1.137,-0.134,0.364)"
+"Gyroscope (degrees/sec): (0.184,3.868,-4.681)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.831,1.415,-9.125)"
+"Magnetometer (gauss): (1.137,-0.151,0.366)"
+"Gyroscope (degrees/sec): (0.464,6.116,-5.241)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.532,1.481,-9.182)"
+"Magnetometer (gauss): (1.137,-0.151,0.366)"
+"Gyroscope (degrees/sec): (-0.560,3.876,-5.198)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.521,1.598,-9.425)"
+"Magnetometer (gauss): (1.137,-0.151,0.366)"
+"Gyroscope (degrees/sec): (-1.269,5.758,-4.760)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.492,1.851,-9.374)"
+"Magnetometer (gauss): (1.137,-0.151,0.366)"
+"Gyroscope (degrees/sec): (-1.960,10.920,-3.981)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.372,1.987,-9.453)"
+"Magnetometer (gauss): (1.136,-0.142,0.358)"
+"Gyroscope (degrees/sec): (-2.844,16.336,-0.009)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.402,2.075,-9.497)"
+"Magnetometer (gauss): (1.136,-0.142,0.358)"
+"Gyroscope (degrees/sec): (-4.550,17.273,0.936)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.325,2.013,-9.575)"
+"Magnetometer (gauss): (1.136,-0.142,0.358)"
+"Gyroscope (degrees/sec): (-8.803,13.484,2.958)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.325,1.843,-9.667)"
+"Magnetometer (gauss): (1.136,-0.142,0.358)"
+"Gyroscope (degrees/sec): (-12.801,10.841,5.171)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.318,2.004,-9.712)"
+"Magnetometer (gauss): (1.134,-0.146,0.357)"
+"Gyroscope (degrees/sec): (-17.439,10.938,6.843)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.295,1.984,-9.666)"
+"Magnetometer (gauss): (1.134,-0.146,0.357)"
+"Gyroscope (degrees/sec): (-21.359,12.941,8.103)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.295,1.982,-9.613)"
+"Magnetometer (gauss): (1.134,-0.146,0.357)"
+"Gyroscope (degrees/sec): (-25.051,13.458,9.721)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.269,2.111,-9.569)"
+"Magnetometer (gauss): (1.134,-0.146,0.357)"
+"Gyroscope (degrees/sec): (-27.396,12.224,11.576)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.339,1.891,-9.425)"
+"Magnetometer (gauss): (1.134,-0.146,0.357)"
+"Gyroscope (degrees/sec): (-29.724,8.873,14.368)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.171,1.793,-9.250)"
+"Magnetometer (gauss): (1.139,-0.128,0.378)"
+"Gyroscope (degrees/sec): (-30.135,6.458,16.100)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.130,1.786,-9.222)"
+"Magnetometer (gauss): (1.139,-0.128,0.378)"
+"Gyroscope (degrees/sec): (-30.818,7.814,16.118)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.366,1.822,-9.140)"
+"Magnetometer (gauss): (1.139,-0.128,0.378)"
+"Gyroscope (degrees/sec): (-30.301,8.059,15.496)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.385,1.740,-9.003)"
+"Magnetometer (gauss): (1.139,-0.128,0.378)"
+"Gyroscope (degrees/sec): (-29.085,9.319,15.339)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.424,1.682,-9.035)"
+"Magnetometer (gauss): (1.136,-0.130,0.381)"
+"Gyroscope (degrees/sec): (-28.228,7.954,14.481)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.583,1.513,-9.122)"
+"Magnetometer (gauss): (1.136,-0.130,0.381)"
+"Gyroscope (degrees/sec): (-24.246,8.663,12.661)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.640,1.524,-8.795)"
+"Magnetometer (gauss): (1.136,-0.130,0.381)"
+"Gyroscope (degrees/sec): (-19.259,12.338,8.479)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.762,1.274,-8.803)"
+"Magnetometer (gauss): (1.128,-0.123,0.373)"
+"Gyroscope (degrees/sec): (-14.919,11.104,3.841)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.797,1.257,-8.798)"
+"Magnetometer (gauss): (1.128,-0.123,0.373)"
+"Gyroscope (degrees/sec): (-10.378,7.289,-2.336)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.877,1.238,-8.864)"
+"Magnetometer (gauss): (1.128,-0.123,0.373)"
+"Gyroscope (degrees/sec): (-5.731,6.773,-7.525)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.856,1.283,-8.853)"
+"Magnetometer (gauss): (1.128,-0.123,0.373)"
+"Gyroscope (degrees/sec): (-1.295,7.123,-11.288)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.790,1.266,-8.761)"
+"Magnetometer (gauss): (1.123,-0.129,0.387)"
+"Gyroscope (degrees/sec): (3.815,8.173,-13.781)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.757,1.284,-8.770)"
+"Magnetometer (gauss): (1.123,-0.129,0.387)"
+"Gyroscope (degrees/sec): (8.103,10.684,-17.841)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.675,1.300,-8.874)"
+"Magnetometer (gauss): (1.123,-0.129,0.387)"
+"Gyroscope (degrees/sec): (11.953,13.536,-16.888)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.598,1.309,-8.956)"
+"Magnetometer (gauss): (1.127,-0.121,0.374)"
+"Gyroscope (degrees/sec): (16.170,14.166,-18.034)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.517,1.263,-8.928)"
+"Magnetometer (gauss): (1.127,-0.121,0.374)"
+"Gyroscope (degrees/sec): (20.720,13.449,-18.778)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.401,1.182,-8.991)"
+"Magnetometer (gauss): (1.127,-0.121,0.374)"
+"Gyroscope (degrees/sec): (25.848,12.381,-18.743)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.253,1.164,-8.944)"
+"Magnetometer (gauss): (1.133,-0.138,0.367)"
+"Gyroscope (degrees/sec): (30.205,11.358,-18.156)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.123,1.196,-9.087)"
+"Magnetometer (gauss): (1.133,-0.138,0.367)"
+"Gyroscope (degrees/sec): (32.480,10.675,-17.168)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.033,1.245,-9.240)"
+"Magnetometer (gauss): (1.133,-0.138,0.367)"
+"Gyroscope (degrees/sec): (32.979,10.981,-13.598)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.000,1.339,-9.462)"
+"Magnetometer (gauss): (1.133,-0.138,0.367)"
+"Gyroscope (degrees/sec): (31.194,11.690,-14.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.883,1.473,-9.561)"
+"Magnetometer (gauss): (1.124,-0.133,0.380)"
+"Gyroscope (degrees/sec): (26.845,11.471,-13.195)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.866,1.681,-9.708)"
+"Magnetometer (gauss): (1.124,-0.133,0.380)"
+"Gyroscope (degrees/sec): (21.788,11.025,-11.673)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.866,1.556,-9.607)"
+"Magnetometer (gauss): (1.124,-0.133,0.380)"
+"Gyroscope (degrees/sec): (16.739,10.115,-9.651)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.947,1.506,-9.537)"
+"Magnetometer (gauss): (1.129,-0.141,0.380)"
+"Gyroscope (degrees/sec): (12.950,10.745,-8.243)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.044,1.513,-9.550)"
+"Magnetometer (gauss): (1.129,-0.141,0.380)"
+"Gyroscope (degrees/sec): (9.896,11.673,-7.884)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.128,1.472,-9.535)"
+"Magnetometer (gauss): (1.129,-0.141,0.380)"
+"Gyroscope (degrees/sec): (7.368,12.705,-8.173)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.176,1.406,-9.526)"
+"Magnetometer (gauss): (1.129,-0.141,0.380)"
+"Gyroscope (degrees/sec): (5.268,13.204,-9.021)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.213,1.348,-9.641)"
+"Magnetometer (gauss): (1.119,-0.127,0.372)"
+"Gyroscope (degrees/sec): (3.596,13.108,-10.273)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.182,1.330,-9.724)"
+"Magnetometer (gauss): (1.119,-0.127,0.372)"
+"Gyroscope (degrees/sec): (1.225,12.504,-11.646)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.115,1.318,-9.822)"
+"Magnetometer (gauss): (1.119,-0.127,0.372)"
+"Gyroscope (degrees/sec): (-4.235,12.233,-12.434)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.067,1.296,-9.779)"
+"Magnetometer (gauss): (1.118,-0.139,0.375)"
+"Gyroscope (degrees/sec): (-5.469,11.725,-11.813)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.032,1.244,-9.766)"
+"Magnetometer (gauss): (1.118,-0.139,0.375)"
+"Gyroscope (degrees/sec): (-8.286,11.813,-10.159)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.979,1.244,-9.767)"
+"Magnetometer (gauss): (1.118,-0.139,0.375)"
+"Gyroscope (degrees/sec): (-11.366,11.611,-7.455)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.896,1.223,-9.511)"
+"Magnetometer (gauss): (1.128,-0.133,0.380)"
+"Gyroscope (degrees/sec): (-13.423,10.579,-5.023)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.802,1.193,-9.591)"
+"Magnetometer (gauss): (1.128,-0.133,0.380)"
+"Gyroscope (degrees/sec): (-14.499,8.864,-2.923)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.746,1.152,-9.528)"
+"Magnetometer (gauss): (1.128,-0.133,0.380)"
+"Gyroscope (degrees/sec): (-14.788,6.895,-1.068)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.863,1.146,-9.746)"
+"Magnetometer (gauss): (1.128,-0.133,0.380)"
+"Gyroscope (degrees/sec): (-15.006,5.014,0.070)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.021,1.113,-9.651)"
+"Magnetometer (gauss): (1.123,-0.129,0.396)"
+"Gyroscope (degrees/sec): (-15.348,3.159,1.339)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.090,1.132,-9.595)"
+"Magnetometer (gauss): (1.123,-0.129,0.396)"
+"Gyroscope (degrees/sec): (-16.013,2.713,2.835)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.168,1.128,-9.587)"
+"Magnetometer (gauss): (1.123,-0.129,0.396)"
+"Gyroscope (degrees/sec): (-16.616,2.800,4.568)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.177,1.116,-9.483)"
+"Magnetometer (gauss): (1.117,-0.128,0.374)"
+"Gyroscope (degrees/sec): (-16.879,3.955,6.335)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.111,1.183,-9.474)"
+"Magnetometer (gauss): (1.117,-0.128,0.374)"
+"Gyroscope (degrees/sec): (-17.238,4.550,7.919)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.079,1.229,-9.364)"
+"Magnetometer (gauss): (1.117,-0.128,0.374)"
+"Gyroscope (degrees/sec): (-16.564,3.579,11.069)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.149,1.262,-9.368)"
+"Magnetometer (gauss): (1.119,-0.121,0.391)"
+"Gyroscope (degrees/sec): (-15.978,1.225,9.634)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.264,1.245,-9.374)"
+"Magnetometer (gauss): (1.119,-0.121,0.391)"
+"Gyroscope (degrees/sec): (-16.511,-1.278,9.931)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.291,1.256,-9.346)"
+"Magnetometer (gauss): (1.119,-0.121,0.391)"
+"Gyroscope (degrees/sec): (-16.328,-3.150,9.730)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.303,1.317,-9.348)"
+"Magnetometer (gauss): (1.119,-0.121,0.391)"
+"Gyroscope (degrees/sec): (-17.631,-5.941,8.461)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.351,1.305,-9.365)"
+"Magnetometer (gauss): (1.119,-0.121,0.377)"
+"Gyroscope (degrees/sec): (-20.239,-8.216,6.458)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.193,1.301,-9.339)"
+"Magnetometer (gauss): (1.119,-0.121,0.377)"
+"Gyroscope (degrees/sec): (-23.144,-9.538,5.049)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.868,1.356,-9.202)"
+"Magnetometer (gauss): (1.119,-0.121,0.377)"
+"Gyroscope (degrees/sec): (-25.874,-10.098,4.480)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.539,1.388,-9.016)"
+"Magnetometer (gauss): (1.116,-0.125,0.378)"
+"Gyroscope (degrees/sec): (-28.823,-10.211,5.005)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.414,1.332,-8.798)"
+"Magnetometer (gauss): (1.116,-0.125,0.378)"
+"Gyroscope (degrees/sec): (-30.223,-8.698,7.000)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.531,1.321,-8.600)"
+"Magnetometer (gauss): (1.116,-0.125,0.378)"
+"Gyroscope (degrees/sec): (-30.616,-3.071,9.205)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.771,1.259,-8.635)"
+"Magnetometer (gauss): (1.121,-0.116,0.376)"
+"Gyroscope (degrees/sec): (-28.315,6.808,10.684)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.071,1.152,-8.574)"
+"Magnetometer (gauss): (1.121,-0.116,0.376)"
+"Gyroscope (degrees/sec): (-22.391,18.629,11.288)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.212,0.952,-8.693)"
+"Magnetometer (gauss): (1.121,-0.116,0.376)"
+"Gyroscope (degrees/sec): (-12.303,27.650,10.491)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.310,0.805,-8.914)"
+"Magnetometer (gauss): (1.119,-0.126,0.398)"
+"Gyroscope (degrees/sec): (-0.770,31.929,8.899)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.235,0.760,-9.155)"
+"Magnetometer (gauss): (1.119,-0.126,0.398)"
+"Gyroscope (degrees/sec): (11.156,29.181,6.029)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.081,0.863,-9.492)"
+"Magnetometer (gauss): (1.119,-0.126,0.398)"
+"Gyroscope (degrees/sec): (16.223,23.450,2.511)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.775,0.997,-9.730)"
+"Magnetometer (gauss): (1.119,-0.126,0.388)"
+"Gyroscope (degrees/sec): (18.918,18.113,1.321)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.417,0.993,-9.972)"
+"Magnetometer (gauss): (1.114,-0.114,0.388)"
+"Gyroscope (degrees/sec): (16.555,14.368,1.330)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.295,1.094,-10.253)"
+"Magnetometer (gauss): (1.114,-0.114,0.388)"
+"Gyroscope (degrees/sec): (9.616,8.584,2.485)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.211,1.238,-10.248)"
+"Magnetometer (gauss): (1.114,-0.114,0.388)"
+"Gyroscope (degrees/sec): (4.594,3.369,3.903)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.381,1.529,-9.672)"
+"Magnetometer (gauss): (1.110,-0.128,0.385)"
+"Gyroscope (degrees/sec): (-2.083,7.245,4.086)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.490,1.174,-9.849)"
+"Magnetometer (gauss): (1.110,-0.128,0.385)"
+"Gyroscope (degrees/sec): (-6.825,8.558,8.838)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.468,1.297,-9.884)"
+"Magnetometer (gauss): (1.110,-0.128,0.385)"
+"Gyroscope (degrees/sec): (-14.280,-2.153,11.086)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.808,1.257,-9.573)"
+"Magnetometer (gauss): (1.109,-0.114,0.388)"
+"Gyroscope (degrees/sec): (-14.394,0.394,10.281)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.939,1.120,-9.514)"
+"Magnetometer (gauss): (1.109,-0.114,0.388)"
+"Gyroscope (degrees/sec): (-15.146,0.271,9.634)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.978,1.132,-9.502)"
+"Magnetometer (gauss): (1.109,-0.114,0.388)"
+"Gyroscope (degrees/sec): (-17.185,-5.985,8.925)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.058,1.184,-9.271)"
+"Magnetometer (gauss): (1.105,-0.118,0.392)"
+"Gyroscope (degrees/sec): (-18.716,-6.843,7.315)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.014,1.114,-9.393)"
+"Magnetometer (gauss): (1.105,-0.118,0.392)"
+"Gyroscope (degrees/sec): (-20.169,-2.476,6.248)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.963,1.272,-9.348)"
+"Magnetometer (gauss): (1.105,-0.118,0.392)"
+"Gyroscope (degrees/sec): (-22.479,-2.634,6.195)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.880,1.275,-9.404)"
+"Magnetometer (gauss): (1.105,-0.118,0.392)"
+"Gyroscope (degrees/sec): (-23.940,-1.610,6.370)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.183,1.341,-9.121)"
+"Magnetometer (gauss): (1.114,-0.114,0.390)"
+"Gyroscope (degrees/sec): (-25.541,-2.118,5.828)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.069,1.129,-9.163)"
+"Magnetometer (gauss): (1.114,-0.114,0.390)"
+"Gyroscope (degrees/sec): (-28.604,-1.505,5.399)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.059,1.186,-9.044)"
+"Magnetometer (gauss): (1.114,-0.114,0.390)"
+"Gyroscope (degrees/sec): (-29.951,-0.053,4.393)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.149,1.162,-9.253)"
+"Magnetometer (gauss): (1.114,-0.114,0.390)"
+"Gyroscope (degrees/sec): (-31.159,0.324,2.590)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.099,1.141,-9.185)"
+"Magnetometer (gauss): (1.114,-0.114,0.390)"
+"Gyroscope (degrees/sec): (-31.728,-0.158,0.648)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.110,1.114,-9.184)"
+"Magnetometer (gauss): (1.106,-0.110,0.394)"
+"Gyroscope (degrees/sec): (-32.288,-1.418,-1.286)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.106,1.068,-9.118)"
+"Magnetometer (gauss): (1.106,-0.110,0.394)"
+"Gyroscope (degrees/sec): (-32.323,-1.628,-3.045)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.087,0.970,-9.174)"
+"Magnetometer (gauss): (1.106,-0.110,0.394)"
+"Gyroscope (degrees/sec): (-32.673,-2.030,-4.848)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.069,0.868,-9.105)"
+"Magnetometer (gauss): (1.106,-0.110,0.394)"
+"Gyroscope (degrees/sec): (-31.631,-1.514,-6.090)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.074,0.752,-9.050)"
+"Magnetometer (gauss): (1.113,-0.106,0.397)"
+"Gyroscope (degrees/sec): (-30.783,-0.525,-6.921)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.024,0.698,-9.151)"
+"Magnetometer (gauss): (1.113,-0.106,0.397)"
+"Gyroscope (degrees/sec): (-29.024,2.301,-7.096)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.990,0.616,-9.155)"
+"Magnetometer (gauss): (1.113,-0.106,0.397)"
+"Gyroscope (degrees/sec): (-26.565,4.874,-6.720)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.942,0.656,-9.200)"
+"Magnetometer (gauss): (1.113,-0.106,0.397)"
+"Gyroscope (degrees/sec): (-23.756,8.173,-6.178)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.990,0.691,-9.225)"
+"Magnetometer (gauss): (1.077,-0.100,0.406)"
+"Gyroscope (degrees/sec): (-18.900,9.826,-5.723)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.775,0.726,-9.404)"
+"Magnetometer (gauss): (1.101,-0.100,0.406)"
+"Gyroscope (degrees/sec): (-13.729,9.774,-5.793)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.701,0.672,-9.374)"
+"Magnetometer (gauss): (1.101,-0.100,0.406)"
+"Gyroscope (degrees/sec): (-9.109,8.873,-5.863)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.712,0.712,-9.533)"
+"Magnetometer (gauss): (1.101,-0.100,0.406)"
+"Gyroscope (degrees/sec): (-4.830,4.506,-6.388)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.768,0.788,-9.739)"
+"Magnetometer (gauss): (1.109,-0.097,0.409)"
+"Gyroscope (degrees/sec): (-2.135,3.789,-8.181)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.738,0.860,-9.921)"
+"Magnetometer (gauss): (1.109,-0.097,0.409)"
+"Gyroscope (degrees/sec): (-2.249,0.569,-9.704)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.702,0.849,-9.904)"
+"Magnetometer (gauss): (1.109,-0.097,0.409)"
+"Gyroscope (degrees/sec): (-4.585,-1.768,-11.008)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.585,0.855,-9.888)"
+"Magnetometer (gauss): (1.112,-0.106,0.404)"
+"Gyroscope (degrees/sec): (-8.024,-2.345,-11.743)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.590,0.801,-9.919)"
+"Magnetometer (gauss): (1.112,-0.106,0.404)"
+"Gyroscope (degrees/sec): (-12.618,-1.724,-12.451)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.585,0.778,-9.862)"
+"Magnetometer (gauss): (1.112,-0.106,0.404)"
+"Gyroscope (degrees/sec): (-16.748,-1.628,-12.635)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.598,0.644,-9.836)"
+"Magnetometer (gauss): (1.112,-0.106,0.404)"
+"Gyroscope (degrees/sec): (-19.609,-0.840,-11.821)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.831,0.560,-9.748)"
+"Magnetometer (gauss): (1.112,-0.093,0.411)"
+"Gyroscope (degrees/sec): (-20.755,-0.280,-10.815)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.805,0.549,-9.745)"
+"Magnetometer (gauss): (1.112,-0.093,0.411)"
+"Gyroscope (degrees/sec): (-20.781,-0.936,-11.419)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.846,0.509,-9.661)"
+"Magnetometer (gauss): (1.112,-0.093,0.411)"
+"Gyroscope (degrees/sec): (-20.186,-1.943,-12.093)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.823,0.472,-9.547)"
+"Magnetometer (gauss): (1.109,-0.095,0.405)"
+"Gyroscope (degrees/sec): (-19.268,-3.614,-12.504)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.892,0.418,-9.507)"
+"Magnetometer (gauss): (1.109,-0.095,0.405)"
+"Gyroscope (degrees/sec): (-18.961,-3.946,-13.580)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.906,0.431,-9.474)"
+"Magnetometer (gauss): (1.109,-0.095,0.405)"
+"Gyroscope (degrees/sec): (-18.629,-1.811,-14.578)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.906,0.431,-9.321)"
+"Magnetometer (gauss): (1.106,-0.082,0.410)"
+"Gyroscope (degrees/sec): (-19.609,0.280,-14.971)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.895,0.361,-9.314)"
+"Magnetometer (gauss): (1.106,-0.082,0.410)"
+"Gyroscope (degrees/sec): (-19.530,2.179,-15.619)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.830,0.243,-9.234)"
+"Magnetometer (gauss): (1.106,-0.082,0.410)"
+"Gyroscope (degrees/sec): (-19.504,4.034,-16.100)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.877,0.008,-9.254)"
+"Magnetometer (gauss): (1.106,-0.082,0.410)"
+"Gyroscope (degrees/sec): (-18.988,5.416,-17.413)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.917,0.130,-9.333)"
+"Magnetometer (gauss): (1.106,-0.084,0.419)"
+"Gyroscope (degrees/sec): (-18.191,8.120,-18.401)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.852,0.069,-9.345)"
+"Magnetometer (gauss): (1.106,-0.084,0.419)"
+"Gyroscope (degrees/sec): (-16.468,9.651,-18.191)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.824,-0.016,-9.355)"
+"Magnetometer (gauss): (1.106,-0.084,0.419)"
+"Gyroscope (degrees/sec): (-14.079,9.914,-18.051)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.791,-0.082,-9.443)"
+"Magnetometer (gauss): (1.111,-0.080,0.415)"
+"Gyroscope (degrees/sec): (-11.480,9.529,-18.323)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.646,-0.182,-9.474)"
+"Magnetometer (gauss): (1.111,-0.080,0.415)"
+"Gyroscope (degrees/sec): (-8.776,9.555,-18.366)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.528,-0.208,-9.366)"
+"Magnetometer (gauss): (1.111,-0.080,0.415)"
+"Gyroscope (degrees/sec): (-4.839,9.275,-17.710)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.443,-0.270,-9.230)"
+"Magnetometer (gauss): (1.111,-0.072,0.416)"
+"Gyroscope (degrees/sec): (-1.505,7.735,-16.826)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.389,-0.282,-9.227)"
+"Magnetometer (gauss): (1.111,-0.072,0.416)"
+"Gyroscope (degrees/sec): (1.593,6.650,-13.545)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.430,-0.291,-9.294)"
+"Magnetometer (gauss): (1.111,-0.072,0.416)"
+"Gyroscope (degrees/sec): (3.894,5.985,-13.825)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.487,-0.257,-9.413)"
+"Magnetometer (gauss): (1.111,-0.072,0.416)"
+"Gyroscope (degrees/sec): (5.696,6.186,-12.198)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.512,-0.219,-9.596)"
+"Magnetometer (gauss): (1.111,-0.073,0.420)"
+"Gyroscope (degrees/sec): (8.873,5.591,-10.973)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.494,-0.164,-9.641)"
+"Magnetometer (gauss): (1.111,-0.073,0.420)"
+"Gyroscope (degrees/sec): (6.764,5.128,-8.995)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.386,-0.129,-9.772)"
+"Magnetometer (gauss): (1.111,-0.073,0.420)"
+"Gyroscope (degrees/sec): (6.685,4.568,-7.070)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.432,-0.085,-9.833)"
+"Magnetometer (gauss): (1.107,-0.081,0.420)"
+"Gyroscope (degrees/sec): (5.696,4.060,-5.513)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.433,-0.058,-9.846)"
+"Magnetometer (gauss): (1.107,-0.081,0.420)"
+"Gyroscope (degrees/sec): (4.699,4.130,-4.191)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.421,-0.091,-9.840)"
+"Magnetometer (gauss): (1.107,-0.081,0.420)"
+"Gyroscope (degrees/sec): (3.544,3.509,-3.701)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.445,-0.041,-9.866)"
+"Magnetometer (gauss): (1.107,-0.081,0.415)"
+"Gyroscope (degrees/sec): (2.888,2.336,-3.413)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.545,0.025,-9.937)"
+"Magnetometer (gauss): (1.108,-0.067,0.415)"
+"Gyroscope (degrees/sec): (1.549,1.540,-4.366)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.594,0.087,-10.101)"
+"Magnetometer (gauss): (1.108,-0.067,0.415)"
+"Gyroscope (degrees/sec): (-0.026,0.849,-5.758)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.683,0.118,-10.107)"
+"Magnetometer (gauss): (1.108,-0.067,0.415)"
+"Gyroscope (degrees/sec): (-1.706,1.155,-7.691)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.677,0.181,-10.010)"
+"Magnetometer (gauss): (1.116,-0.078,0.406)"
+"Gyroscope (degrees/sec): (-3.798,1.776,-9.476)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.726,0.126,-10.025)"
+"Magnetometer (gauss): (1.116,-0.078,0.406)"
+"Gyroscope (degrees/sec): (-6.073,3.089,-11.480)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.638,0.059,-10.076)"
+"Magnetometer (gauss): (1.116,-0.078,0.406)"
+"Gyroscope (degrees/sec): (-7.551,5.014,-13.003)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.597,-0.056,-10.035)"
+"Magnetometer (gauss): (1.109,-0.071,0.410)"
+"Gyroscope (degrees/sec): (-8.759,6.554,-13.991)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.476,-0.173,-9.975)"
+"Magnetometer (gauss): (1.109,-0.071,0.410)"
+"Gyroscope (degrees/sec): (-9.336,6.265,-14.954)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.372,-0.328,-9.962)"
+"Magnetometer (gauss): (1.109,-0.071,0.410)"
+"Gyroscope (degrees/sec): (-9.240,5.233,-14.630)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.074,-0.413,-9.950)"
+"Magnetometer (gauss): (1.108,-0.081,0.406)"
+"Gyroscope (degrees/sec): (-8.610,2.879,-13.746)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.159,-0.464,-9.881)"
+"Magnetometer (gauss): (1.108,-0.081,0.406)"
+"Gyroscope (degrees/sec): (-7.499,-0.805,-11.716)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.208,-0.474,-9.812)"
+"Magnetometer (gauss): (1.108,-0.081,0.406)"
+"Gyroscope (degrees/sec): (-7.018,-2.301,-6.895)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.240,-0.440,-9.775)"
+"Magnetometer (gauss): (1.099,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-6.221,-3.246,-6.615)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.340,-0.413,-9.696)"
+"Magnetometer (gauss): (1.099,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-5.040,-4.095,-4.865)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.473,-0.368,-9.643)"
+"Magnetometer (gauss): (1.099,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-4.358,-3.833,-3.246)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.576,-0.406,-9.657)"
+"Magnetometer (gauss): (1.099,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-3.080,-3.028,-2.091)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.694,-0.428,-9.669)"
+"Magnetometer (gauss): (1.108,-0.072,0.434)"
+"Gyroscope (degrees/sec): (-2.704,-2.485,-1.575)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.732,-0.424,-9.649)"
+"Magnetometer (gauss): (1.108,-0.072,0.434)"
+"Gyroscope (degrees/sec): (-2.135,-3.150,-1.260)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.775,-0.432,-9.659)"
+"Magnetometer (gauss): (1.108,-0.072,0.434)"
+"Gyroscope (degrees/sec): (-1.934,-3.124,-1.365)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.785,-0.437,-9.622)"
+"Magnetometer (gauss): (1.108,-0.072,0.434)"
+"Gyroscope (degrees/sec): (-1.750,-3.798,-1.593)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.747,-0.468,-9.540)"
+"Magnetometer (gauss): (1.106,-0.072,0.411)"
+"Gyroscope (degrees/sec): (-1.050,-4.541,-2.100)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.741,-0.432,-9.507)"
+"Magnetometer (gauss): (1.106,-0.072,0.411)"
+"Gyroscope (degrees/sec): (-0.586,-5.224,-2.433)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.772,-0.432,-9.453)"
+"Magnetometer (gauss): (1.106,-0.072,0.411)"
+"Gyroscope (degrees/sec): (-0.394,-5.311,-2.809)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.788,-0.428,-9.460)"
+"Magnetometer (gauss): (1.106,-0.072,0.411)"
+"Gyroscope (degrees/sec): (-0.656,-5.661,-3.238)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.792,-0.407,-9.427)"
+"Magnetometer (gauss): (1.106,-0.072,0.432)"
+"Gyroscope (degrees/sec): (-0.219,-5.329,-3.500)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.810,-0.389,-9.450)"
+"Magnetometer (gauss): (1.104,-0.074,0.432)"
+"Gyroscope (degrees/sec): (-0.368,-5.714,-3.378)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.825,-0.410,-9.525)"
+"Magnetometer (gauss): (1.104,-0.074,0.432)"
+"Gyroscope (degrees/sec): (-0.613,-6.720,-3.115)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.794,-0.399,-9.503)"
+"Magnetometer (gauss): (1.104,-0.074,0.432)"
+"Gyroscope (degrees/sec): (-1.085,-7.648,-2.599)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.759,-0.356,-9.473)"
+"Magnetometer (gauss): (1.104,-0.074,0.432)"
+"Gyroscope (degrees/sec): (-1.138,-8.628,-1.864)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.533,-0.313,-9.427)"
+"Magnetometer (gauss): (1.104,-0.063,0.420)"
+"Gyroscope (degrees/sec): (-1.234,-9.091,-1.006)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.574,-0.281,-9.343)"
+"Magnetometer (gauss): (1.104,-0.063,0.420)"
+"Gyroscope (degrees/sec): (-0.674,-9.406,-0.210)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.507,-0.281,-9.347)"
+"Magnetometer (gauss): (1.104,-0.063,0.420)"
+"Gyroscope (degrees/sec): (-0.324,-8.488,0.123)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.469,-0.264,-9.379)"
+"Magnetometer (gauss): (1.104,-0.063,0.420)"
+"Gyroscope (degrees/sec): (-0.193,-5.976,0.735)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.452,-0.229,-9.359)"
+"Magnetometer (gauss): (1.113,-0.065,0.418)"
+"Gyroscope (degrees/sec): (0.210,-1.969,1.111)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.517,-0.187,-9.349)"
+"Magnetometer (gauss): (1.113,-0.065,0.418)"
+"Gyroscope (degrees/sec): (0.980,1.321,1.216)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.661,-0.226,-9.410)"
+"Magnetometer (gauss): (1.113,-0.065,0.418)"
+"Gyroscope (degrees/sec): (1.523,3.771,0.805)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.853,-0.229,-9.525)"
+"Magnetometer (gauss): (1.113,-0.065,0.418)"
+"Gyroscope (degrees/sec): (2.608,5.311,-0.613)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.935,-0.230,-9.576)"
+"Magnetometer (gauss): (1.104,-0.066,0.419)"
+"Gyroscope (degrees/sec): (3.448,5.644,-2.809)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.012,-0.216,-9.644)"
+"Magnetometer (gauss): (1.104,-0.066,0.419)"
+"Gyroscope (degrees/sec): (3.509,4.498,-5.075)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.965,-0.187,-9.763)"
+"Magnetometer (gauss): (1.104,-0.066,0.419)"
+"Gyroscope (degrees/sec): (2.083,2.196,-7.201)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.849,-0.171,-9.844)"
+"Magnetometer (gauss): (1.109,-0.056,0.424)"
+"Gyroscope (degrees/sec): (-0.796,0.254,-8.776)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.640,-0.214,-9.857)"
+"Magnetometer (gauss): (1.109,-0.056,0.424)"
+"Gyroscope (degrees/sec): (-3.868,-1.164,-9.354)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.493,-0.230,-9.768)"
+"Magnetometer (gauss): (1.109,-0.056,0.424)"
+"Gyroscope (degrees/sec): (-7.656,-1.908,-8.549)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.434,-0.270,-9.658)"
+"Magnetometer (gauss): (1.111,-0.072,0.413)"
+"Gyroscope (degrees/sec): (-10.850,-2.284,-6.808)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.417,-0.351,-9.547)"
+"Magnetometer (gauss): (1.111,-0.072,0.413)"
+"Gyroscope (degrees/sec): (-12.950,-1.986,-4.393)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.454,-0.408,-9.477)"
+"Magnetometer (gauss): (1.111,-0.072,0.413)"
+"Gyroscope (degrees/sec): (-13.291,-1.724,-2.170)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.642,-0.451,-9.355)"
+"Magnetometer (gauss): (1.111,-0.072,0.413)"
+"Gyroscope (degrees/sec): (-12.303,-1.514,-0.446)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.846,-0.307,-9.270)"
+"Magnetometer (gauss): (1.108,-0.072,0.426)"
+"Gyroscope (degrees/sec): (-10.115,-0.630,1.041)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.960,-0.501,-9.118)"
+"Magnetometer (gauss): (1.108,-0.072,0.426)"
+"Gyroscope (degrees/sec): (-7.884,0.481,1.908)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.122,-0.549,-9.175)"
+"Magnetometer (gauss): (1.108,-0.072,0.426)"
+"Gyroscope (degrees/sec): (-4.314,1.645,2.056)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.276,-0.586,-9.221)"
+"Magnetometer (gauss): (1.111,-0.065,0.412)"
+"Gyroscope (degrees/sec): (-1.496,3.789,0.998)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.297,-0.540,-9.395)"
+"Magnetometer (gauss): (1.111,-0.065,0.412)"
+"Gyroscope (degrees/sec): (0.376,5.128,-1.216)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.223,-0.545,-9.546)"
+"Magnetometer (gauss): (1.111,-0.065,0.412)"
+"Gyroscope (degrees/sec): (1.234,6.134,-3.474)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (2.075,-0.488,-9.716)"
+"Magnetometer (gauss): (1.111,-0.065,0.431)"
+"Gyroscope (degrees/sec): (1.435,6.318,-5.381)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.945,-0.444,-9.926)"
+"Magnetometer (gauss): (1.118,-0.065,0.431)"
+"Gyroscope (degrees/sec): (1.759,6.808,-7.105)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.738,-0.402,-9.971)"
+"Magnetometer (gauss): (1.118,-0.065,0.431)"
+"Gyroscope (degrees/sec): (1.313,6.160,-8.304)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.585,-0.375,-10.049)"
+"Magnetometer (gauss): (1.118,-0.065,0.431)"
+"Gyroscope (degrees/sec): (0.884,4.235,-9.091)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.591,-0.294,-10.089)"
+"Magnetometer (gauss): (1.111,-0.064,0.428)"
+"Gyroscope (degrees/sec): (0.735,2.214,-9.030)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.528,-0.243,-10.110)"
+"Magnetometer (gauss): (1.111,-0.064,0.428)"
+"Gyroscope (degrees/sec): (0.516,0.604,-8.496)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.453,-0.203,-9.996)"
+"Magnetometer (gauss): (1.111,-0.064,0.428)"
+"Gyroscope (degrees/sec): (0.403,-1.391,-7.998)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.464,-0.229,-9.936)"
+"Magnetometer (gauss): (1.106,-0.067,0.432)"
+"Gyroscope (degrees/sec): (0.586,-3.684,-7.210)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.488,-0.234,-9.897)"
+"Magnetometer (gauss): (1.106,-0.067,0.432)"
+"Gyroscope (degrees/sec): (0.595,-4.996,-7.000)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.521,-0.290,-9.937)"
+"Magnetometer (gauss): (1.106,-0.067,0.432)"
+"Gyroscope (degrees/sec): (0.551,-8.794,-6.790)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.467,-0.307,-9.744)"
+"Magnetometer (gauss): (1.106,-0.067,0.414)"
+"Gyroscope (degrees/sec): (0.193,-8.426,-6.326)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.488,-0.309,-9.698)"
+"Magnetometer (gauss): (1.108,-0.056,0.414)"
+"Gyroscope (degrees/sec): (-0.236,-9.389,-6.151)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.588,-0.357,-9.684)"
+"Magnetometer (gauss): (1.108,-0.056,0.414)"
+"Gyroscope (degrees/sec): (-1.138,-8.033,-5.915)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.720,-0.364,-9.607)"
+"Magnetometer (gauss): (1.108,-0.056,0.414)"
+"Gyroscope (degrees/sec): (-2.091,-6.615,-5.871)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.771,-0.351,-9.628)"
+"Magnetometer (gauss): (1.111,-0.066,0.438)"
+"Gyroscope (degrees/sec): (-3.526,-5.591,-5.583)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.825,-0.391,-9.637)"
+"Magnetometer (gauss): (1.111,-0.066,0.438)"
+"Gyroscope (degrees/sec): (-4.638,-5.110,-5.574)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.884,-0.444,-9.657)"
+"Magnetometer (gauss): (1.111,-0.066,0.438)"
+"Gyroscope (degrees/sec): (-5.198,-5.049,-6.239)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.765,-0.520,-9.456)"
+"Magnetometer (gauss): (1.115,-0.061,0.428)"
+"Gyroscope (degrees/sec): (-4.856,-4.498,-6.195)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.671,-0.541,-9.427)"
+"Magnetometer (gauss): (1.115,-0.061,0.428)"
+"Gyroscope (degrees/sec): (-4.498,-3.054,-6.099)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.620,-0.582,-9.342)"
+"Magnetometer (gauss): (1.115,-0.061,0.428)"
+"Gyroscope (degrees/sec): (-3.141,-0.271,-5.723)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.601,-0.560,-9.334)"
+"Magnetometer (gauss): (1.115,-0.061,0.428)"
+"Gyroscope (degrees/sec): (-1.111,2.608,-4.681)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.567,-0.564,-9.330)"
+"Magnetometer (gauss): (1.122,-0.070,0.431)"
+"Gyroscope (degrees/sec): (1.006,4.594,-3.631)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.643,-0.559,-9.306)"
+"Magnetometer (gauss): (1.122,-0.070,0.431)"
+"Gyroscope (degrees/sec): (2.958,5.390,-2.818)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.680,-0.583,-9.391)"
+"Magnetometer (gauss): (1.122,-0.070,0.431)"
+"Gyroscope (degrees/sec): (5.451,4.664,-2.520)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.708,-0.613,-9.521)"
+"Magnetometer (gauss): (1.117,-0.055,0.426)"
+"Gyroscope (degrees/sec): (6.948,2.590,-2.021)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.860,-0.519,-9.600)"
+"Magnetometer (gauss): (1.117,-0.055,0.426)"
+"Gyroscope (degrees/sec): (7.464,0.945,-1.531)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.900,-0.396,-9.797)"
+"Magnetometer (gauss): (1.117,-0.055,0.426)"
+"Gyroscope (degrees/sec): (6.003,-0.420,-0.578)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.985,-0.291,-9.714)"
+"Magnetometer (gauss): (1.116,-0.066,0.422)"
+"Gyroscope (degrees/sec): (4.428,-0.481,0.464)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.061,-0.286,-9.796)"
+"Magnetometer (gauss): (1.116,-0.066,0.422)"
+"Gyroscope (degrees/sec): (1.391,0.009,1.041)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (2.048,-0.272,-9.812)"
+"Magnetometer (gauss): (1.116,-0.066,0.422)"
+"Gyroscope (degrees/sec): (-1.628,1.391,0.814)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.955,-0.349,-9.823)"
+"Magnetometer (gauss): (1.114,-0.084,0.417)"
+"Gyroscope (degrees/sec): (-3.850,2.581,0.026)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.864,-0.341,-9.784)"
+"Magnetometer (gauss): (1.114,-0.084,0.417)"
+"Gyroscope (degrees/sec): (-4.918,3.273,-0.726)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.819,-0.357,-9.776)"
+"Magnetometer (gauss): (1.114,-0.084,0.417)"
+"Gyroscope (degrees/sec): (-5.276,4.095,-1.846)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.694,-0.389,-9.862)"
+"Magnetometer (gauss): (1.110,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-4.716,4.323,-3.010)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.648,-0.370,-9.866)"
+"Magnetometer (gauss): (1.110,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-4.506,4.646,-4.191)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.633,-0.367,-9.792)"
+"Magnetometer (gauss): (1.110,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-4.305,5.206,-4.944)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.594,-0.409,-9.885)"
+"Magnetometer (gauss): (1.110,-0.072,0.424)"
+"Gyroscope (degrees/sec): (-3.920,5.478,-5.609)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.638,-0.597,-9.856)"
+"Magnetometer (gauss): (1.114,-0.075,0.426)"
+"Gyroscope (degrees/sec): (-4.139,6.055,-5.810)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.620,-0.512,-9.841)"
+"Magnetometer (gauss): (1.114,-0.075,0.426)"
+"Gyroscope (degrees/sec): (-3.833,6.169,-6.256)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.585,-0.561,-9.677)"
+"Magnetometer (gauss): (1.114,-0.075,0.426)"
+"Gyroscope (degrees/sec): (-3.553,6.230,-5.933)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.473,-0.625,-9.787)"
+"Magnetometer (gauss): (1.114,-0.075,0.426)"
+"Gyroscope (degrees/sec): (-2.371,5.364,-5.014)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.363,-0.687,-9.687)"
+"Magnetometer (gauss): (1.102,-0.069,0.425)"
+"Gyroscope (degrees/sec): (-0.683,4.235,-3.456)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.272,-0.710,-9.651)"
+"Magnetometer (gauss): (1.102,-0.069,0.425)"
+"Gyroscope (degrees/sec): (1.741,2.450,-0.744)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.223,-0.713,-9.593)"
+"Magnetometer (gauss): (1.102,-0.069,0.425)"
+"Gyroscope (degrees/sec): (4.498,0.490,1.759)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.276,-0.726,-9.553)"
+"Magnetometer (gauss): (1.102,-0.054,0.419)"
+"Gyroscope (degrees/sec): (7.140,-1.391,3.806)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.421,-0.688,-9.614)"
+"Magnetometer (gauss): (1.107,-0.054,0.419)"
+"Gyroscope (degrees/sec): (9.266,-3.360,4.874)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.502,-0.638,-9.663)"
+"Magnetometer (gauss): (1.107,-0.054,0.419)"
+"Gyroscope (degrees/sec): (10.334,-4.226,5.233)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.603,-0.586,-9.732)"
+"Magnetometer (gauss): (1.107,-0.054,0.419)"
+"Gyroscope (degrees/sec): (11.008,-4.384,5.390)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.664,-0.524,-9.749)"
+"Magnetometer (gauss): (1.107,-0.054,0.454)"
+"Gyroscope (degrees/sec): (10.596,-4.646,5.233)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.653,-0.466,-9.763)"
+"Magnetometer (gauss): (1.111,-0.054,0.433)"
+"Gyroscope (degrees/sec): (9.896,-4.305,4.795)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.649,-0.442,-9.771)"
+"Magnetometer (gauss): (1.111,-0.054,0.433)"
+"Gyroscope (degrees/sec): (8.986,-3.876,4.445)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.589,-0.375,-9.753)"
+"Magnetometer (gauss): (1.111,-0.054,0.433)"
+"Gyroscope (degrees/sec): (8.383,-3.246,3.938)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.628,-0.331,-9.808)"
+"Magnetometer (gauss): (1.111,-0.054,0.433)"
+"Gyroscope (degrees/sec): (7.018,-2.231,3.308)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.640,-0.261,-9.803)"
+"Magnetometer (gauss): (1.107,-0.059,0.428)"
+"Gyroscope (degrees/sec): (5.740,-1.269,2.459)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.627,-0.270,-9.748)"
+"Magnetometer (gauss): (1.107,-0.059,0.428)"
+"Gyroscope (degrees/sec): (4.935,-1.146,1.785)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.610,-0.247,-9.714)"
+"Magnetometer (gauss): (1.107,-0.059,0.428)"
+"Gyroscope (degrees/sec): (3.938,-1.164,0.928)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.614,-0.231,-9.729)"
+"Magnetometer (gauss): (1.107,-0.059,0.428)"
+"Gyroscope (degrees/sec): (2.844,-1.024,0.420)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.609,-0.217,-9.736)"
+"Magnetometer (gauss): (1.107,-0.064,0.433)"
+"Gyroscope (degrees/sec): (1.619,-0.691,-0.184)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.610,-0.188,-9.768)"
+"Magnetometer (gauss): (1.107,-0.064,0.433)"
+"Gyroscope (degrees/sec): (0.114,0.516,-0.324)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.587,-0.184,-9.674)"
+"Magnetometer (gauss): (1.107,-0.064,0.433)"
+"Gyroscope (degrees/sec): (-1.348,0.989,-0.044)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.566,-0.202,-9.641)"
+"Magnetometer (gauss): (1.107,-0.064,0.433)"
+"Gyroscope (degrees/sec): (-4.393,1.505,0.490)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.528,-0.209,-9.541)"
+"Magnetometer (gauss): (1.107,-0.064,0.433)"
+"Gyroscope (degrees/sec): (-3.203,1.593,0.700)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.537,-0.274,-9.608)"
+"Magnetometer (gauss): (1.110,-0.058,0.414)"
+"Gyroscope (degrees/sec): (-3.833,1.356,0.840)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.524,-0.301,-9.567)"
+"Magnetometer (gauss): (1.110,-0.058,0.414)"
+"Gyroscope (degrees/sec): (-3.824,1.173,0.411)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.518,-0.360,-9.456)"
+"Magnetometer (gauss): (1.110,-0.058,0.414)"
+"Gyroscope (degrees/sec): (-3.246,0.674,0.149)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.522,-0.386,-9.371)"
+"Magnetometer (gauss): (1.110,-0.058,0.414)"
+"Gyroscope (degrees/sec): (-2.651,-0.210,-0.131)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.556,-0.440,-9.396)"
+"Magnetometer (gauss): (1.106,-0.062,0.430)"
+"Gyroscope (degrees/sec): (-0.411,-0.254,-0.411)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.606,-0.457,-9.386)"
+"Magnetometer (gauss): (1.106,-0.062,0.430)"
+"Gyroscope (degrees/sec): (1.488,0.788,-0.805)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.535,-0.466,-9.360)"
+"Magnetometer (gauss): (1.106,-0.062,0.430)"
+"Gyroscope (degrees/sec): (3.343,0.228,-0.849)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.515,-0.519,-9.348)"
+"Magnetometer (gauss): (1.106,-0.057,0.436)"
+"Gyroscope (degrees/sec): (5.390,0.726,-0.639)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.588,-0.485,-9.433)"
+"Magnetometer (gauss): (1.106,-0.057,0.436)"
+"Gyroscope (degrees/sec): (6.545,2.179,-0.044)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.603,-0.414,-9.505)"
+"Magnetometer (gauss): (1.106,-0.057,0.436)"
+"Gyroscope (degrees/sec): (6.991,3.378,1.374)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.622,-0.324,-9.610)"
+"Magnetometer (gauss): (1.109,-0.063,0.433)"
+"Gyroscope (degrees/sec): (7.385,3.728,2.669)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.600,-0.290,-9.682)"
+"Magnetometer (gauss): (1.109,-0.063,0.433)"
+"Gyroscope (degrees/sec): (6.729,2.984,3.360)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.537,-0.232,-9.731)"
+"Magnetometer (gauss): (1.109,-0.063,0.433)"
+"Gyroscope (degrees/sec): (5.828,1.960,3.343)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.662,-0.248,-9.695)"
+"Magnetometer (gauss): (1.108,-0.063,0.427)"
+"Gyroscope (degrees/sec): (4.419,1.321,2.660)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.451,-0.258,-9.768)"
+"Magnetometer (gauss): (1.108,-0.063,0.427)"
+"Gyroscope (degrees/sec): (3.211,0.866,2.161)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.371,-0.284,-9.739)"
+"Magnetometer (gauss): (1.108,-0.063,0.427)"
+"Gyroscope (degrees/sec): (1.838,0.700,2.030)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.392,-0.319,-9.693)"
+"Magnetometer (gauss): (1.110,-0.069,0.433)"
+"Gyroscope (degrees/sec): (1.041,0.910,2.135)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.397,-0.313,-9.692)"
+"Magnetometer (gauss): (1.110,-0.069,0.433)"
+"Gyroscope (degrees/sec): (0.061,1.243,2.240)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.403,-0.302,-9.653)"
+"Magnetometer (gauss): (1.110,-0.069,0.433)"
+"Gyroscope (degrees/sec): (-0.403,1.715,2.170)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.434,-0.269,-9.662)"
+"Magnetometer (gauss): (1.110,-0.069,0.433)"
+"Gyroscope (degrees/sec): (-1.120,1.313,2.643)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.481,-0.227,-9.619)"
+"Magnetometer (gauss): (1.110,-0.069,0.433)"
+"Gyroscope (degrees/sec): (-1.479,1.566,3.150)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.507,-0.245,-9.649)"
+"Magnetometer (gauss): (1.109,-0.056,0.421)"
+"Gyroscope (degrees/sec): (-1.601,1.479,3.334)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.542,-0.275,-9.687)"
+"Magnetometer (gauss): (1.109,-0.056,0.421)"
+"Gyroscope (degrees/sec): (-1.628,1.488,3.404)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.496,-0.346,-9.635)"
+"Magnetometer (gauss): (1.109,-0.056,0.421)"
+"Gyroscope (degrees/sec): (-1.181,1.724,3.588)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.467,-0.397,-9.550)"
+"Magnetometer (gauss): (1.109,-0.056,0.421)"
+"Gyroscope (degrees/sec): (-0.228,1.479,3.990)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.398,-0.458,-9.531)"
+"Magnetometer (gauss): (1.108,-0.066,0.423)"
+"Gyroscope (degrees/sec): (0.893,0.551,4.576)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.312,-0.489,-9.522)"
+"Magnetometer (gauss): (1.108,-0.066,0.423)"
+"Gyroscope (degrees/sec): (1.969,0.149,5.268)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.222,-0.522,-9.439)"
+"Magnetometer (gauss): (1.108,-0.066,0.423)"
+"Gyroscope (degrees/sec): (3.185,-0.376,6.178)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.220,-0.541,-9.424)"
+"Magnetometer (gauss): (1.108,-0.066,0.423)"
+"Gyroscope (degrees/sec): (4.288,-0.674,6.878)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.259,-0.528,-9.409)"
+"Magnetometer (gauss): (1.108,-0.066,0.423)"
+"Gyroscope (degrees/sec): (5.530,-0.893,7.788)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.295,-0.478,-9.448)"
+"Magnetometer (gauss): (1.103,-0.061,0.424)"
+"Gyroscope (degrees/sec): (6.064,-1.103,8.461)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.378,-0.425,-9.459)"
+"Magnetometer (gauss): (1.103,-0.061,0.424)"
+"Gyroscope (degrees/sec): (8.820,-1.103,9.441)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.470,-0.331,-9.532)"
+"Magnetometer (gauss): (1.103,-0.061,0.424)"
+"Gyroscope (degrees/sec): (7.333,-0.919,10.325)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.543,-0.237,-9.553)"
+"Magnetometer (gauss): (1.103,-0.061,0.424)"
+"Gyroscope (degrees/sec): (7.674,-1.391,10.780)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.619,-0.167,-9.611)"
+"Magnetometer (gauss): (1.095,-0.067,0.433)"
+"Gyroscope (degrees/sec): (7.420,-2.065,11.174)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.677,-0.091,-9.598)"
+"Magnetometer (gauss): (1.095,-0.067,0.433)"
+"Gyroscope (degrees/sec): (6.948,-2.546,10.518)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.670,-0.027,-9.572)"
+"Magnetometer (gauss): (1.095,-0.067,0.433)"
+"Gyroscope (degrees/sec): (6.493,-0.140,9.879)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.574,-0.024,-9.590)"
+"Magnetometer (gauss): (1.098,-0.076,0.421)"
+"Gyroscope (degrees/sec): (5.801,-1.794,8.978)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.614,-0.074,-9.514)"
+"Magnetometer (gauss): (1.098,-0.076,0.421)"
+"Gyroscope (degrees/sec): (5.093,-0.096,7.070)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.594,-0.066,-9.570)"
+"Magnetometer (gauss): (1.098,-0.076,0.421)"
+"Gyroscope (degrees/sec): (3.710,1.750,5.014)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.617,-0.039,-9.587)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (2.643,1.969,3.246)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.635,-0.004,-9.619)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (1.575,2.056,2.109)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.668,-0.017,-9.513)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (0.849,1.444,0.866)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.538,-0.006,-9.588)"
+"Magnetometer (gauss): (1.098,-0.069,0.418)"
+"Gyroscope (degrees/sec): (-0.236,1.426,0.446)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.668,-0.147,-9.501)"
+"Magnetometer (gauss): (1.098,-0.069,0.418)"
+"Gyroscope (degrees/sec): (-1.689,2.713,0.849)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.679,-0.072,-9.502)"
+"Magnetometer (gauss): (1.098,-0.069,0.418)"
+"Gyroscope (degrees/sec): (-2.520,4.541,0.928)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.653,-0.162,-9.514)"
+"Magnetometer (gauss): (1.098,-0.072,0.433)"
+"Gyroscope (degrees/sec): (-2.669,5.548,0.788)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.582,-0.188,-9.530)"
+"Magnetometer (gauss): (1.098,-0.072,0.433)"
+"Gyroscope (degrees/sec): (-2.424,5.731,0.438)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.527,-0.190,-9.572)"
+"Magnetometer (gauss): (1.098,-0.072,0.433)"
+"Gyroscope (degrees/sec): (-2.494,5.933,0.403)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.531,-0.178,-9.608)"
+"Magnetometer (gauss): (1.098,-0.072,0.426)"
+"Gyroscope (degrees/sec): (-1.925,5.408,0.481)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.381,-0.170,-9.659)"
+"Magnetometer (gauss): (1.096,-0.065,0.426)"
+"Gyroscope (degrees/sec): (-1.575,5.276,0.656)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.384,-0.112,-9.723)"
+"Magnetometer (gauss): (1.096,-0.065,0.426)"
+"Gyroscope (degrees/sec): (-1.864,5.101,0.744)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.493,-0.112,-9.772)"
+"Magnetometer (gauss): (1.096,-0.065,0.426)"
+"Gyroscope (degrees/sec): (-2.450,5.110,0.560)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.451,-0.081,-9.834)"
+"Magnetometer (gauss): (1.096,-0.065,0.431)"
+"Gyroscope (degrees/sec): (-2.984,5.110,0.875)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.387,-0.072,-9.809)"
+"Magnetometer (gauss): (1.112,-0.064,0.431)"
+"Gyroscope (degrees/sec): (-3.973,4.690,1.181)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.315,-0.100,-9.949)"
+"Magnetometer (gauss): (1.112,-0.064,0.431)"
+"Gyroscope (degrees/sec): (-4.673,4.638,1.934)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.318,-0.092,-9.798)"
+"Magnetometer (gauss): (1.112,-0.064,0.431)"
+"Gyroscope (degrees/sec): (-5.661,3.806,2.608)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.476,-0.111,-9.796)"
+"Magnetometer (gauss): (1.112,-0.064,0.431)"
+"Gyroscope (degrees/sec): (-5.959,2.625,3.456)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.324,-0.105,-9.684)"
+"Magnetometer (gauss): (1.097,-0.065,0.434)"
+"Gyroscope (degrees/sec): (-5.749,1.873,4.016)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.357,-0.191,-9.634)"
+"Magnetometer (gauss): (1.097,-0.065,0.434)"
+"Gyroscope (degrees/sec): (-5.154,1.321,4.743)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.428,-0.233,-9.587)"
+"Magnetometer (gauss): (1.097,-0.065,0.434)"
+"Gyroscope (degrees/sec): (-4.305,2.459,4.865)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.472,-0.251,-9.669)"
+"Magnetometer (gauss): (1.097,-0.076,0.429)"
+"Gyroscope (degrees/sec): (-3.115,3.684,4.725)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.499,-0.227,-9.681)"
+"Magnetometer (gauss): (1.106,-0.076,0.429)"
+"Gyroscope (degrees/sec): (-1.838,4.900,4.568)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.505,-0.192,-9.751)"
+"Magnetometer (gauss): (1.106,-0.076,0.429)"
+"Gyroscope (degrees/sec): (-1.181,5.591,4.445)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.524,-0.159,-9.829)"
+"Magnetometer (gauss): (1.106,-0.076,0.429)"
+"Gyroscope (degrees/sec): (-0.193,5.478,4.463)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.465,-0.135,-9.855)"
+"Magnetometer (gauss): (1.106,-0.076,0.429)"
+"Gyroscope (degrees/sec): (0.683,5.521,4.594)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.461,-0.123,-9.858)"
+"Magnetometer (gauss): (1.098,-0.063,0.426)"
+"Gyroscope (degrees/sec): (1.225,4.419,4.366)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.417,-0.105,-9.891)"
+"Magnetometer (gauss): (1.098,-0.063,0.426)"
+"Gyroscope (degrees/sec): (1.558,3.106,3.780)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.420,-0.089,-9.938)"
+"Magnetometer (gauss): (1.098,-0.063,0.426)"
+"Gyroscope (degrees/sec): (1.514,2.529,2.975)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.375,-0.109,-9.928)"
+"Magnetometer (gauss): (1.098,-0.063,0.426)"
+"Gyroscope (degrees/sec): (1.208,2.249,2.144)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.321,-0.112,-9.963)"
+"Magnetometer (gauss): (1.102,-0.060,0.419)"
+"Gyroscope (degrees/sec): (0.884,2.354,2.039)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.260,-0.096,-9.920)"
+"Magnetometer (gauss): (1.102,-0.060,0.419)"
+"Gyroscope (degrees/sec): (0.394,2.118,2.293)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.282,-0.106,-9.951)"
+"Magnetometer (gauss): (1.102,-0.060,0.419)"
+"Gyroscope (degrees/sec): (0.280,2.091,2.713)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.278,-0.092,-9.947)"
+"Magnetometer (gauss): (1.102,-0.060,0.419)"
+"Gyroscope (degrees/sec): (-0.534,2.039,3.150)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.317,-0.063,-9.937)"
+"Magnetometer (gauss): (1.102,-0.060,0.419)"
+"Gyroscope (degrees/sec): (-0.578,1.619,3.763)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.369,-0.058,-9.938)"
+"Magnetometer (gauss): (1.100,-0.059,0.423)"
+"Gyroscope (degrees/sec): (-0.683,1.313,4.016)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.394,-0.059,-9.936)"
+"Magnetometer (gauss): (1.100,-0.059,0.423)"
+"Gyroscope (degrees/sec): (-0.726,0.166,4.060)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.505,-0.077,-9.918)"
+"Magnetometer (gauss): (1.100,-0.059,0.423)"
+"Gyroscope (degrees/sec): (-0.753,-1.208,3.850)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.519,-0.105,-9.901)"
+"Magnetometer (gauss): (1.100,-0.059,0.423)"
+"Gyroscope (degrees/sec): (-0.998,-1.225,3.483)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.658,-0.098,-9.840)"
+"Magnetometer (gauss): (1.095,-0.075,0.419)"
+"Gyroscope (degrees/sec): (-0.306,-0.971,3.780)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.519,-0.176,-9.776)"
+"Magnetometer (gauss): (1.095,-0.075,0.419)"
+"Gyroscope (degrees/sec): (0.096,-0.709,3.351)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.512,-0.249,-9.833)"
+"Magnetometer (gauss): (1.095,-0.075,0.419)"
+"Gyroscope (degrees/sec): (0.613,2.021,3.071)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.554,-0.205,-9.954)"
+"Magnetometer (gauss): (1.097,-0.075,0.432)"
+"Gyroscope (degrees/sec): (0.788,0.569,3.071)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.539,-0.181,-9.859)"
+"Magnetometer (gauss): (1.097,-0.075,0.432)"
+"Gyroscope (degrees/sec): (0.324,0.473,2.800)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.543,-0.144,-9.978)"
+"Magnetometer (gauss): (1.097,-0.075,0.432)"
+"Gyroscope (degrees/sec): (0.201,0.376,3.229)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.559,-0.163,-10.000)"
+"Magnetometer (gauss): (1.097,-0.075,0.432)"
+"Gyroscope (degrees/sec): (-0.289,-0.061,3.439)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.476,-0.205,-9.960)"
+"Magnetometer (gauss): (1.105,-0.063,0.414)"
+"Gyroscope (degrees/sec): (-0.341,-0.901,3.509)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.303,-0.287,-9.954)"
+"Magnetometer (gauss): (1.105,-0.063,0.414)"
+"Gyroscope (degrees/sec): (0.446,-1.925,3.395)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.255,-0.322,-9.785)"
+"Magnetometer (gauss): (1.105,-0.063,0.414)"
+"Gyroscope (degrees/sec): (0.840,-2.205,3.719)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.204,-0.331,-9.711)"
+"Magnetometer (gauss): (1.096,-0.066,0.429)"
+"Gyroscope (degrees/sec): (2.126,-2.170,4.191)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.146,-0.372,-9.687)"
+"Magnetometer (gauss): (1.096,-0.066,0.429)"
+"Gyroscope (degrees/sec): (3.535,-1.978,4.751)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.166,-0.371,-9.684)"
+"Magnetometer (gauss): (1.096,-0.066,0.429)"
+"Gyroscope (degrees/sec): (4.935,-1.881,5.259)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.233,-0.319,-9.728)"
+"Magnetometer (gauss): (1.097,-0.077,0.433)"
+"Gyroscope (degrees/sec): (5.591,-2.266,5.460)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.325,-0.264,-9.840)"
+"Magnetometer (gauss): (1.097,-0.077,0.433)"
+"Gyroscope (degrees/sec): (5.749,-3.701,5.399)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.351,-0.225,-9.842)"
+"Magnetometer (gauss): (1.097,-0.077,0.433)"
+"Gyroscope (degrees/sec): (4.585,-5.093,5.233)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.318,-0.201,-9.851)"
+"Magnetometer (gauss): (1.097,-0.077,0.433)"
+"Gyroscope (degrees/sec): (3.430,-6.913,5.478)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.315,-0.233,-9.845)"
+"Magnetometer (gauss): (1.103,-0.066,0.426)"
+"Gyroscope (degrees/sec): (2.328,-8.015,5.110)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.334,-0.302,-9.780)"
+"Magnetometer (gauss): (1.103,-0.066,0.426)"
+"Gyroscope (degrees/sec): (0.831,-8.916,4.603)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.328,-0.336,-9.763)"
+"Magnetometer (gauss): (1.103,-0.066,0.426)"
+"Gyroscope (degrees/sec): (-0.525,-9.634,3.973)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.341,-0.363,-9.806)"
+"Magnetometer (gauss): (1.105,-0.063,0.419)"
+"Gyroscope (degrees/sec): (-2.004,-9.774,3.623)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.297,-0.427,-9.735)"
+"Magnetometer (gauss): (1.105,-0.063,0.419)"
+"Gyroscope (degrees/sec): (-3.439,-9.905,4.121)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.109,-0.482,-9.612)"
+"Magnetometer (gauss): (1.105,-0.063,0.419)"
+"Gyroscope (degrees/sec): (-4.174,-10.500,5.329)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.287,-0.523,-9.455)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (-4.891,-11.708,6.370)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.512,-0.520,-9.316)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (-4.813,-11.541,7.516)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.501,-0.520,-9.250)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (-4.699,-10.325,8.479)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.644,-0.454,-9.209)"
+"Magnetometer (gauss): (1.103,-0.068,0.424)"
+"Gyroscope (degrees/sec): (-4.270,-7.735,9.634)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.651,-0.426,-9.258)"
+"Magnetometer (gauss): (1.102,-0.070,0.427)"
+"Gyroscope (degrees/sec): (-4.349,-5.294,10.474)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.609,-0.397,-9.240)"
+"Magnetometer (gauss): (1.102,-0.070,0.427)"
+"Gyroscope (degrees/sec): (-3.360,-4.314,13.405)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.529,-0.370,-9.285)"
+"Magnetometer (gauss): (1.102,-0.070,0.427)"
+"Gyroscope (degrees/sec): (-2.065,-4.174,11.471)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.429,-0.366,-9.248)"
+"Magnetometer (gauss): (1.100,-0.068,0.414)"
+"Gyroscope (degrees/sec): (-0.481,-4.340,11.226)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.479,-0.337,-9.221)"
+"Magnetometer (gauss): (1.100,-0.068,0.414)"
+"Gyroscope (degrees/sec): (0.919,-4.226,10.701)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.612,-0.285,-9.233)"
+"Magnetometer (gauss): (1.100,-0.068,0.414)"
+"Gyroscope (degrees/sec): (2.153,-2.765,9.739)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.693,-0.152,-9.367)"
+"Magnetometer (gauss): (1.100,-0.068,0.414)"
+"Gyroscope (degrees/sec): (2.686,-0.228,9.065)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.629,-0.016,-9.439)"
+"Magnetometer (gauss): (1.094,-0.069,0.424)"
+"Gyroscope (degrees/sec): (2.494,2.109,8.663)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.548,0.071,-9.430)"
+"Magnetometer (gauss): (1.094,-0.069,0.424)"
+"Gyroscope (degrees/sec): (2.835,2.503,7.945)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.431,0.106,-9.620)"
+"Magnetometer (gauss): (1.094,-0.069,0.424)"
+"Gyroscope (degrees/sec): (3.448,2.415,6.519)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.399,0.128,-9.582)"
+"Magnetometer (gauss): (1.096,-0.060,0.429)"
+"Gyroscope (degrees/sec): (3.596,2.013,4.839)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.378,0.159,-9.654)"
+"Magnetometer (gauss): (1.096,-0.060,0.429)"
+"Gyroscope (degrees/sec): (3.815,2.109,3.588)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.310,0.176,-9.675)"
+"Magnetometer (gauss): (1.096,-0.060,0.429)"
+"Gyroscope (degrees/sec): (3.273,2.853,3.395)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.190,0.244,-9.734)"
+"Magnetometer (gauss): (1.101,-0.077,0.417)"
+"Gyroscope (degrees/sec): (2.800,3.631,3.150)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.195,0.326,-9.765)"
+"Magnetometer (gauss): (1.101,-0.077,0.417)"
+"Gyroscope (degrees/sec): (2.380,3.588,2.896)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.234,0.359,-9.738)"
+"Magnetometer (gauss): (1.101,-0.077,0.417)"
+"Gyroscope (degrees/sec): (1.671,4.480,2.389)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.257,0.389,-9.669)"
+"Magnetometer (gauss): (1.099,-0.063,0.432)"
+"Gyroscope (degrees/sec): (1.741,5.451,1.873)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.238,0.437,-9.758)"
+"Magnetometer (gauss): (1.099,-0.063,0.432)"
+"Gyroscope (degrees/sec): (2.678,5.539,1.619)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.198,0.486,-9.770)"
+"Magnetometer (gauss): (1.099,-0.063,0.432)"
+"Gyroscope (degrees/sec): (2.975,6.326,1.663)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.174,0.552,-9.900)"
+"Magnetometer (gauss): (1.099,-0.063,0.396)"
+"Gyroscope (degrees/sec): (3.474,7.053,1.890)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.156,0.583,-9.966)"
+"Magnetometer (gauss): (1.094,-0.073,0.424)"
+"Gyroscope (degrees/sec): (4.051,7.586,2.660)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.178,0.623,-10.102)"
+"Magnetometer (gauss): (1.094,-0.073,0.424)"
+"Gyroscope (degrees/sec): (4.979,7.070,2.538)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.225,0.683,-10.111)"
+"Magnetometer (gauss): (1.094,-0.073,0.424)"
+"Gyroscope (degrees/sec): (5.276,6.169,1.584)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.174,0.653,-10.180)"
+"Magnetometer (gauss): (1.098,-0.065,0.433)"
+"Gyroscope (degrees/sec): (5.819,4.314,1.015)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.199,0.664,-10.134)"
+"Magnetometer (gauss): (1.098,-0.065,0.433)"
+"Gyroscope (degrees/sec): (6.580,2.538,0.333)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.160,0.671,-10.171)"
+"Magnetometer (gauss): (1.098,-0.065,0.433)"
+"Gyroscope (degrees/sec): (6.939,-0.166,-0.945)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.178,0.644,-10.023)"
+"Magnetometer (gauss): (1.090,-0.071,0.417)"
+"Gyroscope (degrees/sec): (7.289,-2.196,-2.135)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.251,0.635,-9.970)"
+"Magnetometer (gauss): (1.090,-0.071,0.417)"
+"Gyroscope (degrees/sec): (7.245,-3.509,-3.605)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.350,0.605,-9.968)"
+"Magnetometer (gauss): (1.090,-0.071,0.417)"
+"Gyroscope (degrees/sec): (7.210,-4.716,-5.198)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.437,0.534,-9.858)"
+"Magnetometer (gauss): (1.096,-0.076,0.403)"
+"Gyroscope (degrees/sec): (6.641,-6.169,-6.965)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.470,0.433,-9.782)"
+"Magnetometer (gauss): (1.096,-0.076,0.403)"
+"Gyroscope (degrees/sec): (5.810,-6.843,-8.566)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.545,0.419,-9.740)"
+"Magnetometer (gauss): (1.096,-0.076,0.403)"
+"Gyroscope (degrees/sec): (4.611,-8.076,-9.765)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.625,0.321,-9.677)"
+"Magnetometer (gauss): (1.094,-0.081,0.421)"
+"Gyroscope (degrees/sec): (3.675,-9.056,-11.008)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.720,0.197,-9.586)"
+"Magnetometer (gauss): (1.094,-0.081,0.421)"
+"Gyroscope (degrees/sec): (2.328,-9.984,-12.005)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.816,0.111,-9.511)"
+"Magnetometer (gauss): (1.094,-0.081,0.421)"
+"Gyroscope (degrees/sec): (0.945,-9.853,-13.081)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.844,-0.001,-9.406)"
+"Magnetometer (gauss): (1.102,-0.082,0.426)"
+"Gyroscope (degrees/sec): (-0.359,-9.266,-13.956)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.856,-0.103,-9.302)"
+"Magnetometer (gauss): (1.102,-0.082,0.426)"
+"Gyroscope (degrees/sec): (-1.295,-8.269,-14.035)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.887,-0.163,-9.251)"
+"Magnetometer (gauss): (1.102,-0.082,0.426)"
+"Gyroscope (degrees/sec): (-2.310,-6.606,-13.703)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.832,-0.238,-9.153)"
+"Magnetometer (gauss): (1.102,-0.082,0.405)"
+"Gyroscope (degrees/sec): (-3.133,-5.355,-13.388)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.787,-0.354,-9.026)"
+"Magnetometer (gauss): (1.104,-0.070,0.405)"
+"Gyroscope (degrees/sec): (-3.693,-3.106,-13.055)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.782,-0.417,-9.069)"
+"Magnetometer (gauss): (1.104,-0.070,0.405)"
+"Gyroscope (degrees/sec): (-3.973,-1.636,-12.731)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.764,-0.479,-9.055)"
+"Magnetometer (gauss): (1.104,-0.070,0.405)"
+"Gyroscope (degrees/sec): (-3.675,0.105,-12.215)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.708,-0.544,-9.035)"
+"Magnetometer (gauss): (1.098,-0.062,0.434)"
+"Gyroscope (degrees/sec): (-3.535,1.680,-11.253)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.669,-0.614,-9.079)"
+"Magnetometer (gauss): (1.098,-0.062,0.434)"
+"Gyroscope (degrees/sec): (-2.800,3.159,-9.713)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.636,-0.622,-9.097)"
+"Magnetometer (gauss): (1.098,-0.062,0.434)"
+"Gyroscope (degrees/sec): (-2.398,5.364,-7.438)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.589,-0.573,-9.214)"
+"Magnetometer (gauss): (1.101,-0.067,0.430)"
+"Gyroscope (degrees/sec): (-1.234,7.263,-5.233)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.536,-0.473,-9.220)"
+"Magnetometer (gauss): (1.101,-0.067,0.430)"
+"Gyroscope (degrees/sec): (-0.210,9.170,-3.736)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.484,-0.419,-9.410)"
+"Magnetometer (gauss): (1.101,-0.067,0.430)"
+"Gyroscope (degrees/sec): (0.613,9.826,-2.319)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.415,-0.364,-9.572)"
+"Magnetometer (gauss): (1.109,-0.073,0.423)"
+"Gyroscope (degrees/sec): (1.409,9.721,-2.153)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.349,-0.336,-9.578)"
+"Magnetometer (gauss): (1.109,-0.073,0.423)"
+"Gyroscope (degrees/sec): (2.529,9.415,-1.479)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.353,-0.315,-9.709)"
+"Magnetometer (gauss): (1.109,-0.073,0.423)"
+"Gyroscope (degrees/sec): (3.693,9.240,-1.059)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.306,-0.291,-9.761)"
+"Magnetometer (gauss): (1.099,-0.070,0.427)"
+"Gyroscope (degrees/sec): (4.961,8.803,-1.041)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.287,-0.271,-9.830)"
+"Magnetometer (gauss): (1.099,-0.070,0.427)"
+"Gyroscope (degrees/sec): (5.994,8.356,-0.928)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.208,-0.210,-9.866)"
+"Magnetometer (gauss): (1.099,-0.070,0.427)"
+"Gyroscope (degrees/sec): (7.096,7.385,-1.260)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.178,-0.002,-10.021)"
+"Magnetometer (gauss): (1.100,-0.073,0.425)"
+"Gyroscope (degrees/sec): (7.683,7.298,-1.330)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.128,-0.050,-10.070)"
+"Magnetometer (gauss): (1.100,-0.073,0.425)"
+"Gyroscope (degrees/sec): (8.251,5.714,-1.208)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.141,0.002,-10.042)"
+"Magnetometer (gauss): (1.100,-0.073,0.425)"
+"Gyroscope (degrees/sec): (8.934,3.325,-0.630)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.184,0.043,-9.985)"
+"Magnetometer (gauss): (1.100,-0.081,0.415)"
+"Gyroscope (degrees/sec): (9.450,1.733,-0.044)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.227,0.053,-9.869)"
+"Magnetometer (gauss): (1.103,-0.081,0.415)"
+"Gyroscope (degrees/sec): (9.835,1.111,0.534)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.257,0.074,-9.904)"
+"Magnetometer (gauss): (1.103,-0.081,0.415)"
+"Gyroscope (degrees/sec): (10.500,0.779,0.805)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.277,0.108,-9.799)"
+"Magnetometer (gauss): (1.103,-0.081,0.415)"
+"Gyroscope (degrees/sec): (10.894,0.718,0.656)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.357,0.135,-9.849)"
+"Magnetometer (gauss): (1.102,-0.080,0.424)"
+"Gyroscope (degrees/sec): (10.719,0.394,-0.350)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.424,0.179,-9.905)"
+"Magnetometer (gauss): (1.102,-0.080,0.424)"
+"Gyroscope (degrees/sec): (9.293,-0.271,-0.998)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.438,0.211,-9.918)"
+"Magnetometer (gauss): (1.102,-0.080,0.424)"
+"Gyroscope (degrees/sec): (8.164,-0.254,-1.584)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.439,0.260,-9.919)"
+"Magnetometer (gauss): (1.099,-0.081,0.414)"
+"Gyroscope (degrees/sec): (6.396,-1.383,-1.820)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.459,0.259,-9.844)"
+"Magnetometer (gauss): (1.099,-0.081,0.414)"
+"Gyroscope (degrees/sec): (4.821,-1.689,-2.433)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.526,0.236,-9.827)"
+"Magnetometer (gauss): (1.099,-0.081,0.414)"
+"Gyroscope (degrees/sec): (3.483,-1.925,-3.246)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.534,0.240,-9.768)"
+"Magnetometer (gauss): (1.100,-0.081,0.423)"
+"Gyroscope (degrees/sec): (1.759,-2.065,-4.200)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.495,0.178,-9.680)"
+"Magnetometer (gauss): (1.100,-0.081,0.423)"
+"Gyroscope (degrees/sec): (0.534,-1.794,-5.049)"
+Temperature: 25.500C
+"Acceleration (m/s^2): (1.496,0.108,-9.609)"
+"Magnetometer (gauss): (1.100,-0.081,0.423)"
+"Gyroscope (degrees/sec): (-0.586,-1.575,-5.425)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.482,0.075,-9.555)"
+"Magnetometer (gauss): (1.100,-0.079,0.419)"
+"Gyroscope (degrees/sec): (-1.321,-1.584,-5.670)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.472,0.059,-9.417)"
+"Magnetometer (gauss): (1.100,-0.079,0.419)"
+"Gyroscope (degrees/sec): (-1.628,-1.514,-6.073)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.512,-0.019,-9.475)"
+"Magnetometer (gauss): (1.100,-0.079,0.419)"
+"Gyroscope (degrees/sec): (-1.505,-0.866,-6.353)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.542,-0.029,-9.291)"
+"Magnetometer (gauss): (1.100,-0.079,0.419)"
+"Gyroscope (degrees/sec): (-1.278,0.035,-6.808)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.580,-0.137,-9.223)"
+"Magnetometer (gauss): (1.104,-0.078,0.416)"
+"Gyroscope (degrees/sec): (-0.630,1.391,-7.551)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.576,-0.185,-9.221)"
+"Magnetometer (gauss): (1.104,-0.078,0.416)"
+"Gyroscope (degrees/sec): (0.499,3.448,-7.648)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.582,-0.234,-9.269)"
+"Magnetometer (gauss): (1.104,-0.078,0.416)"
+"Gyroscope (degrees/sec): (1.873,5.504,-7.875)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.595,-0.254,-9.390)"
+"Magnetometer (gauss): (1.096,-0.080,0.415)"
+"Gyroscope (degrees/sec): (2.196,5.898,-7.936)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.517,-0.263,-9.380)"
+"Magnetometer (gauss): (1.096,-0.080,0.415)"
+"Gyroscope (degrees/sec): (2.555,6.221,-7.534)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.352,-0.283,-9.475)"
+"Magnetometer (gauss): (1.095,-0.082,0.415)"
+"Gyroscope (degrees/sec): (2.739,8.628,-5.906)"
+Temperature: 26.500C
+"Acceleration (m/s^2): (1.053,-0.419,-9.607)"
+"Magnetometer (gauss): (1.095,-0.082,0.415)"
+"Gyroscope (degrees/sec): (2.581,9.301,-4.594)"
+Temperature: 26.500C
