@@ -136,8 +136,8 @@ def kalman(rssi, dist, rssi_sig, dist_sig):
         print("predict: [{}, {}]".format(mu, sig))
 
     print("final: [{}, {}]".format(mu, sig))
-    plt.plot(x)
-    plt.show()
+    #plt.plot(x)
+    #plt.show()
     return mu, sig
 
 # 1 accumulate the accel until next sensor measurement v=v+a*t, x=x+v*t
@@ -213,15 +213,14 @@ def accelToDist(accel):
     #proj_dist = project(plane, vel)
 
     projections = []
-    previous_directed_mag = 0.0
     for v in vel:
         p = project(plane, v)
         mag = magnitude(p)
         #make the magnitude negative if it is in the opposite direction
         directed_mag = check_direction(p, plane)*mag
-        previous_directed_mag+=directed_mag
-        projections.append(previous_directed_mag)
-
+        projections.append(directed_mag)
+    plt.plot(projections)
+    plt.show()
     return projections
 
 
