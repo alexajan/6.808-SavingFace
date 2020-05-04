@@ -44,6 +44,7 @@ def plot_data(accel, mag, gyro, filename):
 
 
 def parse_data():
+    filename = sys.argv[1]
 
     rssi = []
     accel = []
@@ -55,25 +56,50 @@ def parse_data():
         reader = csv.reader(file, delimiter=',')
         for row in reader:
 
-            if row[0][0] == "D": # RSSI
-                rssi_i = row[0].find("RSSI = ")
-                rssi.append(float(row[0][rssi_i+7:]))
+            if len(row) == 1 or len(row) == 2:  # 1 column format
+                if row[0][0] == "R":  # RSSI
+                    rssi.append(float(row[1]))
 
-            elif row[0][0] == "A": # Acceleration
-                acc_i = row[0].find(":")
-                accel.append([float(row[0][acc_i+3:]), float(row[1]), float(row[2][:-1])])
+                elif row[0][0] == "A":  # Acceleration
+                    acc_i = row[0].find(":")
+                    values = row[0].split(",")
+                    accel.append([float(values[0][acc_i+3:]), float(values[1]), float(values[2][:-1])])
 
-            elif row[0][0] == "M": # Magnetometer
-                mag_i = row[0].find(":")
-                mag.append([float(row[0][mag_i+3:]), float(row[1]), float(row[2][:-1])])
+                elif row[0][0] == "M":  # Magnetometer
+                    mag_i = row[0].find(":")
+                    values = row[0].split(",")
+                    mag.append([float(values[0][mag_i+3:]), float(values[1]), float(values[2][:-1])])
 
-            elif row[0][0] == "G": # Gyroscope
-                gyro_i = row[0].find(":")
-                gyro.append([float(row[0][gyro_i+3:]), float(row[1]), float(row[2][:-1])])
+                elif row[0][0] == "G":  # Gyroscope
+                    gyro_i = row[0].find(":")
+                    values = row[0].split(",")
+                    gyro.append([float(values[0][gyro_i+3:]), float(values[1]), float(values[2][:-1])])
 
-            elif row[0][0] == "T": # Temperature
-                temp_i = row[0].find(":")
-                temp.append(float(row[0][temp_i+3:-1]))
+                elif row[0][0] == "T":  # Temperature
+                    temp_i = row[0].find(":")
+                    temp.append(float(row[0][temp_i + 3:-1]))
+
+            else:
+
+                if row[0][0] == "D":  # RSSI
+                    rssi_i = row[0].find("RSSI = ")
+                    rssi.append(float(row[0][rssi_i+7:]))
+
+                elif row[0][0] == "A":  # Acceleration
+                    acc_i = row[0].find(":")
+                    accel.append([float(row[0][acc_i+3:]), float(row[1]), float(row[2][:-1])])
+
+                elif row[0][0] == "M":  # Magnetometer
+                    mag_i = row[0].find(":")
+                    mag.append([float(row[0][mag_i+3:]), float(row[1]), float(row[2][:-1])])
+
+                elif row[0][0] == "G":  # Gyroscope
+                    gyro_i = row[0].find(":")
+                    gyro.append([float(row[0][gyro_i+3:]), float(row[1]), float(row[2][:-1])])
+
+                elif row[0][0] == "T":  # Temperature
+                    temp_i = row[0].find(":")
+                    temp.append(float(row[0][temp_i+3:-1]))
 
         return rssi, accel, mag, gyro
 

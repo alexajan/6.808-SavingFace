@@ -124,8 +124,8 @@ def predict(mean1, var1, mean2, var2):
 
 
 def kalman(rssi, dist, rssi_sig, dist_sig):
-    mu = 0.
-    sig = 10000.
+    mu = -50.
+    sig = 100.
     x = []
 
     for i in range(len(rssi)):
@@ -154,8 +154,8 @@ def rssiToDist(rssi):
 
 
 def project(plane, vector):
-    c = np.dot(vector,plane)/magnitude(plane)
-    return np.multiply(plane,c)
+    c = np.dot(vector, plane)/magnitude(plane)
+    return np.multiply(plane, c)
 
 
 def magnitude(vector):
@@ -163,10 +163,11 @@ def magnitude(vector):
 
 
 def check_direction(projection, plane):
-    if np.dot(projection, plane)>0:
+    if np.dot(projection, plane) > 0:
         return 1.0
     else:
         return -1.0
+
 
 def define_plane(vectors):
     # end vector - start vector
@@ -185,7 +186,7 @@ def define_plane(vectors):
 
 
 def accelToDist(accel):
-    vel = []
+    dist = []
 
     dt = 0.0025  # 1/400Hz
 
@@ -193,31 +194,31 @@ def accelToDist(accel):
     v_y = 0
     v_z = 0
 
-    # x_x = 0
-    # x_y = 0
-    # x_z = 0
+    x_x = 0
+    x_y = 0
+    x_z = 0
 
     for a in accel:
         v_x += a[0] * dt
-        # x_x += v_x * dt
+        x_x += v_x * dt
 
         v_y += a[1] * dt
-        # x_y += v_y * dt
+        x_y += v_y * dt
 
         v_z += a[2] * dt
-        # x_z += v_z * dt
+        x_z += v_z * dt
 
-        vel.append([v_x, v_y, v_z])
+        dist.append([x_x, x_y, x_z])
 
-    plane = define_plane(vel)
-    #proj_dist = project(plane, vel)
+    plane = define_plane(dist)
 
     projections = []
-    for v in vel:
-        p = project(plane, v)
+
+    for d in dist:
+        p = project(plane, d)
         mag = magnitude(p)
-        #make the magnitude negative if it is in the opposite direction
-        directed_mag = check_direction(p, plane)*mag
+        # make the magnitude negative if it is in the opposite direction
+        directed_mag = check_direction(p, plane) * mag
         projections.append(directed_mag)
     plt.plot(projections)
     plt.show()
@@ -234,4 +235,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #parse_data()
