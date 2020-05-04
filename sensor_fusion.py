@@ -153,9 +153,20 @@ def rssiToDist(rssi):
     return pow(10, (tx - rssi)/(10 * n))
 
 
-def project(plane, vectors):
-    pass
+def project(plane, vector):
+    c = np.dot(vector,plane)/magnitude(plane)
+    return np.multiply(plane,c)
 
+
+def magnitude(vector):
+    return np.linalg.norm(vector)
+
+
+def check_direction(projection, plane):
+    if np.dot(projection, plane)>0:
+        return 1.0
+    else:
+        return -1.0
 
 def define_plane(vectors):
     # end vector - start vector
@@ -199,9 +210,19 @@ def accelToDist(accel):
         vel.append([v_x, v_y, v_z])
 
     plane = define_plane(vel)
-    proj_dist = project(plane, vel)
+    #proj_dist = project(plane, vel)
 
-    return proj_dist
+    projections = []
+    previous_directed_mag = 0.0
+    for v in vel:
+        p = project(plane, v)
+        mag = magnitude(p)
+        #make the magnitude negative if it is in the opposite direction
+        directed_mag = check_direction(p, plane)*mag
+        previous_directed_mag+=directed_mag
+        projections.append(previous_directed_mag)
+
+    return projections
 
 
 def main():
@@ -213,5 +234,5 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
-    parse_data()
+    main()
+    #parse_data()
