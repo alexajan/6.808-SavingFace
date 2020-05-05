@@ -102,13 +102,6 @@ def parse_data():
         return rssi, accel, mag, gyro
 
 
-def f(mu, sigma2, x):
-    """Gaussian function, mu = mean, sigma2 = squared variance, x = input, returns gaussian value"""
-    coefficient = 1.0 / sqrt(2.0 * pi * sigma2)
-    exponential = exp(-0.5 * (x - mu) ** 2 / sigma2)
-    return coefficient * exponential
-
-
 def update(mean1, var1, mean2, var2):
     """Updates Gaussian parameters"""
     new_mean = (var2 * mean1 + var1 * mean2) / (var2 + var1)
@@ -234,4 +227,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    print(rssiToDist(-60))
