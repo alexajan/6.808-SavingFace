@@ -42,7 +42,8 @@ def plot_data(accel, mag, gyro, filename):
 
 
 def parse_data():
-    filename = sys.argv[1]
+    #filename = sys.argv[1]
+    filename = "data_motions/touch_face_single4"
 
     rssi = []
     accel = []
@@ -149,13 +150,20 @@ def kalman(rssi, dist, rssi_sig, dist_sig):
 
 def rssiToDist(rssi):
     n = 2  # propagation in free space
-    tx = -69  # kontakt BLE beacon RSSI @ 1m
+    tx = -55  # kontakt BLE beacon RSSI @ 1m
     return pow(10, (tx - rssi)/(10 * n))
 
 
+def distToRSSI(dist):
+    #dist = 10^[(tx-rssi)/10n]
+    n = 2
+    tx = -55
+    return log10(dist) * -10*n + tx
+
 def project(plane, vector):
-    c = np.dot(vector, plane)/magnitude(plane)
-    return np.multiply(plane, c)
+    # c is the percentage of the plane vector that you have traversed so far
+    c = np.dot(vector, plane)/(magnitude(plane)**2)
+    return c
 
 
 def magnitude(vector):
@@ -182,6 +190,8 @@ def define_plane(vectors):
     end_y = sum([i[1] for i in vectors[-5:]])/5
     end_z = sum([i[2] for i in vectors[-5:]])/5
 
+    #for i in range(0,5):
+        #print(vectors[-i][2])
     return [end_x-start_x, end_y-start_y, end_z-start_z]
 
 
@@ -213,13 +223,17 @@ def accelToDist(accel):
     plane = define_plane(dist)
 
     projections = []
-
+    previous_percentage = 0
     for d in dist:
-        p = project(plane, d)
-        mag = magnitude(p)
+        percentage_moved_total = project(plane, d)
+        new_movement_percent = percentage_moved_total-previous_percentage
+        #mag = magnitude(new_p)
         # make the magnitude negative if it is in the opposite direction
-        directed_mag = check_direction(p, plane) * mag
-        projections.append(directed_mag)
+        #directed_mag = check_direction(new_p, plane) * new_p
+        projections.append(distToRSSI(new_movement_percent*0.6091))
+        previous_percentage = percentage_moved_total
+    x = sum(projections)
+    print(projections)
     plt.plot(projections)
     plt.show()
     return projections
@@ -229,7 +243,7 @@ def main():
     rssi, accel, mag, gyro = parse_data()
     dist = accelToDist(accel)
     rssi_sig = 90  # opt+clk wifi for rssi noise
-    dist_sig = 0.00003  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
+    dist_sig = distToRSSI(.00003)  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
     kalman(rssi, dist, rssi_sig, dist_sig)
 
 
