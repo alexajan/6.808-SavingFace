@@ -3,6 +3,7 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 from math import *
+import statistics as stat
 
 
 def plot_data(accel, mag, gyro, filename):
@@ -42,8 +43,7 @@ def plot_data(accel, mag, gyro, filename):
 
 
 def parse_data():
-    #filename = sys.argv[1]
-    filename = "data_motions/touch_face_single4"
+    filename = sys.argv[1]
 
     rssi = []
     accel = []
@@ -118,20 +118,22 @@ def predict(mean1, var1, mean2, var2):
 
 
 def kalman(rssi, dist, rssi_sig, dist_sig):
-    mu = -50.
-    sig = 100.
+    mu = 0.6
+    sig = 10.
     x = []
 
-    for i in range(len(rssi)):
-        mu, sig = update(mu, sig, rssi[i], rssi_sig)
-        x.append(mu)
-        print("update: [{}, {}]".format(mu, sig))
+    ratio = len(dist)//len(rssi)
+    for i in range(len(dist)):
+        if i % ratio == 0:
+            mu, sig = update(mu, sig, rssi[i % ratio], rssi_sig)
+            x.append(mu)
+            # print("update: [{}, {}]".format(mu, sig))
         mu, sig = predict(mu, sig, dist[i], dist_sig)
-        print("predict: [{}, {}]".format(mu, sig))
+        # print("predict: [{}, {}]".format(mu, sig))
+        if mu < 0:
+            mu = 0
 
     print("final: [{}, {}]".format(mu, sig))
-    #plt.plot(x)
-    #plt.show()
     return mu, sig
 
 # 1 accumulate the accel until next sensor measurement v=v+a*t, x=x+v*t
@@ -152,6 +154,7 @@ def distToRSSI(dist):
     n = 2
     tx = -55
     return log10(dist) * -10*n + tx
+
 
 def project(plane, vector):
     # c is the percentage of the plane vector that you have traversed so far
@@ -175,20 +178,18 @@ def define_plane(vectors):
     # start vector = avg accel 5-10
     # end vector = avg accel last 5
 
-    start_x = sum([i[0] for i in vectors[5:11]])/5
-    start_y = sum([i[1] for i in vectors[5:11]])/5
-    start_z = sum([i[2] for i in vectors[5:11]])/5
+    start_x = sum([i[0] for i in vectors[:5]])/5
+    start_y = sum([i[1] for i in vectors[:5]])/5
+    start_z = sum([i[2] for i in vectors[:5]])/5
 
     end_x = sum([i[0] for i in vectors[-5:]])/5
     end_y = sum([i[1] for i in vectors[-5:]])/5
     end_z = sum([i[2] for i in vectors[-5:]])/5
 
-    #for i in range(0,5):
-        #print(vectors[-i][2])
     return [end_x-start_x, end_y-start_y, end_z-start_z]
 
 
-def accelToDist(accel):
+def accelToDist(accel, away):
     dist = []
 
     dt = 0.0025  # 1/400Hz
@@ -201,7 +202,7 @@ def accelToDist(accel):
     x_y = 0
     x_z = 0
 
-    for a in accel:
+    for a in accel[5:]:
         v_x += a[0] * dt
         x_x += v_x * dt
 
@@ -213,33 +214,42 @@ def accelToDist(accel):
 
         dist.append([x_x, x_y, x_z])
 
-    plane = define_plane(dist)
+    if away:
+        plane = [-i for i in define_plane(dist)]
+    else:
+        plane = define_plane(dist)
 
     projections = []
     previous_percentage = 0
     for d in dist:
         percentage_moved_total = project(plane, d)
-        new_movement_percent = percentage_moved_total-previous_percentage
-        #mag = magnitude(new_p)
-        # make the magnitude negative if it is in the opposite direction
-        #directed_mag = check_direction(new_p, plane) * new_p
-        projections.append(distToRSSI(new_movement_percent*0.6091))
+        if percentage_moved_total < 0:
+            new_movement_percent = abs(percentage_moved_total) - abs(previous_percentage)  # negative
+            projections.append(abs(new_movement_percent) * 0.6096)  # +0.1
+
+        else:
+            new_movement_percent = percentage_moved_total-previous_percentage  # positive
+            projections.append(new_movement_percent * -0.6096)  # -0.1
+
         previous_percentage = percentage_moved_total
-    x = sum(projections)
-    print(projections)
-    plt.plot(projections)
-    plt.show()
+    print(sum(projections))
     return projections
 
 
 def main():
     rssi, accel, mag, gyro = parse_data()
-    dist = accelToDist(accel)
-    rssi_sig = 90  # opt+clk wifi for rssi noise
-    dist_sig = distToRSSI(.00003)  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
-    kalman(rssi, dist, rssi_sig, dist_sig)
+    print(rssi, stat.median(rssi[-3:]))
+    if stat.median(rssi[-3:]) <= rssi[0]:
+        dist = accelToDist(accel, True)
+    else:
+        dist = accelToDist(accel, False)
+
+    rssi_dist = [rssiToDist(i) for i in rssi]
+    rssi_sig = rssiToDist(-90)  # opt+clk wifi for rssi noise
+    dist_sig = .00003  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
+
+    kalman(rssi_dist, dist, rssi_sig, dist_sig)
 
 
 if __name__ == "__main__":
-    # main()
-    print(rssiToDist(-60))
+    main()
