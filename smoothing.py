@@ -104,11 +104,10 @@ def parse_data():
         return rssi, accel, mag, gyro
 
 
-def f(mu, sigma2, x):
-    """Gaussian function, mu = mean, sigma2 = squared variance, x = input, returns gaussian value"""
-    coefficient = 1.0 / sqrt(2.0 * pi * sigma2)
-    exponential = exp(-0.5 * (x - mu) ** 2 / sigma2)
-    return coefficient * exponential
+def rssiToDist(rssi):
+    n = 2  # propagation in free space
+    tx = -69  # kontakt BLE beacon RSSI @ 1m
+    return pow(10, (tx - rssi)/(10 * n))
 
 
 def update(mean1, var1, mean2, var2):
@@ -126,7 +125,7 @@ def predict(mean1, var1, mean2, var2):
 
 
 def kalman(rssi, motions, rssi_sig, motion_sig):
-    mu = 0.
+    mu = 2.
     sig = 10000.
     x = []
 
@@ -139,17 +138,19 @@ def kalman(rssi, motions, rssi_sig, motion_sig):
 
     print("final: [{}, {}]".format(mu, sig))
     plt.plot(x)
-    plt.savefig(filename + "_kalman.png")
+    # plt.savefig(filename + "_kalman.png")
     plt.show()
     return mu, sig
 
 
 def main():
     rssi, accel, mag, gyro = parse_data()
-    motions = [1.5 for i in range(len(rssi))]
-    rssi_sig = 90 # opt+clk wifi for rssi noise
+    motions = [0.125 for i in range(len(rssi))]
+    rssi_dist = [rssiToDist(i) for i in rssi]
+    rssi_sig = rssiToDist(90) # opt+clk wifi for rssi noise
     motion_sig = 0.001
-    kalman(rssi, motions, rssi_sig, motion_sig)
+    kalman(rssi_dist, motions, rssi_sig, motion_sig)
+
 
 if __name__ == "__main__":
     main()
