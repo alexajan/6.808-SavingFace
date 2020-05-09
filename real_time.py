@@ -239,7 +239,7 @@ def main_kalman():
     w = max(15, len(rssi))  # metric for optimized RSSI list length
     r = len(accel) // len(rssi)
     accel = accel[-w * r:]
-    rssi = rssi_vals[-w:]
+    rssi = rssi[-w:]
     if stat.median(rssi[-3:]) <= rssi[0]:
         dist = accelToDist(accel, True)
     else:
