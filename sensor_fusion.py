@@ -42,8 +42,7 @@ def plot_data(accel, mag, gyro, filename):
     plt.show()
 
 
-def parse_data():
-    filename = sys.argv[1]
+def parse_data(filename):
 
     rssi = []
     accel = []
@@ -128,6 +127,7 @@ def kalman(rssi, dist, rssi_sig, dist_sig):
             mu, sig = update(mu, sig, rssi[i % ratio], rssi_sig)
             x.append(mu)
             # print("update: [{}, {}]".format(mu, sig))
+
         mu, sig = predict(mu, sig, dist[i], dist_sig)
         # print("predict: [{}, {}]".format(mu, sig))
         if mu < 0:
@@ -219,6 +219,8 @@ def accelToDist(accel, away):
     else:
         plane = define_plane(dist)
 
+    print(plane)
+
     projections = []
     previous_percentage = 0
     for d in dist:
@@ -232,23 +234,41 @@ def accelToDist(accel, away):
             projections.append(new_movement_percent * -0.6096)  # -0.1
 
         previous_percentage = percentage_moved_total
-    print(sum(projections))
     return projections
 
 
 def main():
-    rssi, accel, mag, gyro = parse_data()
-    print(rssi, stat.median(rssi[-3:]))
-    if stat.median(rssi[-3:]) <= rssi[0]:
-        dist = accelToDist(accel, True)
-    else:
-        dist = accelToDist(accel, False)
+    touch = 0
+    total = 0
+    for i in range(1, 11):
+        try:
+            filename = "data_motions/" + str(i) + "_single_may5"
+            # filename = "data_motions/notouch_face_single_" + str(i)
+            # filename = "data_motions/notouch_consecutive_may5"
 
-    rssi_dist = [rssiToDist(i) for i in rssi]
-    rssi_sig = rssiToDist(-90)  # opt+clk wifi for rssi noise
-    dist_sig = .00003  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
+            rssi, accel, mag, gyro = parse_data(filename)
+            m = max(15, len(rssi))  # metric for optimized RSSI list length
+            r = len(accel) // len(rssi)
+            accel = accel[-m*r:]
+            rssi = rssi[-m:]
+            if stat.median(rssi[-3:]) <= rssi[0]:
+                dist = accelToDist(accel, True)
 
-    kalman(rssi_dist, dist, rssi_sig, dist_sig)
+            else:
+                dist = accelToDist(accel, False)
+
+            rssi_dist = [rssiToDist(i) for i in rssi]
+            rssi_sig = rssiToDist(-90)  # opt+clk wifi for rssi noise
+            dist_sig = .00003  # 126ug/sqrt(Hz)^2 * 200Hz > m/s^2 FXOS8700CQ noise
+
+            mu, sig = kalman(rssi_dist, dist, rssi_sig, dist_sig)
+            if mu < 0.2:
+                touch += 1
+            total += 1
+        except FileNotFoundError:
+            pass
+
+    print(touch, total)
 
 
 if __name__ == "__main__":
