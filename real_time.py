@@ -234,8 +234,8 @@ def accelToDist(accel, away):
 
 
 def main_kalman():
-    rssi = list(rssi_vals)
-    accel = list(accel_data)
+    rssi = list(rssi_vals.queue)
+    accel = list(accel_data.queue)
     w = max(15, len(rssi))  # metric for optimized RSSI list length
     r = len(accel) // len(rssi)
     accel = accel[-w * r:]
