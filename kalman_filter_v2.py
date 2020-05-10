@@ -98,8 +98,6 @@ def scan_rssi_vals():
                     count += 1
                     if touch:
                         last_run_touch = True
-                        num_face_touches +=1
-                        print("FACE TOUCH - Num touches: " + str(num_face_touches) + "; Total runs: " + str(count))
                     else:
                         last_run_touch = False
                     rssi_vals.get()
@@ -246,6 +244,8 @@ def accelToDist(accel, away):
 
 def main_kalman(last_face_touch):
     global last_run_touch
+    global num_face_touches
+    global count
     file = open('make_sound.txt', 'w')
     file.seek(0)
     file.write('0')
@@ -275,6 +275,8 @@ def main_kalman(last_face_touch):
         file.seek(0)
         if not last_run_touch:
             file.write('1')
+            num_face_touches +=1
+            print("FACE TOUCH - Num touches: " + str(num_face_touches) + "; Total runs: " + str(count))
         else:
             file.write('0')
         file.close()
