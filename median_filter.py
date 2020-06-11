@@ -63,7 +63,7 @@ def parse_data(filename):
 
         return rssi, accel, mag, gyro
 
-#given a file, returns all the medians with a window of l
+#given a file, returns all the medians with a window of k
 def median_filter(data_points, k):
     end_padding_length = k // 2 + 1
     beg_padding_length = k // 2
@@ -107,7 +107,6 @@ def test_median(w, threshold):
     print(str(total) + "/" + str(total_num_files))
 
 #detemine if a touch was detected using threshold filter
-#to detect a touch, all data within a window w must be above threshold
 def test_threshold(w, threshold):
     total = 0
     total_num_files = 10
