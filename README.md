@@ -1,4 +1,6 @@
-# 6.808-SavingFace
+# Hands Off: Face Touch Detection Using Signal Processing
+
+This repo holds the project code for Hands Off, a 6.808 final project, created by Alexa Jan and Joanna Cohen, in collaboration with the Saving Face project at the MIT Media Lab.
 
 Here is a breakdown of the files in this repository:
 
@@ -12,11 +14,11 @@ data_motions/: contains the data used to train the NN and test the kalman and me
 
 plots/: plots of the accelerometer and gryoscope data 
 
-kalman_filter_v2: This is the kalman filter code that was used on the raspberry pi in real time, including the code that plays the sound when a face touching motion is detected.
+kalman_filter_v2: This is the kalman filter code that was used on the raspberry pi in real time, including the code that plays the sound when a face touching motion is detected. Final project version of the code.
 
 median_filter: This file contains the median filter, which looks at the last w RSSI values and checks if the average of those values is above a threshold. This also contains a method that determines if there is a face touch just by checking if an RSSI value is above a threshold. This code works offline, but can be easily changed to work in real time similarly to the kalman filter. 
 
-realtime_kalman: This is the code for the kalman filter that allowed it to work in real time by only using the past 15 RSSI values and associated accelerometer values. This file has an issue where, when a face touch was detected, it would alert of a face touch for multiple iterations. That issue was solved in kalman_filter_v2.
+realtime_kalman: This is the code for the kalman filter that allowed it to work in real time by only using the past 15 RSSI values and associated accelerometer values. This file has an issue where, when a face touch was detected, it would alert of a face touch for multiple iterations. That issue was solved in kalman_filter_v2. (deprecated)
 
 sensor_fusion: kalman filter not in real time - used to test the accuracy of the kalman filter using the data in data_motions/
 
